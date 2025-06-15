@@ -1396,11 +1396,11 @@ translate english strings:
 
     # game/script_dlc.rpy:4723
     old "{size=-5}[enemy1_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Torso Armor: {color=#8B0000}[enemy1_armor]{/color}       {color=#A9A9A9}Neck armor: [enemy1_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [enemy1_armor_cover]        Neck cover: [enemy1_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [enemy1_limbs_armor]        Limbs cover: [enemy1_limbs_cover]"
-    new "{size=-5}[enemy1_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: {color=#8B0000}[enemy1_armor]{/color}       {color=#A9A9A9}颈部护甲: [enemy1_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy1_armor_cover]        颈部覆盖: [enemy1_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy1_limbs_armor]        肢体覆盖: [enemy1_limbs_cover]"
+    new "{size=-7}[enemy1_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: {color=#8B0000}[enemy1_armor]{/color}       {color=#A9A9A9}颈部护甲: [enemy1_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy1_armor_cover]        颈部覆盖: [enemy1_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy1_limbs_armor]        肢体覆盖: [enemy1_limbs_cover]"
 
     # game/script_dlc.rpy:4726
     old "{size=-5}[enemy1_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Torso Armor: [enemy1_armor]       Neck armor: [enemy1_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [enemy1_armor_cover]        Neck cover: [enemy1_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [enemy1_limbs_armor]        Limbs cover: [enemy1_limbs_cover]"
-    new "{size=-5}[enemy1_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [enemy1_armor]       颈部护甲: [enemy1_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy1_armor_cover]        颈部覆盖: [enemy1_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy1_limbs_armor]        肢体覆盖: [enemy1_limbs_cover]"
+    new "{size=-7}[enemy1_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [enemy1_armor]       颈部护甲: [enemy1_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy1_armor_cover]        颈部覆盖: [enemy1_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy1_limbs_armor]        肢体覆盖: [enemy1_limbs_cover]"
 
     # game/script_dlc.rpy:4907
     old "{size=-5}Drunk!{vspace=3}{size=-2}{color=#A9A9A9}    Vitality increased by [enemy1_vitality_temporary_bonus].{vspace=3}    Strength, Agility and Coordination lowered by [enemy1_drunk_stat_debuff]."
@@ -1408,11 +1408,11 @@ translate english strings:
 
     # game/script_dlc.rpy:5431
     old "{size=-5}[enemy2_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Torso Armor: {color=#8B0000}[enemy2_armor]{/color}       {color=#A9A9A9}Neck armor: [enemy2_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [enemy2_armor_cover]        Neck cover: [enemy2_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [enemy2_limbs_armor]        Limbs cover: [enemy2_limbs_cover]"
-    new "{size=-5}[enemy2_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: {color=#8B0000}[enemy2_armor]{/color}       {color=#A9A9A9}颈部护甲: [enemy2_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy2_armor_cover]        颈部覆盖: [enemy2_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy2_limbs_armor]        肢体覆盖: [enemy2_limbs_cover]"
+    new "{size=-7}[enemy2_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: {color=#8B0000}[enemy2_armor]{/color}       {color=#A9A9A9}颈部护甲: [enemy2_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy2_armor_cover]        颈部覆盖: [enemy2_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy2_limbs_armor]        肢体覆盖: [enemy2_limbs_cover]"
 
     # game/script_dlc.rpy:5434
     old "{size=-5}[enemy2_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Torso Armor: [enemy2_armor]       Neck armor: [enemy2_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [enemy2_armor_cover]        Neck cover: [enemy2_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [enemy2_limbs_armor]        Limbs cover: [enemy2_limbs_cover]"
-    new "{size=-5}[enemy2_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [enemy2_armor]       颈部护甲: [enemy2_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy2_armor_cover]        颈部覆盖: [enemy2_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy2_limbs_armor]        肢体覆盖: [enemy2_limbs_cover]"
+    new "{size=-7}[enemy2_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [enemy2_armor]       颈部护甲: [enemy2_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [enemy2_armor_cover]        颈部覆盖: [enemy2_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [enemy2_limbs_armor]        肢体覆盖: [enemy2_limbs_cover]"
 
     # game/script_dlc.rpy:5616
     old "{size=-5}Drunk!{vspace=3}{size=-2}{color=#A9A9A9}    Vitality increased by [enemy2_vitality_temporary_bonus].{vspace=3}    Strength, Agility and Coordination lowered by [enemy2_drunk_stat_debuff]."
@@ -1448,27 +1448,27 @@ translate english strings:
 
     # game/script_dlc.rpy:6153
     old "{size=-5}[ally_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Amount of daggers: [ally_knife_number]"
-    new "{size=-5}[ally_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [ally_knife_number]"
+    new "{size=-7}[ally_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [ally_knife_number]"
 
     # game/script_dlc.rpy:6156
     old "{size=-5}[ally_item_name_official!t]"
-    new "{size=-5}[ally_item_name_official!t]"
+    new "{size=-7}[ally_item_name_official!t]"
 
     # game/script_dlc.rpy:6163
     old "{size=-5}[ally_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Neck armor: [ally_neck_armor]         Neck cover: [ally_neck_cover]"
-    new "{size=-5}[ally_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [ally_neck_armor]         颈部覆盖: [ally_neck_cover]"
+    new "{size=-7}[ally_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [ally_neck_armor]         颈部覆盖: [ally_neck_cover]"
 
     # game/script_dlc.rpy:6166
     old "{size=-5}[ally_trinket_name_official!t]"
-    new "{size=-5}[ally_trinket_name_official!t]"
+    new "{size=-7}[ally_trinket_name_official!t]"
 
     # game/script_dlc.rpy:6172
     old "{size=-5}[ally_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Torso armor: [ally_armor]        Neck armor: [ally_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [ally_armor_cover]        Neck cover: [ally_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [ally_limbs_armor_combined]        Limbs cover: [ally_limbs_cover_combined]"
-    new "{size=-5}[ally_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [ally_armor]        颈部护甲: [ally_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [ally_armor_cover]        颈部覆盖: [ally_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [ally_limbs_armor_combined]        肢体覆盖: [ally_limbs_cover_combined]"
+    new "{size=-7}[ally_armor_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [ally_armor]        颈部护甲: [ally_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [ally_armor_cover]        颈部覆盖: [ally_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [ally_limbs_armor_combined]        肢体覆盖: [ally_limbs_cover_combined]"
 
     # game/script_dlc.rpy:6205
     old "{size=-5}[ally_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [ally_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts]"
-    new "{size=-5}[ally_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [ally_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
+    new "{size=-7}[ally_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [ally_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
 
     # game/script_dlc.rpy:6278
     old "{size=-5}Broken leg and hurt arm!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[ally_broken_leg]{color=#A9A9A9}.{vspace=3}    Weapon skill lowered by {color=#8B0000}[ally_arm_muscles_cut]{color=#A9A9A9}."
@@ -2235,31 +2235,31 @@ translate english strings:
 
     # game/script_dlc.rpy:52766
     old "{size=-5}Weapons"
-    new "{size=-5}武器"
+    new "{size=-7}武器"
 
     # game/script_dlc.rpy:52768
     old "{size=-5}Armor"
-    new "{size=-5}护甲"
+    new "{size=-7}护甲"
 
     # game/script_dlc.rpy:52770
     old "{size=-5}Shields"
-    new "{size=-5}盾牌"
+    new "{size=-7}盾牌"
 
     # game/script_dlc.rpy:52772
     old "{size=-5}Trinkets"
-    new "{size=-5}饰品"
+    new "{size=-7}饰品"
 
     # game/script_dlc.rpy:52774
     old "{size=-5}Ranged"
-    new "{size=-5}远程"
+    new "{size=-7}远程"
 
     # game/script_dlc.rpy:52776
     old "{size=-5}Pouches"
-    new "{size=-5}腰包"
+    new "{size=-7}腰包"
 
     # game/script_dlc.rpy:52778
     old "{size=-5}Consum."
-    new "{size=-5}消耗品"
+    new "{size=-7}消耗品"
 
     # game/script_dlc.rpy:53164
     old "Inventory {size=-7}{color=#A9A9A9}([player_inventory_space]/5)"
@@ -28988,43 +28988,43 @@ translate english strings:
 
     # game/script_dlc.rpy:7881
     old "{size=-5}[enemy1_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Limbs armor: [enemy1_limbs_armor]         Limbs cover: [enemy1_limbs_cover]"
-    new "{size=-5}[enemy1_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    肢体护甲：[enemy1_limbs_armor]         肢体覆盖率：[enemy1_limbs_cover]"
+    new "{size=-7}[enemy1_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    肢体护甲：[enemy1_limbs_armor]         肢体覆盖率：[enemy1_limbs_cover]"
 
     # game/script_dlc.rpy:8052
     old "{size=-5}Severely Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_enemy1]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy1]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
+    new "{size=-7}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy1]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:8055
     old "{size=-5}Нeavily Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_enemy1]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy1]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
+    new "{size=-7}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy1]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:8058
     old "{size=-5}Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_enemy1]{/color}{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy1]{/color}{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
+    new "{size=-7}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy1]{/color}{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:8066
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [enemy1_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[enemy1_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[enemy1_blinded]"
 
     # game/script_dlc.rpy:8628
     old "{size=-5}[enemy2_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Limbs armor: [enemy2_limbs_armor]         Limbs cover: [enemy2_limbs_cover]"
-    new "{size=-5}[enemy2_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    肢体护甲：[enemy2_limbs_armor]         肢体覆盖率：[enemy2_limbs_cover]"
+    new "{size=-7}[enemy2_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    肢体护甲：[enemy2_limbs_armor]         肢体覆盖率：[enemy2_limbs_cover]"
 
     # game/script_dlc.rpy:8797
     old "{size=-5}Severely Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
+    new "{size=-7}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:8800
     old "{size=-5}Нeavily Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
+    new "{size=-7}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:8803
     old "{size=-5}Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
+    new "{size=-7}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_enemy2]{/color}.{vspace=3}    受到伤害增加 [toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:8811
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [enemy2_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[enemy2_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[enemy2_blinded]"
 
     # game/script_dlc.rpy:8846
     old "[weapon_type], [crossbow_reload_cost]"
@@ -29032,7 +29032,7 @@ translate english strings:
 
     # game/script_dlc.rpy:8854
     old "{size=-5}Retreat"
-    new "{size=-5}撤退"
+    new "{size=-7}撤退"
 
     # game/script_dlc.rpy:8866
     old "{color=#000000}[player_squad_active_members]/[player_squad_enabled]"
@@ -29156,19 +29156,19 @@ translate english strings:
 
     # game/script_dlc.rpy:9768
     old "{size=-5}Severely Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_ally]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加{color=#008000}[injury_debuff_visual_ally]{/color}。{vspace=3}    承受伤害增加[toxicity_bonus_damage_visual]。"
+    new "{size=-7}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加{color=#008000}[injury_debuff_visual_ally]{/color}。{vspace=3}    承受伤害增加[toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:9771
     old "{size=-5}Нeavily Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_ally]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加{color=#008000}[injury_debuff_visual_ally]{/color}。{vspace=3}    承受伤害增加[toxicity_bonus_damage_visual]。"
+    new "{size=-7}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加{color=#008000}[injury_debuff_visual_ally]{/color}。{vspace=3}    承受伤害增加[toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:9774
     old "{size=-5}Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_ally]{/color}.{vspace=3}    Incoming damage increased by [toxicity_bonus_damage_visual]."
-    new "{size=-5}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加{color=#008000}[injury_debuff_visual_ally]{/color}。{vspace=3}    承受伤害增加[toxicity_bonus_damage_visual]。"
+    new "{size=-7}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加{color=#008000}[injury_debuff_visual_ally]{/color}。{vspace=3}    承受伤害增加[toxicity_bonus_damage_visual]。"
 
     # game/script_dlc.rpy:9782
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [ally_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率下降。{vspace=3}    闪避几率下降。{vspace=3}    持续时间：[ally_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率下降。{vspace=3}    闪避几率下降。{vspace=3}    持续时间：[ally_blinded]"
 
     # game/script_dlc.rpy:12208
     old "Оглушить его дубинкой."
@@ -29352,11 +29352,11 @@ translate english strings:
 
     # game/script_dlc.rpy:22070
     old "{size=-5}Continue journey"
-    new "{size=-5}继续旅程"
+    new "{size=-7}继续旅程"
 
     # game/script_dlc.rpy:22099
     old "{size=-5}Return to Damietta"
-    new "{size=-5}返回达米埃塔"
+    new "{size=-7}返回达米埃塔"
 
     # game/script_dlc.rpy:22116
     old "Выпить воды {color=#A9A9A9}(фляга)"
@@ -29928,7 +29928,7 @@ translate english strings:
 
     # game/script_dlc.rpy:43712
     old "{size=-5}No necessary items!"
-    new "{size=-5}没有所需物品！"
+    new "{size=-7}没有所需物品！"
 
     # game/script_dlc.rpy:43827
     old "По поводу контракта"
@@ -30280,11 +30280,11 @@ translate english strings:
 
     # game/script_dlc.rpy:51191
     old "Amulets {size=-5}(No Copyright Audio Library)"
-    new "护身符 {size=-5}(无版权音频库)"
+    new "护身符 {size=-7}(无版权音频库)"
 
     # game/script_dlc.rpy:51201
     old "Dan Taveras {size=-5}('The One Who Watches' track)"
-    new "丹·塔维拉斯 {size=-5}(《守望者》曲目)"
+    new "丹·塔维拉斯 {size=-7}(《守望者》曲目)"
 
     # game/script_dlc.rpy:51369
     old "1LOVE"
@@ -30336,11 +30336,11 @@ translate english strings:
 
     # game/script_dlc.rpy:53411
     old "{size=-5}Convert"
-    new "{size=-5}转换"
+    new "{size=-7}转换"
 
     # game/script_dlc.rpy:53416
     old "{size=-5}{i}Florins: {color=#A9A9A9}[player_gold_roguelike]"
-    new "{size=-5}{i}弗罗林: {color=#A9A9A9}[player_gold_roguelike]"
+    new "{size=-7}{i}弗罗林: {color=#A9A9A9}[player_gold_roguelike]"
 
     # game/script_dlc.rpy:53538
     old "{size=-7}Unlocks at{vspace=5}level 20!"
@@ -30476,7 +30476,7 @@ translate english strings:
 
     # game/script_dlc.rpy:55776
     old "{size=-5}Нeist in progress!"
-    new "{size=-5}劫案进行中!"
+    new "{size=-7}劫案进行中!"
 
     # game/script_dlc.rpy:55777
     old "{size=-7}{i}Wait time: [thieves_guild_time_visual]"
@@ -30492,7 +30492,7 @@ translate english strings:
 
     # game/script_dlc.rpy:55836
     old "{size=-5}Reset code"
-    new "{size=-5}重置代码"
+    new "{size=-7}重置代码"
 
     # game/script_dlc.rpy:55855
     old "Enter the code:"
@@ -30793,31 +30793,31 @@ translate english strings:
 
     # game/script_dlc.rpy:7920
     old "{size=-5}[enemy1_shield_official_name!t]{vspace=3}{size=-2}{color=#A9A9A9}    Type: One-handed sword{vspace=3}    Length: [mercenarys_companion.wpn_length]{vspace=3}    Damage: [mercenarys_companion.weapon_damage]"
-    new "{size=-5}[enemy1_shield_official_name!t]{vspace=3}{size=-2}{color=#A9A9A9}    类型：单手剑{vspace=3}    长度：[mercenarys_companion.wpn_length]{vspace=3}    伤害：[mercenarys_companion.weapon_damage]"
+    new "{size=-7}[enemy1_shield_official_name!t]{vspace=3}{size=-2}{color=#A9A9A9}    类型：单手剑{vspace=3}    长度：[mercenarys_companion.wpn_length]{vspace=3}    伤害：[mercenarys_companion.weapon_damage]"
 
     # game/script_dlc.rpy:7939
     old "{size=-5}Bottomless Pouch"
-    new "{size=-5}无底袋"
+    new "{size=-7}无底袋"
 
     # game/script_dlc.rpy:7942
     old "{size=-5}[occult_pendant_bleed.name!ti]"
-    new "{size=-5}[occult_pendant_bleed.name!ti]"
+    new "{size=-7}[occult_pendant_bleed.name!ti]"
 
     # game/script_dlc.rpy:7945
     old "{size=-5}[knights_chain.name!ti]"
-    new "{size=-5}[knights_chain.name!ti]"
+    new "{size=-7}[knights_chain.name!ti]"
 
     # game/script_dlc.rpy:7950
     old "{size=-5}[enemy1_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [enemy1_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts!ti]"
-    new "{size=-5}[enemy1_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能：[enemy1_crossbow_skill]{vspace=3}    箭矢数量：[number_of_bolts!ti]"
+    new "{size=-7}[enemy1_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能：[enemy1_crossbow_skill]{vspace=3}    箭矢数量：[number_of_bolts!ti]"
 
     # game/script_dlc.rpy:8698
     old "{size=-5}[enemy2_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [enemy2_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts!ti]"
-    new "{size=-5}[enemy2_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能：[enemy2_crossbow_skill]{vspace=3}    箭矢数量：[number_of_bolts!ti]"
+    new "{size=-7}[enemy2_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能：[enemy2_crossbow_skill]{vspace=3}    箭矢数量：[number_of_bolts!ti]"
 
     # game/script_dlc.rpy:9674
     old "{size=-5}[ally_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [ally_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts!ti]"
-    new "{size=-5}[ally_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能：[ally_crossbow_skill]{vspace=3}    箭矢数量：[number_of_bolts!ti]"
+    new "{size=-7}[ally_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能：[ally_crossbow_skill]{vspace=3}    箭矢数量：[number_of_bolts!ti]"
 
     # game/script_dlc.rpy:28792
     old "{color=#A9A9A9}Количество собранных ополченцев: [windsor_militiamen_gathered]; всего людей потеряно: [windsor_total_men_lost]{vspace=5}Состояние обороны мятежников: [enemy_forces_windsor]/50{vspace=5}Проработанность плана штурма: [windsor_plan_quality]/10"
@@ -30917,11 +30917,11 @@ translate english strings:
 
     # game/script_dlc.rpy:51167
     old "{size=-5}Campaign "
-    new "{size=-5}Campaign "
+    new "{size=-7}Campaign "
 
     # game/script_dlc.rpy:51169
     old "{size=-5}Survival "
-    new "{size=-5}生存模式"
+    new "{size=-7}生存模式"
 
     # game/script_dlc.rpy:51174
     old "{size=+10}Top scores: Campaign"
@@ -31709,7 +31709,7 @@ translate english strings:
 
     # game/script_dlc.rpy:45768
     old "{size=-5}Next {size=-5}([tutorial_page_current]/[tutorial_pages_total])"
-    new "{size=-5}下一页 {size=-5}([tutorial_page_current]/[tutorial_pages_total])"
+    new "{size=-7}下一页 {size=-7}([tutorial_page_current]/[tutorial_pages_total])"
 
     # game/script_dlc.rpy:52400
     old "meatball4u"
@@ -32108,7 +32108,7 @@ translate english strings:
 
     # game/script_dlc.rpy:54303
     old "{size=-5}[player_talent_points]"
-    new "{size=-5}[player_talent_points]"
+    new "{size=-7}[player_talent_points]"
 
     # game/script_dlc.rpy:54867
     old "{size=-7}Unlocks at{vspace=5}level 70!"
@@ -32635,15 +32635,15 @@ translate english strings:
 
     # game/script_dlc.rpy:7970
     old "{size=-5}[plate_sabatons.name!ti]"
-    new "{size=-5}[plate_sabatons.name!ti]"
+    new "{size=-7}[plate_sabatons.name!ti]"
 
     # game/script_dlc.rpy:7976
     old "{size=-5}[lepers_mask.name!ti]"
-    new "{size=-5}[lepers_mask.name!ti]"
+    new "{size=-7}[lepers_mask.name!ti]"
 
     # game/script_dlc.rpy:7979
     old "{size=-5}[knights_bracer.name!ti]"
-    new "{size=-5}[knights_bracer.name!ti]"
+    new "{size=-7}[knights_bracer.name!ti]"
 
     # game/script_dlc.rpy:56550
     old "{size=-7}Unlocks at{vspace=5}level 350!"
@@ -33183,19 +33183,19 @@ translate english strings:
 
     # game/script_dlc.rpy:7984
     old "{size=-5}Small Golden Cross"
-    new "{size=-5}小型黄金十字架"
+    new "{size=-7}小型黄金十字架"
 
     # game/script_dlc.rpy:7987
     old "{size=-5}Shieldmaster Ring"
-    new "{size=-5}盾卫指环"
+    new "{size=-7}盾卫指环"
 
     # game/script_dlc.rpy:7990
     old "{size=-5}Skull Ring"
-    new "{size=-5}颅骨戒指"
+    new "{size=-7}颅骨戒指"
 
     # game/script_dlc.rpy:7993
     old "{size=-5}Tainted Chalice"
-    new "{size=-5}污浊圣杯"
+    new "{size=-7}污浊圣杯"
 
     # game/script_dlc.rpy:25779
     old "Жениться на Еве"
@@ -33246,7 +33246,7 @@ translate english strings:
 
     # game/script_dlc.rpy:7990
     old "{size=-5}Leather gloves"
-    new "{size=-5}皮手套"
+    new "{size=-7}皮手套"
 # TODO: Translation updated at 2024-01-16 14:18
 
 # game/script_dlc.rpy:15775
@@ -33367,7 +33367,7 @@ translate english strings:
 
     # game/script_dlc.rpy:56127
     old "{size=-5}All to max"
-    new "{size=-5}全部最大化"
+    new "{size=-7}全部最大化"
 
     # game/script_dlc.rpy:60678
     old "{size=-3}Enter"
@@ -33375,7 +33375,7 @@ translate english strings:
 
     # game/script_dlc.rpy:60687
     old "{size=-5}Enable community-made characters"
-    new "{size=-5}启用社区制作角色"
+    new "{size=-7}启用社区制作角色"
 # TODO: Translation updated at 2024-01-21 22:59
 
 # game/script_dlc.rpy:17603
@@ -34373,11 +34373,11 @@ translate english strings:
 
     # game/script_dlc.rpy:8068
     old "{size=-5}[elegant_stiletto.name!ti]"
-    new "{size=-5}[elegant_stiletto.name!ti]"
+    new "{size=-7}[elegant_stiletto.name!ti]"
 
     # game/script_dlc.rpy:8089
     old "{size=-5}Golden Spurs"
-    new "{size=-5}黄金马刺"
+    new "{size=-7}黄金马刺"
 
     # game/script_dlc.rpy:9034
     old "Нeat"
@@ -34528,11 +34528,11 @@ translate english strings:
 
     # game/script_dlc.rpy:8153
     old "{size=-5}Damaged eye!{vspace=3}{size=-2}{color=#A9A9A9}    Accuracy, evasion decreased by {color=#8B0000}[enemy1_damaged_eye]{color=#A9A9A9}."
-    new "{size=-5}眼部受伤!{vspace=3}{size=-2}{color=#A9A9A9}    命中率,闪避率降低{color=#8B0000}[enemy1_damaged_eye]{color=#A9A9A9}."
+    new "{size=-7}眼部受伤!{vspace=3}{size=-2}{color=#A9A9A9}    命中率,闪避率降低{color=#8B0000}[enemy1_damaged_eye]{color=#A9A9A9}."
 
     # game/script_dlc.rpy:8903
     old "{size=-5}Damaged eye!{vspace=3}{size=-2}{color=#A9A9A9}    Accuracy, evasion decreased by {color=#8B0000}[enemy2_damaged_eye]{color=#A9A9A9}."
-    new "{size=-5}眼部受伤!{vspace=3}{size=-2}{color=#A9A9A9}    命中率,闪避率降低{color=#8B0000}[enemy2_damaged_eye]{color=#A9A9A9}."
+    new "{size=-7}眼部受伤!{vspace=3}{size=-2}{color=#A9A9A9}    命中率,闪避率降低{color=#8B0000}[enemy2_damaged_eye]{color=#A9A9A9}."
 
     # game/script_dlc.rpy:9338
     old "{size=-9}{color=#A9A9A9}reduced by [ally_damaged_eye]!"
@@ -34922,7 +34922,7 @@ translate english strings:
 
     # game/script_dlc.rpy:57768
     old "{size=-5}Weapon talents"
-    new "{size=-5}武器天赋"
+    new "{size=-7}武器天赋"
 
     # game/script_dlc.rpy:57770
     old "{size=-7}{color=#A9A9A9}Weapon talent points allow you to{vspace=5}unlock unique bonuses for various{vspace=5}weapon types."
@@ -34930,7 +34930,7 @@ translate english strings:
 
     # game/script_dlc.rpy:57791
     old "{size=-5}Civic talents"
-    new "{size=-5}生活天赋"
+    new "{size=-7}生活天赋"
 
     # game/script_dlc.rpy:57793
     old "{size=-7}{color=#A9A9A9}Civic talent points allow you to{vspace=5}unlock passive abilities that give{vspace=5}the character various out-of-battle{vspace=5}bonuses."
@@ -34938,7 +34938,7 @@ translate english strings:
 
     # game/script_dlc.rpy:57794
     old "{size=-5}[player_civil_talents_upgrade_points]"
-    new "{size=-5}[player_civil_talents_upgrade_points]"
+    new "{size=-7}[player_civil_talents_upgrade_points]"
 # TODO: Translation updated at 2024-06-17 22:24
 
 # game/script_dlc.rpy:48990
@@ -35023,11 +35023,11 @@ translate english strings:
 
     # game/script_dlc.rpy:54873
     old "{size=-5}by 1917 Studios"
-    new "{size=-5}由1917工作室制作"
+    new "{size=-7}由1917工作室制作"
 
     # game/script_dlc.rpy:55058
     old "{size=-5}Licensed under Creative Commons BY Attribution 4.0 License{vspace=5}https://creativecommons.org/licenses/by/4.0/"
-    new "{size=-5}基于知识共享署名4.0许可协议授权{vspace=5}https://creativecommons.org/licenses/by/4.0/"
+    new "{size=-7}基于知识共享署名4.0许可协议授权{vspace=5}https://creativecommons.org/licenses/by/4.0/"
 
     # game/script_dlc.rpy:55108
     old "{size=+5}Original soundtrack composed by"
@@ -39694,7 +39694,7 @@ translate english strings:
 
     # game/script_dlc.rpy:9014
     old "{size=-5}[enemy2_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    Archery skill: [enemy2_crossbow_skill]{vspace=3}    Amount of arrows: [number_of_bolts!ti]"
-    new "{size=-5}[enemy2_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    箭术技能: [enemy2_crossbow_skill]{vspace=3}    箭矢数量: [number_of_bolts!ti]"
+    new "{size=-7}[enemy2_crossbow_official_name]{vspace=3}{size=-2}{color=#A9A9A9}    箭术技能: [enemy2_crossbow_skill]{vspace=3}    箭矢数量: [number_of_bolts!ti]"
 
 # TODO: Translation updated at 2024-12-18 18:44
 
@@ -40132,7 +40132,7 @@ translate english strings:
 
     # game/script_dlc.rpy:8191
     old "{size=-5}Chainmail gorget"
-    new "{size=-5}锁子甲护喉"
+    new "{size=-7}锁子甲护喉"
 
     # game/script_dlc.rpy:65657
     old "Заплатить деньги (3000 флоринов)"
@@ -40323,15 +40323,15 @@ translate english strings:
 
     # game/script_dlc.rpy:8230
     old "{size=-5}[enemy1_scabbard_name]"
-    new "{size=-5}[enemy1_scabbard_name]"
+    new "{size=-7}[enemy1_scabbard_name]"
 
     # game/script_dlc.rpy:8233
     old "{size=-5}[enemy1_scabbard_name]{vspace=3}{size=-2}{color=#A9A9A9}    [enemy1_secondary_weapon_name]"
-    new "{size=-5}[enemy1_scabbard_name]{vspace=3}{size=-2}{color=#A9A9A9} [enemy1_secondary_weapon_name]"
+    new "{size=-7}[enemy1_scabbard_name]{vspace=3}{size=-2}{color=#A9A9A9} [enemy1_secondary_weapon_name]"
 
     # game/script_dlc.rpy:8372
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [enemy1_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击精度降低。{vspace=3}    闪避几率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[enemy1_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击精度降低。{vspace=3}    闪避几率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[enemy1_blinded]"
 
 # TODO: Translation updated at 2025-05-27 17:48
 

@@ -11918,19 +11918,19 @@ translate english strings:
 
     # game/script_dlc_2.rpy:1408
     old "{size=-5}Вы проводите день работая на{vspace=5}пристани и разгружая грузы с{vspace=5}прибывающих торговых кораблей.{vspace=5}{color=#A9A9A9}Сила — успех!{/color}{vspace=5}Начальник доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 15 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你在{vspace=1}码头工作了一整天，{vspace=1}从商船卸货。{vspace=1}{color=#A9A9A9}力量检定通过！{/color}{vspace=5}老板对你的工作{vspace=1}很满意！{vspace=1}{color=#A9A9A9}获得15弗罗林。{vspace=1}耗时：1。"
+    new "{size=-7}你在{vspace=1}码头工作了一整天，{vspace=1}从商船卸货。{vspace=1}{color=#A9A9A9}力量检定通过！{/color}{vspace=5}老板对你的工作{vspace=1}很满意！{vspace=1}{color=#A9A9A9}获得15弗罗林。{vspace=1}耗时：1。"
 
     # game/script_dlc_2.rpy:1410
     old "{size=-5}Вы проводите день работая на{vspace=5}пристани и разгружая грузы с{vspace=5}прибывающих торговых кораблей.{vspace=5}{color=#A9A9A9}Сила — провал!{/color}{vspace=5}Начальник не доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 7 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你在{vspace=1}码头工作了一整天，{vspace=1}从商船卸货。{vspace=1}{color=#A9A9A9}力量检定失败！{/color}{vspace=5}老板对你的工作{vspace=1}不满意！{vspace=1}{color=#A9A9A9}获得7弗罗林。{vspace=1}耗时：1。"
+    new "{size=-7}你在{vspace=1}码头工作了一整天，{vspace=1}从商船卸货。{vspace=1}{color=#A9A9A9}力量检定失败！{/color}{vspace=5}老板对你的工作{vspace=1}不满意！{vspace=1}{color=#A9A9A9}获得7弗罗林。{vspace=1}耗时：1。"
 
     # game/script_dlc_2.rpy:1412
     old "{size=-5}Вы проводите день, работая в поле{vspace=5}и батрача на местных фермеров.{vspace=5}{color=#A9A9A9}Выносливость — успех!{/color}{vspace=5}Начальник доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 15 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你在{vspace=5}田间为当地农民{vspace=5}当了一天雇工。{color=#A9A9A9}{/color}耐力检定通过！{vspace=5}{vspace=5}老板对你的{vspace=5}工作很满意！{color=#A9A9A9}{vspace=5}获得15弗罗林。__RP10__耗时：1。"
+    new "{size=-7}你在{vspace=5}田间为当地农民{vspace=5}当了一天雇工。{color=#A9A9A9}{/color}耐力检定通过！{vspace=5}{vspace=5}老板对你的{vspace=5}工作很满意！{color=#A9A9A9}{vspace=5}获得15弗罗林。__RP10__耗时：1。"
 
     # game/script_dlc_2.rpy:1414
     old "{size=-5}Вы проводите день, работая в поле{vspace=5}и батрача на местных фермеров.{vspace=5}{color=#A9A9A9}Выносливость — провал!{/color}{vspace=5}Начальник не доволен вашей{vspace=5}работой!{vspace=5}{color=#A9A9A9}Получено 7 флоринов.{vspace=5}Время потеряно: 1."
-    new "{size=-5}你作为农工为当地农民{vspace=5}在田间劳作了一天。{vspace=5}{color=#A9A9A9}耐力检定失败！{/color}{vspace=5}老板对你的工作{vspace=5}不满意！{vspace=5}{color=#A9A9A9}获得7弗罗林。{vspace=5}损失时间：1。"
+    new "{size=-7}你作为农工为当地农民{vspace=5}在田间劳作了一天。{vspace=5}{color=#A9A9A9}耐力检定失败！{/color}{vspace=5}老板对你的工作{vspace=5}不满意！{vspace=5}{color=#A9A9A9}获得7弗罗林。{vspace=5}损失时间：1。"
 
     # game/script_dlc_2.rpy:1895
     old "{cps=50}Обустроить дома кузнечную мастерскую?{color=#A9A9A9}{vspace=5}Цена: 40 флоринов.{vspace=5}Кузнечная мастерская позволит принимать заказы на изготовление доспехов и продавать их дороже рыночной цены."

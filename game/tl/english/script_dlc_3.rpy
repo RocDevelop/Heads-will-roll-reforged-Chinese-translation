@@ -17583,11 +17583,11 @@ translate english strings:
 
     # game/script_dlc_3.rpy:19868
     old "{size=-5}Исследовать Париж"
-    new "{size=-5}探索巴黎"
+    new "{size=-7}探索巴黎"
 
     # game/script_dlc_3.rpy:19873
     old "{size=-5}Вернуться в аббатство"
-    new "{size=-5}返回修道院"
+    new "{size=-7}返回修道院"
 
     # game/script_dlc_3.rpy:19928
     old "Расспросить о заставах на въезде в город"
@@ -22749,7 +22749,7 @@ translate english strings:
 
     # game/script_dlc_3.rpy:30580
     old "{size=-5}You don't have enough money!{vspace=1}"
-    new "{size=-5}资金不足！{vspace=1}"
+    new "{size=-7}资金不足！{vspace=1}"
 
 # TODO: Translation updated at 2024-12-17 00:46
 
@@ -39584,67 +39584,67 @@ translate english strings:
 
     # game/script_dlc_3.rpy:12996
     old "{size=-5}{i}{color=#000000}London"
-    new "{size=-5}{i}{color=#000000}伦敦"
+    new "{size=-7}{i}{color=#000000}伦敦"
 
     # game/script_dlc_3.rpy:12998
     old "{size=-5}{i}{color=#000000}Greenwich"
-    new "{size=-5}{i}{color=#000000}格林尼治"
+    new "{size=-7}{i}{color=#000000}格林尼治"
 
     # game/script_dlc_3.rpy:13000
     old "{size=-5}{i}{color=#000000}Chippenham"
-    new "{size=-5}{i}{color=#000000}奇彭纳姆"
+    new "{size=-7}{i}{color=#000000}奇彭纳姆"
 
     # game/script_dlc_3.rpy:13002
     old "{size=-5}{i}{color=#000000}Windsor"
-    new "{size=-5}{i}{color=#000000}温莎"
+    new "{size=-7}{i}{color=#000000}温莎"
 
     # game/script_dlc_3.rpy:13004
     old "{size=-5}{i}{color=#000000}Нadley"
-    new "{size=-5}{i}{color=#000000}哈德利"
+    new "{size=-7}{i}{color=#000000}哈德利"
 
     # game/script_dlc_3.rpy:13007
     old "{size=-5}{i}{color=#000000}Oxford"
-    new "{size=-5}{i}{color=#000000}牛津"
+    new "{size=-7}{i}{color=#000000}牛津"
 
     # game/script_dlc_3.rpy:13009
     old "{size=-5}{i}{color=#000000}Wales"
-    new "{size=-5}{i}{color=#000000}威尔士"
+    new "{size=-7}{i}{color=#000000}威尔士"
 
     # game/script_dlc_3.rpy:13011
     old "{size=-5}{i}{color=#000000}Northwestern England"
-    new "{size=-5}{i}{color=#000000}英格兰西北部"
+    new "{size=-7}{i}{color=#000000}英格兰西北部"
 
     # game/script_dlc_3.rpy:13013
     old "{size=-5}{i}{color=#000000}Bristol"
-    new "{size=-5}{i}{color=#000000}布里斯托尔"
+    new "{size=-7}{i}{color=#000000}布里斯托尔"
 
     # game/script_dlc_3.rpy:13016
     old "{size=-5}{i}{color=#000000}Maidstone"
-    new "{size=-5}{i}{color=#000000}梅德斯通"
+    new "{size=-7}{i}{color=#000000}梅德斯通"
 
     # game/script_dlc_3.rpy:13018
     old "{size=-5}{i}{color=#000000}Dartford"
-    new "{size=-5}{i}{color=#000000}达特福德"
+    new "{size=-7}{i}{color=#000000}达特福德"
 
     # game/script_dlc_3.rpy:13020
     old "{size=-5}{i}{color=#000000}Southern England"
-    new "{size=-5}{i}{color=#000000}英格兰南部"
+    new "{size=-7}{i}{color=#000000}英格兰南部"
 
     # game/script_dlc_3.rpy:13022
     old "{size=-5}{i}{color=#000000}Southwestern England"
-    new "{size=-5}{i}{color=#000000}英格兰西南部"
+    new "{size=-7}{i}{color=#000000}英格兰西南部"
 
     # game/script_dlc_3.rpy:13025
     old "{size=-5}{i}{color=#000000}Cambridge"
-    new "{size=-5}{i}{color=#000000}剑桥"
+    new "{size=-7}{i}{color=#000000}剑桥"
 
     # game/script_dlc_3.rpy:13027
     old "{size=-5}{i}{color=#000000}Central England"
-    new "{size=-5}{i}{color=#000000}英格兰中部"
+    new "{size=-7}{i}{color=#000000}英格兰中部"
 
     # game/script_dlc_3.rpy:13029
     old "{size=-5}{i}{color=#000000}Northern Lands"
-    new "{size=-5}{i}{color=#000000}北部领地"
+    new "{size=-7}{i}{color=#000000}北部领地"
 
     # game/script_dlc_3.rpy:13037
     old "{color=#000000}Authority: [player_kingdom_authority]/100"
@@ -41865,31 +41865,31 @@ translate english strings:
 
     # game/script_dlc_3.rpy:14744
     old "{color=#000000}{size=-5}Army strength modifiers:"
-    new "{color=#000000}{size=-5}军队强度修正:"
+    new "{color=#000000}{size=-7}军队强度修正:"
 
     # game/script_dlc_3.rpy:14749
     old "{size=-5}{i}{color=#000000}Artillery ([kingdom_of_london_cannons_present_in_camp_player])"
-    new "{size=-5}{i}{color=#000000}炮兵([kingdom_of_london_cannons_present_in_camp_player])"
+    new "{size=-7}{i}{color=#000000}炮兵([kingdom_of_london_cannons_present_in_camp_player])"
 
     # game/script_dlc_3.rpy:14751
     old "{size=-5}{i}{color=#000000}Alchemical Supplies ([kingdom_of_london_alchemy_present_in_camp_player])"
-    new "{size=-5}{i}{color=#000000}炼金物资([kingdom_of_london_alchemy_present_in_camp_player])"
+    new "{size=-7}{i}{color=#000000}炼金物资([kingdom_of_london_alchemy_present_in_camp_player])"
 
     # game/script_dlc_3.rpy:14753
     old "{size=-5}{i}{color=#000000}Kingdom of London Banner"
-    new "{size=-5}{i}{color=#000000}伦敦王国旗帜"
+    new "{size=-7}{i}{color=#000000}伦敦王国旗帜"
 
     # game/script_dlc_3.rpy:14755
     old "{size=-5}{i}{color=#000000}Arrows and Bolts Stockpiles ([kingdom_of_london_arrows_present_in_camp_player])"
-    new "{size=-5}{i}{color=#000000}箭矢储备([kingdom_of_london_arrows_present_in_camp_player])"
+    new "{size=-7}{i}{color=#000000}箭矢储备([kingdom_of_london_arrows_present_in_camp_player])"
 
     # game/script_dlc_3.rpy:14757
     old "{size=-5}{i}{color=#000000}Field Medics"
-    new "{size=-5}{i}{color=#000000}战地医师"
+    new "{size=-7}{i}{color=#000000}战地医师"
 
     # game/script_dlc_3.rpy:14760
     old "{size=-5}{i}{color=#000000}None"
-    new "{size=-5}{i}{color=#000000}无"
+    new "{size=-7}{i}{color=#000000}无"
 
 # TODO: Translation updated at 2025-05-13 14:44
 

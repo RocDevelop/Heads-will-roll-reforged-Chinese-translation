@@ -434,7 +434,7 @@ translate english strings:
 
     # game/screens.rpy:1097
     old "{size=-5}{color=#A9A9A9}{vspace=10}  Нold 'Ctrl' to Skip"
-    new "{size=-5}{color=#A9A9A9}{vspace=10} 按住'Ctrl'键跳过"
+    new "{size=-7}{color=#A9A9A9}{vspace=10} 按住'Ctrl'键跳过"
 # TODO: Translation updated at 2023-06-29 19:07
 
 translate english strings:
@@ -1188,11 +1188,11 @@ translate english strings:
 
     # game/screens.rpy:1751
     old "{size=-5}{color=#A9A9A9}{vspace=10}Press 'F4' to show key binds (in battle)"
-    new "{size=-5}{color=#A9A9A9}{vspace=10}按'F4'显示按键绑定(战斗中)"
+    new "{size=-7}{color=#A9A9A9}{vspace=10}按'F4'显示按键绑定(战斗中)"
 
     # game/screens.rpy:1752
     old "{size=-5}{color=#A9A9A9}{vspace=10}Press 'Right Mouse Button' to display quick action buttons (in inventory)"
-    new "{size=-5}{color=#A9A9A9}{vspace=10}按'鼠标右键'显示快速动作按钮(物品栏中)"
+    new "{size=-7}{color=#A9A9A9}{vspace=10}按'鼠标右键'显示快速动作按钮(物品栏中)"
 # TODO: Translation updated at 2024-05-23 15:34
 
 translate english strings:
@@ -1491,7 +1491,7 @@ translate english strings:
 
     # game/screens.rpy:1623
     old "A true gambler's treasure. Current win streak: [player_lucky_dice_win_streak]{vspace=1}{size=-5}Strength: +[lucky_dice.strength]{vspace=1}Agility: +[lucky_dice.agility]{vspace=1}Coordination: +[lucky_dice.coordination]{vspace=1}Endurance: +[lucky_dice.endurance]{vspace=1}Vitality: +[lucky_dice.vitality]{vspace=1}Weapon Skill: +[lucky_dice.player_weapon_skill]{vspace=1}Evasion: +[lucky_dice.evasion]{vspace=1}Bonus damage: +[lucky_dice.bonus_damage]{vspace=1}Bonus injury chance: +[lucky_dice.injury_chance]"
-    new "赌徒的真正珍宝。当前连胜：[player_lucky_dice_win_streak]{vspace=1}{size=-5}力量：+[lucky_dice.strength]{vspace=1}敏捷：+[lucky_dice.agility]{vspace=1}协调：+[lucky_dice.coordination]{vspace=1}耐力：+[lucky_dice.endurance]{vspace=1}活力：+[lucky_dice.vitality]{vspace=1}武器技能：+[lucky_dice.player_weapon_skill]{vspace=1}闪避：+[lucky_dice.evasion]{vspace=1}额外伤害：+[lucky_dice.bonus_damage]{vspace=1}额外受伤几率：+[lucky_dice.injury_chance]"
+    new "赌徒的真正珍宝。当前连胜：[player_lucky_dice_win_streak]{vspace=1}{size=-7}力量：+[lucky_dice.strength]{vspace=1}敏捷：+[lucky_dice.agility]{vspace=1}协调：+[lucky_dice.coordination]{vspace=1}耐力：+[lucky_dice.endurance]{vspace=1}活力：+[lucky_dice.vitality]{vspace=1}武器技能：+[lucky_dice.player_weapon_skill]{vspace=1}闪避：+[lucky_dice.evasion]{vspace=1}额外伤害：+[lucky_dice.bonus_damage]{vspace=1}额外受伤几率：+[lucky_dice.injury_chance]"
 
     # game/screens.rpy:1623
     old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}L{/size}{/color}{/font}ucky dice"

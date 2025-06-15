@@ -9208,11 +9208,11 @@ translate english strings:
 
     # game/script_downfall.rpy:4355
     old "{size=-5}You spend some time{vspace=5}working at the forge.{vspace=10}{color=#A9A9A9}You earned [trait] florins!{vspace=5}{color=#A9A9A9}Craftsmanship increased by 1!"
-    new "{size=-5}你花了些时间{vspace=5}在铁匠铺工作。{vspace=10}{color=#A9A9A9}你赚了[trait]弗罗林！{vspace=5}{color=#A9A9A9}锻造技能提升1级！"
+    new "{size=-7}你花了些时间{vspace=5}在铁匠铺工作。{vspace=10}{color=#A9A9A9}你赚了[trait]弗罗林！{vspace=5}{color=#A9A9A9}锻造技能提升1级！"
 
     # game/script_downfall.rpy:4357
     old "{size=-5}You spend some time{vspace=5}working at the forge.{vspace=10}{color=#A9A9A9}You earned [trait] florins!"
-    new "{size=-5}你花了些时间{vspace=5}在铁匠铺工作。{vspace=10}{color=#A9A9A9}你赚了[trait]弗罗林！"
+    new "{size=-7}你花了些时间{vspace=5}在铁匠铺工作。{vspace=10}{color=#A9A9A9}你赚了[trait]弗罗林！"
 
     # game/script_downfall.rpy:4368
     old "Расспросить о подробностях дела"
@@ -9452,11 +9452,11 @@ translate english strings:
 
     # game/script_downfall.rpy:23065
     old "{color=#A9A9A9}{size=-5}Item #1"
-    new "{color=#A9A9A9}{size=-5}物品#1"
+    new "{color=#A9A9A9}{size=-7}物品#1"
 
     # game/script_downfall.rpy:23067
     old "{color=#A9A9A9}{size=-5}Item #2"
-    new "{color=#A9A9A9}{size=-5}物品#2"
+    new "{color=#A9A9A9}{size=-7}物品#2"
 
     # game/script_downfall.rpy:23069
     old "{color=#A9A9A9}Result"
@@ -9852,7 +9852,7 @@ translate english strings:
 
     # game/script_downfall.rpy:23561
     old "{size=-5}Нere you can craft custom armor and helmets by{vspace=5}combining items.{vspace=5}The results will be influenced by your Craftsmanship{vspace=5}skill.{vspace=5}Note that only some of the items are usable in{vspace=5}crafting."
-    new "{size=-5}在此你可以通过{vspace=5}组合物品{vspace=5}来制作定制护甲和头盔。{vspace=5}结果会受到你工艺技能{vspace=5}的影响。{vspace=5}注意只有部分物品可用于制作。"
+    new "{size=-7}在此你可以通过{vspace=5}组合物品{vspace=5}来制作定制护甲和头盔。{vspace=5}结果会受到你工艺技能{vspace=5}的影响。{vspace=5}注意只有部分物品可用于制作。"
 
     # game/script_downfall.rpy:23690
     old "{size=-6}{color=#5F9EA0}Repair armor"
@@ -9880,67 +9880,67 @@ translate english strings:
 
     # game/script_downfall.rpy:28795
     old "{size=-5}[player_squad_member1_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Type: [type]{vspace=3}    Length: [player_squad_member1_weapon_length]{vspace=3}    Damage: [player_squad_member1_weapon_dmg_info]"
-    new "{size=-5}[player_squad_member1_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member1_weapon_length]{vspace=3}    伤害: [player_squad_member1_weapon_dmg_info]"
+    new "{size=-7}[player_squad_member1_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member1_weapon_length]{vspace=3}    伤害: [player_squad_member1_weapon_dmg_info]"
 
     # game/script_downfall.rpy:28811
     old "{size=-5}[player_squad_member1_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Amount of daggers: [player_squad_member1_knife_number]"
-    new "{size=-5}[player_squad_member1_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member1_knife_number]"
+    new "{size=-7}[player_squad_member1_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member1_knife_number]"
 
     # game/script_downfall.rpy:28814
     old "{size=-5}[player_squad_member1_item_name_official!t]"
-    new "{size=-5}[player_squad_member1_item_name_official!t]"
+    new "{size=-7}[player_squad_member1_item_name_official!t]"
 
     # game/script_downfall.rpy:28821
     old "{size=-5}[player_squad_member1_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Neck armor: [player_squad_member1_neck_armor]         Neck cover: [player_squad_member1_neck_cover]"
-    new "{size=-5}[player_squad_member1_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member1_neck_armor]         颈部覆盖: [player_squad_member1_neck_cover]"
+    new "{size=-7}[player_squad_member1_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member1_neck_armor]         颈部覆盖: [player_squad_member1_neck_cover]"
 
     # game/script_downfall.rpy:28824
     old "{size=-5}[player_squad_member1_trinket_name_official!t]"
-    new "{size=-5}[player_squad_member1_trinket_name_official!t]"
+    new "{size=-7}[player_squad_member1_trinket_name_official!t]"
 
     # game/script_downfall.rpy:28830
     old "{size=-5}[player_squad_member1_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Torso armor: [player_squad_member1_armor]        Neck armor: [player_squad_member1_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [player_squad_member1_armor_cover]        Neck cover: [player_squad_member1_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [player_squad_member1_limbs_armor_combined]        Limbs cover: [player_squad_member1_limbs_cover_combined]"
-    new "{size=-5}[player_squad_member1_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member1_armor]        颈部护甲: [player_squad_member1_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member1_armor_cover]        颈部覆盖: [player_squad_member1_neck_cover]{vspace=3}{color=#A9A9A9}    四肢护甲: [player_squad_member1_limbs_armor_combined]        四肢覆盖: [player_squad_member1_limbs_cover_combined]"
+    new "{size=-7}[player_squad_member1_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member1_armor]        颈部护甲: [player_squad_member1_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member1_armor_cover]        颈部覆盖: [player_squad_member1_neck_cover]{vspace=3}{color=#A9A9A9}    四肢护甲: [player_squad_member1_limbs_armor_combined]        四肢覆盖: [player_squad_member1_limbs_cover_combined]"
 
     # game/script_downfall.rpy:28838
     old "{size=-5}[player_squad_member1_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: {color=#8B0000}[player_squad_member1_helmet]     Нead cover: [player_squad_member1_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member1_neck_armor]         Neck cover: [player_squad_member1_neck_cover]"
-    new "{size=-5}[player_squad_member1_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member1_helmet]     头部覆盖: [player_squad_member1_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member1_neck_armor]         颈部覆盖: [player_squad_member1_neck_cover]"
+    new "{size=-7}[player_squad_member1_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member1_helmet]     头部覆盖: [player_squad_member1_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member1_neck_armor]         颈部覆盖: [player_squad_member1_neck_cover]"
 
     # game/script_downfall.rpy:28841
     old "{size=-5}[player_squad_member1_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: [player_squad_member1_helmet]     Нead cover: [player_squad_member1_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member1_neck_armor]         Neck cover: [player_squad_member1_neck_cover]"
-    new "{size=-5}[player_squad_member1_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member1_helmet]     头部覆盖: [player_squad_member1_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member1_neck_armor]         颈部覆盖: [player_squad_member1_neck_cover]"
+    new "{size=-7}[player_squad_member1_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member1_helmet]     头部覆盖: [player_squad_member1_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member1_neck_armor]         颈部覆盖: [player_squad_member1_neck_cover]"
 
     # game/script_downfall.rpy:28847
     old "{size=-5}[player_squad_member1_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Shield durability: [player_squad_member1_shield]/[player_squad_member1_shield_max]{/color}{vspace=3}{color=#A9A9A9}    Shield cover: [player_squad_member1_shield_cover]"
-    new "{size=-5}[player_squad_member1_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member1_shield]/[player_squad_member1_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌覆盖: [player_squad_member1_shield_cover]"
+    new "{size=-7}[player_squad_member1_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member1_shield]/[player_squad_member1_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌覆盖: [player_squad_member1_shield_cover]"
 
     # game/script_downfall.rpy:28863
     old "{size=-5}[player_squad_member1_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [player_squad_member1_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts]"
-    new "{size=-5}[player_squad_member1_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member1_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
+    new "{size=-7}[player_squad_member1_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member1_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
 
     # game/script_downfall.rpy:28877
     old "{size=-5}Нealth: [player_squad_member1_health_max]{/size}"
-    new "{size=-5}生命值: [player_squad_member1_health_max]{/size}"
+    new "{size=-7}生命值: [player_squad_member1_health_max]{/size}"
 
     # game/script_downfall.rpy:28878
     old "{size=-5}Stamina: [player_squad_member1_stamina_max]{/size}"
-    new "{size=-5}耐力: [player_squad_member1_stamina_max]{/size}"
+    new "{size=-7}耐力: [player_squad_member1_stamina_max]{/size}"
 
     # game/script_downfall.rpy:28879
     old "{size=-5}Strength: [player_squad_member1_strength]{/size}"
-    new "{size=-5}力量: [player_squad_member1_strength]{/size}"
+    new "{size=-7}力量: [player_squad_member1_strength]{/size}"
 
     # game/script_downfall.rpy:28880
     old "{size=-5}Agility: [player_squad_member1_agility]{/size}"
-    new "{size=-5}敏捷: [player_squad_member1_agility]{/size}"
+    new "{size=-7}敏捷: [player_squad_member1_agility]{/size}"
 
     # game/script_downfall.rpy:28881
     old "{size=-5}Coordination: [player_squad_member1_coordination]{/size}"
-    new "{size=-5}协调性: [player_squad_member1_coordination]{/size}"
+    new "{size=-7}协调性: [player_squad_member1_coordination]{/size}"
 
     # game/script_downfall.rpy:28882
     old "{size=-5}Weapon Skill: [player_squad_member1_weapon_skill]{/size}"
-    new "{size=-5}武器技能: [player_squad_member1_weapon_skill]{/size}"
+    new "{size=-7}武器技能: [player_squad_member1_weapon_skill]{/size}"
 
     # game/script_downfall.rpy:28883
     old "{size=-7}{color=#A9A9A9}Stamina recovery: [player_squad_member1_stamina_recovery]{/size}"
@@ -9948,159 +9948,159 @@ translate english strings:
 
     # game/script_downfall.rpy:28887
     old "{size=-5}Winded {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (Fatigue: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}气喘吁吁 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}气喘吁吁 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:28890
     old "{size=-5}Tired {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (Fatigue: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}疲倦 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}疲倦 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:28893
     old "{size=-5}On last legs {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (Fatigue: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}濒临崩溃 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}濒临崩溃 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:28899
     old "{size=-5}Fresh {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (Fatigue: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member1_fatigue_pool_displayable]/[player_squad_member1_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:28903
     old "{size=-5}Bleeding!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member1_bleed]{/color}"
-    new "{size=-5}流血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member1_bleed]{/color}"
+    new "{size=-7}流血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member1_bleed]{/color}"
 
     # game/script_downfall.rpy:28909
     old "{size=-5}Нeavy bleeding! Bloodloss!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member1_bleed]{/color}{vspace=3}{color=#A9A9A9}    Bloodloss increases character's fatigue gain and{vspace=3}    turns regular bleedings into heavy bleedings."
-    new "{size=-5}严重失血! 失血状态!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member1_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳值获取速度{vspace=3}    并将普通流血转化为严重流血"
+    new "{size=-7}严重失血! 失血状态!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member1_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳值获取速度{vspace=3}    并将普通流血转化为严重流血"
 
     # game/script_downfall.rpy:28933
     old "{size=-5}Broken leg and hurt arm!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member1_broken_leg]{color=#A9A9A9}.{vspace=3}    Weapon skill lowered by {color=#8B0000}[player_squad_member1_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}断腿和手臂受伤!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member1_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member1_arm_muscles_cut]{color=#A9A9A9}."
+    new "{size=-7}断腿和手臂受伤!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member1_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member1_arm_muscles_cut]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:28937
     old "{size=-5}Arms muscles cut!{vspace=3}{size=-2}{color=#A9A9A9}    Weapon skill lowered by {color=#8B0000}[player_squad_member1_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}手臂肌肉割伤!{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member1_arm_muscles_cut]{color=#A9A9A9}."
+    new "{size=-7}手臂肌肉割伤!{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member1_arm_muscles_cut]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:28941
     old "{size=-5}Broken leg!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member1_broken_leg]{color=#A9A9A9}."
-    new "{size=-5}断腿!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member1_broken_leg]{color=#A9A9A9}."
+    new "{size=-7}断腿!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member1_broken_leg]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:28945
     old "{size=-5}Pierced lung!{vspace=3}{size=-2}{color=#A9A9A9}    Stamina recovery lowered by {color=#8B0000}[player_squad_member1_pierced_lung]{color=#A9A9A9}."
-    new "{size=-5}肺部穿孔!{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member1_pierced_lung]{color=#A9A9A9}."
+    new "{size=-7}肺部穿孔!{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member1_pierced_lung]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:28949
     old "{size=-5}Нeavy trauma!{vspace=3}{size=-2}{color=#A9A9A9}    Maimed and concussed.{vspace=3} Strength lowered by {color=#8B0000}[player_squad_member1_maimed]{color=#A9A9A9}.{vspace=3} Coordination lowered by {color=#8B0000}[player_squad_member1_concussed]{color=#A9A9A9}."
-    new "{size=-5}严重创伤!{vspace=3}{size=-2}{color=#A9A9A9}    伤残和脑震荡.{vspace=3} 力量降低 {color=#8B0000}[player_squad_member1_maimed]{color=#A9A9A9}.{vspace=3} 协调性降低 {color=#8B0000}[player_squad_member1_concussed]{color=#A9A9A9}."
+    new "{size=-7}严重创伤!{vspace=3}{size=-2}{color=#A9A9A9}    伤残和脑震荡.{vspace=3} 力量降低 {color=#8B0000}[player_squad_member1_maimed]{color=#A9A9A9}.{vspace=3} 协调性降低 {color=#8B0000}[player_squad_member1_concussed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:28953
     old "{size=-5}Maimed!{vspace=3}{size=-2}{color=#A9A9A9}    Strength lowered by {color=#8B0000}[player_squad_member1_maimed]{color=#A9A9A9}."
-    new "{size=-5}伤残!{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member1_maimed]{color=#A9A9A9}."
+    new "{size=-7}伤残!{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member1_maimed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:28957
     old "{size=-5}Concussed!{vspace=3}{size=-2}{color=#A9A9A9}    Coordination lowered by {color=#8B0000}[player_squad_member1_concussed]{color=#A9A9A9}."
-    new "{size=-5}脑震荡!{vspace=3}{size=-2}{color=#A9A9A9}    协调性降低 {color=#8B0000}[player_squad_member1_concussed]{color=#A9A9A9}."
+    new "{size=-7}脑震荡!{vspace=3}{size=-2}{color=#A9A9A9}    协调性降低 {color=#8B0000}[player_squad_member1_concussed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:28962
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member1_poison_total]"
-    new "{size=-5}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poison_total]"
+    new "{size=-7}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poison_total]"
 
     # game/script_downfall.rpy:28971
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member1_poisoned_strong]"
-    new "{size=-5}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poisoned_strong]"
+    new "{size=-7}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poisoned_strong]"
 
     # game/script_downfall.rpy:28974
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member1_poison_total]"
-    new "{size=-5}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poison_total]"
+    new "{size=-7}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poison_total]"
 
     # game/script_downfall.rpy:28977
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member1_poisoned_medium]"
-    new "{size=-5}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poisoned_medium]"
+    new "{size=-7}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poisoned_medium]"
 
     # game/script_downfall.rpy:28980
     old "{size=-5}Poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member1_poisoned_light]"
-    new "{size=-5}中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poisoned_light]"
+    new "{size=-7}中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member1_poisoned_light]"
 
     # game/script_downfall.rpy:28985
     old "{size=-5}Severely Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
-    new "{size=-5}剧毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
+    new "{size=-7}剧毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
 
     # game/script_downfall.rpy:28988
     old "{size=-5}Нeavily Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
-    new "{size=-5}强毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
+    new "{size=-7}强毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
 
     # game/script_downfall.rpy:28991
     old "{size=-5}Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
-    new "{size=-5}毒性!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
+    new "{size=-7}毒性!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member1]{/color}."
 
     # game/script_downfall.rpy:28995
     old "{size=-5}Stunned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: [player_squad_member1_bashed]"
-    new "{size=-5}眩晕!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member1_bashed]"
+    new "{size=-7}眩晕!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member1_bashed]"
 
     # game/script_downfall.rpy:28999
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Duration: [player_squad_member1_blinded]"
-    new "{size=-5}佯攻!{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低.{vspace=3}    持续时间: [player_squad_member1_blinded]"
+    new "{size=-7}佯攻!{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低.{vspace=3}    持续时间: [player_squad_member1_blinded]"
 
     # game/script_downfall.rpy:29159
     old "{size=-5}[player_squad_member2_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Type: [type]{vspace=3}    Length: [player_squad_member2_weapon_length]{vspace=3}    Damage: [player_squad_member2_weapon_dmg_info]"
-    new "{size=-5}[player_squad_member2_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member2_weapon_length]{vspace=3}    伤害: [player_squad_member2_weapon_dmg_info]"
+    new "{size=-7}[player_squad_member2_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member2_weapon_length]{vspace=3}    伤害: [player_squad_member2_weapon_dmg_info]"
 
     # game/script_downfall.rpy:29175
     old "{size=-5}[player_squad_member2_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Amount of daggers: [player_squad_member2_knife_number]"
-    new "{size=-5}[player_squad_member2_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member2_knife_number]"
+    new "{size=-7}[player_squad_member2_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member2_knife_number]"
 
     # game/script_downfall.rpy:29178
     old "{size=-5}[player_squad_member2_item_name_official!t]"
-    new "{size=-5}[player_squad_member2_item_name_official!t]"
+    new "{size=-7}[player_squad_member2_item_name_official!t]"
 
     # game/script_downfall.rpy:29185
     old "{size=-5}[player_squad_member2_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Neck armor: [player_squad_member2_neck_armor]         Neck cover: [player_squad_member2_neck_cover]"
-    new "{size=-5}[player_squad_member2_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member2_neck_armor]         颈部覆盖: [player_squad_member2_neck_cover]"
+    new "{size=-7}[player_squad_member2_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member2_neck_armor]         颈部覆盖: [player_squad_member2_neck_cover]"
 
     # game/script_downfall.rpy:29188
     old "{size=-5}[player_squad_member2_trinket_name_official!t]"
-    new "{size=-5}[player_squad_member2_trinket_name_official!t]"
+    new "{size=-7}[player_squad_member2_trinket_name_official!t]"
 
     # game/script_downfall.rpy:29194
     old "{size=-5}[player_squad_member2_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Torso armor: [player_squad_member2_armor]        Neck armor: [player_squad_member2_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [player_squad_member2_armor_cover]        Neck cover: [player_squad_member2_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [player_squad_member2_limbs_armor_combined]        Limbs cover: [player_squad_member2_limbs_cover_combined]"
-    new "{size=-5}[player_squad_member2_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member2_armor]        颈部护甲: [player_squad_member2_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member2_armor_cover]        颈部覆盖: [player_squad_member2_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [player_squad_member2_limbs_armor_combined]        肢体覆盖: [player_squad_member2_limbs_cover_combined]"
+    new "{size=-7}[player_squad_member2_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member2_armor]        颈部护甲: [player_squad_member2_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member2_armor_cover]        颈部覆盖: [player_squad_member2_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [player_squad_member2_limbs_armor_combined]        肢体覆盖: [player_squad_member2_limbs_cover_combined]"
 
     # game/script_downfall.rpy:29202
     old "{size=-5}[player_squad_member2_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: {color=#8B0000}[player_squad_member2_helmet]     Нead cover: [player_squad_member2_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member2_neck_armor]         Neck cover: [player_squad_member2_neck_cover]"
-    new "{size=-5}[player_squad_member2_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member2_helmet]     头部覆盖: [player_squad_member2_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member2_neck_armor]         颈部覆盖: [player_squad_member2_neck_cover]"
+    new "{size=-7}[player_squad_member2_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member2_helmet]     头部覆盖: [player_squad_member2_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member2_neck_armor]         颈部覆盖: [player_squad_member2_neck_cover]"
 
     # game/script_downfall.rpy:29205
     old "{size=-5}[player_squad_member2_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: [player_squad_member2_helmet]     Нead cover: [player_squad_member2_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member2_neck_armor]         Neck cover: [player_squad_member2_neck_cover]"
-    new "{size=-5}[player_squad_member2_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member2_helmet]     头部覆盖: [player_squad_member2_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member2_neck_armor]         颈部覆盖: [player_squad_member2_neck_cover]"
+    new "{size=-7}[player_squad_member2_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member2_helmet]     头部覆盖: [player_squad_member2_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member2_neck_armor]         颈部覆盖: [player_squad_member2_neck_cover]"
 
     # game/script_downfall.rpy:29211
     old "{size=-5}[player_squad_member2_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Shield durability: [player_squad_member2_shield]/[player_squad_member2_shield_max]{/color}{vspace=3}{color=#A9A9A9}    Shield cover: [player_squad_member2_shield_cover]"
-    new "{size=-5}[player_squad_member2_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member2_shield]/[player_squad_member2_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌覆盖: [player_squad_member2_shield_cover]"
+    new "{size=-7}[player_squad_member2_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member2_shield]/[player_squad_member2_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌覆盖: [player_squad_member2_shield_cover]"
 
     # game/script_downfall.rpy:29227
     old "{size=-5}[player_squad_member2_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [player_squad_member2_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts]"
-    new "{size=-5}[player_squad_member2_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member2_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
+    new "{size=-7}[player_squad_member2_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member2_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
 
     # game/script_downfall.rpy:29241
     old "{size=-5}Нealth: [player_squad_member2_health_max]{/size}"
-    new "{size=-5}生命值: [player_squad_member2_health_max]{/size}"
+    new "{size=-7}生命值: [player_squad_member2_health_max]{/size}"
 
     # game/script_downfall.rpy:29242
     old "{size=-5}Stamina: [player_squad_member2_stamina_max]{/size}"
-    new "{size=-5}耐力: [player_squad_member2_stamina_max]{/size}"
+    new "{size=-7}耐力: [player_squad_member2_stamina_max]{/size}"
 
     # game/script_downfall.rpy:29243
     old "{size=-5}Strength: [player_squad_member2_strength]{/size}"
-    new "{size=-5}力量: [player_squad_member2_strength]{/size}"
+    new "{size=-7}力量: [player_squad_member2_strength]{/size}"
 
     # game/script_downfall.rpy:29244
     old "{size=-5}Agility: [player_squad_member2_agility]{/size}"
-    new "{size=-5}敏捷: [player_squad_member2_agility]{/size}"
+    new "{size=-7}敏捷: [player_squad_member2_agility]{/size}"
 
     # game/script_downfall.rpy:29245
     old "{size=-5}Coordination: [player_squad_member2_coordination]{/size}"
-    new "{size=-5}协调: [player_squad_member2_coordination]{/size}"
+    new "{size=-7}协调: [player_squad_member2_coordination]{/size}"
 
     # game/script_downfall.rpy:29246
     old "{size=-5}Weapon Skill: [player_squad_member2_weapon_skill]{/size}"
-    new "{size=-5}武器技能: [player_squad_member2_weapon_skill]{/size}"
+    new "{size=-7}武器技能: [player_squad_member2_weapon_skill]{/size}"
 
     # game/script_downfall.rpy:29247
     old "{size=-7}{color=#A9A9A9}Stamina recovery: [player_squad_member2_stamina_recovery]{/size}"
@@ -10108,159 +10108,159 @@ translate english strings:
 
     # game/script_downfall.rpy:29251
     old "{size=-5}Winded {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (Fatigue: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}气喘吁吁 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}气喘吁吁 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29254
     old "{size=-5}Tired {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (Fatigue: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}疲惫 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}疲惫 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29257
     old "{size=-5}On last legs {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (Fatigue: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}濒临崩溃 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}濒临崩溃 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29263
     old "{size=-5}Fresh {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (Fatigue: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member2_fatigue_pool_displayable]/[player_squad_member2_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29267
     old "{size=-5}Bleeding!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member2_bleed]{/color}"
-    new "{size=-5}流血！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member2_bleed]{/color}"
+    new "{size=-7}流血！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member2_bleed]{/color}"
 
     # game/script_downfall.rpy:29273
     old "{size=-5}Нeavy bleeding! Bloodloss!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member2_bleed]{/color}{vspace=3}{color=#A9A9A9}    Bloodloss increases character's fatigue gain and{vspace=3}    turns regular bleedings into heavy bleedings."
-    new "{size=-5}大出血！失血！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member2_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳值获取速度{vspace=3}    并将普通流血转化为大出血。"
+    new "{size=-7}大出血！失血！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member2_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳值获取速度{vspace=3}    并将普通流血转化为大出血。"
 
     # game/script_downfall.rpy:29297
     old "{size=-5}Broken leg and hurt arm!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member2_broken_leg]{color=#A9A9A9}.{vspace=3}    Weapon skill lowered by {color=#8B0000}[player_squad_member2_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}腿部骨折手臂受伤！{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member2_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member2_arm_muscles_cut]{color=#A9A9A9}."
+    new "{size=-7}腿部骨折手臂受伤！{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member2_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member2_arm_muscles_cut]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29301
     old "{size=-5}Arms muscles cut!{vspace=3}{size=-2}{color=#A9A9A9}    Weapon skill lowered by {color=#8B0000}[player_squad_member2_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}手臂肌肉撕裂！{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member2_arm_muscles_cut]{color=#A9A9A9}."
+    new "{size=-7}手臂肌肉撕裂！{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member2_arm_muscles_cut]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29305
     old "{size=-5}Broken leg!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member2_broken_leg]{color=#A9A9A9}."
-    new "{size=-5}腿部骨折！{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member2_broken_leg]{color=#A9A9A9}."
+    new "{size=-7}腿部骨折！{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member2_broken_leg]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29309
     old "{size=-5}Pierced lung!{vspace=3}{size=-2}{color=#A9A9A9}    Stamina recovery lowered by {color=#8B0000}[player_squad_member2_pierced_lung]{color=#A9A9A9}."
-    new "{size=-5}肺部穿孔！{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member2_pierced_lung]{color=#A9A9A9}."
+    new "{size=-7}肺部穿孔！{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member2_pierced_lung]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29313
     old "{size=-5}Нeavy trauma!{vspace=3}{size=-2}{color=#A9A9A9}    Maimed and concussed.{vspace=3} Strength lowered by {color=#8B0000}[player_squad_member2_maimed]{color=#A9A9A9}.{vspace=3} Coordination lowered by {color=#8B0000}[player_squad_member2_concussed]{color=#A9A9A9}."
-    new "{size=-5}严重创伤！{vspace=3}{size=-2}{color=#A9A9A9}    伤残并脑震荡.{vspace=3} 力量降低 {color=#8B0000}[player_squad_member2_maimed]{color=#A9A9A9}.{vspace=3} 协调降低 {color=#8B0000}[player_squad_member2_concussed]{color=#A9A9A9}."
+    new "{size=-7}严重创伤！{vspace=3}{size=-2}{color=#A9A9A9}    伤残并脑震荡.{vspace=3} 力量降低 {color=#8B0000}[player_squad_member2_maimed]{color=#A9A9A9}.{vspace=3} 协调降低 {color=#8B0000}[player_squad_member2_concussed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29317
     old "{size=-5}Maimed!{vspace=3}{size=-2}{color=#A9A9A9}    Strength lowered by {color=#8B0000}[player_squad_member2_maimed]{color=#A9A9A9}."
-    new "{size=-5}伤残！{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member2_maimed]{color=#A9A9A9}."
+    new "{size=-7}伤残！{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member2_maimed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29321
     old "{size=-5}Concussed!{vspace=3}{size=-2}{color=#A9A9A9}    Coordination lowered by {color=#8B0000}[player_squad_member2_concussed]{color=#A9A9A9}."
-    new "{size=-5}脑震荡！{vspace=3}{size=-2}{color=#A9A9A9}    协调降低 {color=#8B0000}[player_squad_member2_concussed]{color=#A9A9A9}."
+    new "{size=-7}脑震荡！{vspace=3}{size=-2}{color=#A9A9A9}    协调降低 {color=#8B0000}[player_squad_member2_concussed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29326
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member2_poison_total]"
-    new "{size=-5}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poison_total]"
+    new "{size=-7}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poison_total]"
 
     # game/script_downfall.rpy:29335
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member2_poisoned_strong]"
-    new "{size=-5}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poisoned_strong]"
+    new "{size=-7}严重中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poisoned_strong]"
 
     # game/script_downfall.rpy:29338
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member2_poison_total]"
-    new "{size=-5}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poison_total]"
+    new "{size=-7}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poison_total]"
 
     # game/script_downfall.rpy:29341
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member2_poisoned_medium]"
-    new "{size=-5}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poisoned_medium]"
+    new "{size=-7}重度中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poisoned_medium]"
 
     # game/script_downfall.rpy:29344
     old "{size=-5}Poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member2_poisoned_light]"
-    new "{size=-5}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poisoned_light]"
+    new "{size=-7}中毒！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member2_poisoned_light]"
 
     # game/script_downfall.rpy:29349
     old "{size=-5}Severely Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
-    new "{size=-5}剧毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
+    new "{size=-7}剧毒！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
 
     # game/script_downfall.rpy:29352
     old "{size=-5}Нeavily Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
-    new "{size=-5}重度毒性！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
+    new "{size=-7}重度毒性！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
 
     # game/script_downfall.rpy:29355
     old "{size=-5}Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
-    new "{size=-5}毒性！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
+    new "{size=-7}毒性！{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member2]{/color}."
 
     # game/script_downfall.rpy:29359
     old "{size=-5}Stunned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: [player_squad_member2_bashed]"
-    new "{size=-5}眩晕！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member2_bashed]"
+    new "{size=-7}眩晕！{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member2_bashed]"
 
     # game/script_downfall.rpy:29363
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Duration: [player_squad_member2_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低.{vspace=3}    持续时间: [player_squad_member2_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低.{vspace=3}    持续时间: [player_squad_member2_blinded]"
 
     # game/script_downfall.rpy:29523
     old "{size=-5}[player_squad_member3_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Type: [type]{vspace=3}    Length: [player_squad_member3_weapon_length]{vspace=3}    Damage: [player_squad_member3_weapon_dmg_info]"
-    new "{size=-5}[player_squad_member3_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member3_weapon_length]{vspace=3}    伤害: [player_squad_member3_weapon_dmg_info]"
+    new "{size=-7}[player_squad_member3_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member3_weapon_length]{vspace=3}    伤害: [player_squad_member3_weapon_dmg_info]"
 
     # game/script_downfall.rpy:29539
     old "{size=-5}[player_squad_member3_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Amount of daggers: [player_squad_member3_knife_number]"
-    new "{size=-5}[player_squad_member3_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member3_knife_number]"
+    new "{size=-7}[player_squad_member3_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member3_knife_number]"
 
     # game/script_downfall.rpy:29542
     old "{size=-5}[player_squad_member3_item_name_official!t]"
-    new "{size=-5}[player_squad_member3_item_name_official!t]"
+    new "{size=-7}[player_squad_member3_item_name_official!t]"
 
     # game/script_downfall.rpy:29549
     old "{size=-5}[player_squad_member3_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Neck armor: [player_squad_member3_neck_armor]         Neck cover: [player_squad_member3_neck_cover]"
-    new "{size=-5}[player_squad_member3_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member3_neck_armor]         颈部覆盖: [player_squad_member3_neck_cover]"
+    new "{size=-7}[player_squad_member3_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member3_neck_armor]         颈部覆盖: [player_squad_member3_neck_cover]"
 
     # game/script_downfall.rpy:29552
     old "{size=-5}[player_squad_member3_trinket_name_official!t]"
-    new "{size=-5}[player_squad_member3_trinket_name_official!t]"
+    new "{size=-7}[player_squad_member3_trinket_name_official!t]"
 
     # game/script_downfall.rpy:29558
     old "{size=-5}[player_squad_member3_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Torso armor: [player_squad_member3_armor]        Neck armor: [player_squad_member3_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [player_squad_member3_armor_cover]        Neck cover: [player_squad_member3_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [player_squad_member3_limbs_armor_combined]        Limbs cover: [player_squad_member3_limbs_cover_combined]"
-    new "{size=-5}[player_squad_member3_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member3_armor]        颈部护甲: [player_squad_member3_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member3_armor_cover]        颈部覆盖: [player_squad_member3_neck_cover]{vspace=3}{color=#A9A9A9}    四肢护甲: [player_squad_member3_limbs_armor_combined]        四肢覆盖: [player_squad_member3_limbs_cover_combined]"
+    new "{size=-7}[player_squad_member3_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member3_armor]        颈部护甲: [player_squad_member3_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member3_armor_cover]        颈部覆盖: [player_squad_member3_neck_cover]{vspace=3}{color=#A9A9A9}    四肢护甲: [player_squad_member3_limbs_armor_combined]        四肢覆盖: [player_squad_member3_limbs_cover_combined]"
 
     # game/script_downfall.rpy:29566
     old "{size=-5}[player_squad_member3_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: {color=#8B0000}[player_squad_member3_helmet]     Нead cover: [player_squad_member3_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member3_neck_armor]         Neck cover: [player_squad_member3_neck_cover]"
-    new "{size=-5}[player_squad_member3_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member3_helmet]     头部覆盖: [player_squad_member3_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member3_neck_armor]         颈部覆盖: [player_squad_member3_neck_cover]"
+    new "{size=-7}[player_squad_member3_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member3_helmet]     头部覆盖: [player_squad_member3_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member3_neck_armor]         颈部覆盖: [player_squad_member3_neck_cover]"
 
     # game/script_downfall.rpy:29569
     old "{size=-5}[player_squad_member3_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: [player_squad_member3_helmet]     Нead cover: [player_squad_member3_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member3_neck_armor]         Neck cover: [player_squad_member3_neck_cover]"
-    new "{size=-5}[player_squad_member3_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member3_helmet]     头部覆盖: [player_squad_member3_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member3_neck_armor]         颈部覆盖: [player_squad_member3_neck_cover]"
+    new "{size=-7}[player_squad_member3_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member3_helmet]     头部覆盖: [player_squad_member3_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member3_neck_armor]         颈部覆盖: [player_squad_member3_neck_cover]"
 
     # game/script_downfall.rpy:29575
     old "{size=-5}[player_squad_member3_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Shield durability: [player_squad_member3_shield]/[player_squad_member3_shield_max]{/color}{vspace=3}{color=#A9A9A9}    Shield cover: [player_squad_member3_shield_cover]"
-    new "{size=-5}[player_squad_member3_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member3_shield]/[player_squad_member3_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌覆盖: [player_squad_member3_shield_cover]"
+    new "{size=-7}[player_squad_member3_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member3_shield]/[player_squad_member3_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌覆盖: [player_squad_member3_shield_cover]"
 
     # game/script_downfall.rpy:29591
     old "{size=-5}[player_squad_member3_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [player_squad_member3_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts]"
-    new "{size=-5}[player_squad_member3_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member3_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
+    new "{size=-7}[player_squad_member3_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member3_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
 
     # game/script_downfall.rpy:29605
     old "{size=-5}Нealth: [player_squad_member3_health_max]{/size}"
-    new "{size=-5}生命值: [player_squad_member3_health_max]{/size}"
+    new "{size=-7}生命值: [player_squad_member3_health_max]{/size}"
 
     # game/script_downfall.rpy:29606
     old "{size=-5}Stamina: [player_squad_member3_stamina_max]{/size}"
-    new "{size=-5}耐力: [player_squad_member3_stamina_max]{/size}"
+    new "{size=-7}耐力: [player_squad_member3_stamina_max]{/size}"
 
     # game/script_downfall.rpy:29607
     old "{size=-5}Strength: [player_squad_member3_strength]{/size}"
-    new "{size=-5}力量: [player_squad_member3_strength]{/size}"
+    new "{size=-7}力量: [player_squad_member3_strength]{/size}"
 
     # game/script_downfall.rpy:29608
     old "{size=-5}Agility: [player_squad_member3_agility]{/size}"
-    new "{size=-5}敏捷: [player_squad_member3_agility]{/size}"
+    new "{size=-7}敏捷: [player_squad_member3_agility]{/size}"
 
     # game/script_downfall.rpy:29609
     old "{size=-5}Coordination: [player_squad_member3_coordination]{/size}"
-    new "{size=-5}协调性: [player_squad_member3_coordination]{/size}"
+    new "{size=-7}协调性: [player_squad_member3_coordination]{/size}"
 
     # game/script_downfall.rpy:29610
     old "{size=-5}Weapon Skill: [player_squad_member3_weapon_skill]{/size}"
-    new "{size=-5}武器技能: [player_squad_member3_weapon_skill]{/size}"
+    new "{size=-7}武器技能: [player_squad_member3_weapon_skill]{/size}"
 
     # game/script_downfall.rpy:29611
     old "{size=-7}{color=#A9A9A9}Stamina recovery: [player_squad_member3_stamina_recovery]{/size}"
@@ -10268,159 +10268,159 @@ translate english strings:
 
     # game/script_downfall.rpy:29615
     old "{size=-5}Winded {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (Fatigue: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}气喘吁吁 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}气喘吁吁 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29618
     old "{size=-5}Tired {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (Fatigue: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}疲惫 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}疲惫 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29621
     old "{size=-5}On last legs {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (Fatigue: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}强弩之末 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}强弩之末 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29627
     old "{size=-5}Fresh {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (Fatigue: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
+    new "{size=-7}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member3_fatigue_pool_displayable]/[player_squad_member3_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值。{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低。"
 
     # game/script_downfall.rpy:29631
     old "{size=-5}Bleeding!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member3_bleed]{/color}"
-    new "{size=-5}流血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member3_bleed]{/color}"
+    new "{size=-7}流血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member3_bleed]{/color}"
 
     # game/script_downfall.rpy:29637
     old "{size=-5}Нeavy bleeding! Bloodloss!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member3_bleed]{/color}{vspace=3}{color=#A9A9A9}    Bloodloss increases character's fatigue gain and{vspace=3}    turns regular bleedings into heavy bleedings."
-    new "{size=-5}严重出血! 失血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member3_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳值积累，{vspace=3}    并将普通流血转化为严重出血。"
+    new "{size=-7}严重出血! 失血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member3_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳值积累，{vspace=3}    并将普通流血转化为严重出血。"
 
     # game/script_downfall.rpy:29661
     old "{size=-5}Broken leg and hurt arm!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member3_broken_leg]{color=#A9A9A9}.{vspace=3}    Weapon skill lowered by {color=#8B0000}[player_squad_member3_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}断腿伤臂!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member3_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member3_arm_muscles_cut]{color=#A9A9A9}."
+    new "{size=-7}断腿伤臂!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member3_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member3_arm_muscles_cut]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29665
     old "{size=-5}Arms muscles cut!{vspace=3}{size=-2}{color=#A9A9A9}    Weapon skill lowered by {color=#8B0000}[player_squad_member3_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}手臂肌肉撕裂!{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member3_arm_muscles_cut]{color=#A9A9A9}."
+    new "{size=-7}手臂肌肉撕裂!{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member3_arm_muscles_cut]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29669
     old "{size=-5}Broken leg!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member3_broken_leg]{color=#A9A9A9}."
-    new "{size=-5}断腿!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member3_broken_leg]{color=#A9A9A9}."
+    new "{size=-7}断腿!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member3_broken_leg]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29673
     old "{size=-5}Pierced lung!{vspace=3}{size=-2}{color=#A9A9A9}    Stamina recovery lowered by {color=#8B0000}[player_squad_member3_pierced_lung]{color=#A9A9A9}."
-    new "{size=-5}肺部穿孔!{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member3_pierced_lung]{color=#A9A9A9}."
+    new "{size=-7}肺部穿孔!{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member3_pierced_lung]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29677
     old "{size=-5}Нeavy trauma!{vspace=3}{size=-2}{color=#A9A9A9}    Maimed and concussed.{vspace=3} Strength lowered by {color=#8B0000}[player_squad_member3_maimed]{color=#A9A9A9}.{vspace=3} Coordination lowered by {color=#8B0000}[player_squad_member3_concussed]{color=#A9A9A9}."
-    new "{size=-5}严重创伤!{vspace=3}{size=-2}{color=#A9A9A9}    伤残且脑震荡。{vspace=3} 力量降低 {color=#8B0000}[player_squad_member3_maimed]{color=#A9A9A9}.{vspace=3} 协调性降低 {color=#8B0000}[player_squad_member3_concussed]{color=#A9A9A9}."
+    new "{size=-7}严重创伤!{vspace=3}{size=-2}{color=#A9A9A9}    伤残且脑震荡。{vspace=3} 力量降低 {color=#8B0000}[player_squad_member3_maimed]{color=#A9A9A9}.{vspace=3} 协调性降低 {color=#8B0000}[player_squad_member3_concussed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29681
     old "{size=-5}Maimed!{vspace=3}{size=-2}{color=#A9A9A9}    Strength lowered by {color=#8B0000}[player_squad_member3_maimed]{color=#A9A9A9}."
-    new "{size=-5}伤残!{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member3_maimed]{color=#A9A9A9}."
+    new "{size=-7}伤残!{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member3_maimed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29685
     old "{size=-5}Concussed!{vspace=3}{size=-2}{color=#A9A9A9}    Coordination lowered by {color=#8B0000}[player_squad_member3_concussed]{color=#A9A9A9}."
-    new "{size=-5}脑震荡!{vspace=3}{size=-2}{color=#A9A9A9}    协调性降低 {color=#8B0000}[player_squad_member3_concussed]{color=#A9A9A9}."
+    new "{size=-7}脑震荡!{vspace=3}{size=-2}{color=#A9A9A9}    协调性降低 {color=#8B0000}[player_squad_member3_concussed]{color=#A9A9A9}."
 
     # game/script_downfall.rpy:29690
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member3_poison_total]"
-    new "{size=-5}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poison_total]"
+    new "{size=-7}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poison_total]"
 
     # game/script_downfall.rpy:29699
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member3_poisoned_strong]"
-    new "{size=-5}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poisoned_strong]"
+    new "{size=-7}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poisoned_strong]"
 
     # game/script_downfall.rpy:29702
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member3_poison_total]"
-    new "{size=-5}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poison_total]"
+    new "{size=-7}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poison_total]"
 
     # game/script_downfall.rpy:29705
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member3_poisoned_medium]"
-    new "{size=-5}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poisoned_medium]"
+    new "{size=-7}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poisoned_medium]"
 
     # game/script_downfall.rpy:29708
     old "{size=-5}Poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member3_poisoned_light]"
-    new "{size=-5}中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poisoned_light]"
+    new "{size=-7}中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member3_poisoned_light]"
 
     # game/script_downfall.rpy:29713
     old "{size=-5}Severely Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
-    new "{size=-5}剧毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
+    new "{size=-7}剧毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
 
     # game/script_downfall.rpy:29716
     old "{size=-5}Нeavily Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
-    new "{size=-5}强毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
+    new "{size=-7}强毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
 
     # game/script_downfall.rpy:29719
     old "{size=-5}Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
-    new "{size=-5}毒性!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
+    new "{size=-7}毒性!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member3]{/color}."
 
     # game/script_downfall.rpy:29723
     old "{size=-5}Stunned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: [player_squad_member3_bashed]"
-    new "{size=-5}眩晕!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member3_bashed]"
+    new "{size=-7}眩晕!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member3_bashed]"
 
     # game/script_downfall.rpy:29727
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Duration: [player_squad_member3_blinded]"
-    new "{size=-5}佯攻!{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    持续时间: [player_squad_member3_blinded]"
+    new "{size=-7}佯攻!{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    持续时间: [player_squad_member3_blinded]"
 
     # game/script_downfall.rpy:29887
     old "{size=-5}[player_squad_member4_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Type: [type]{vspace=3}    Length: [player_squad_member4_weapon_length]{vspace=3}    Damage: [player_squad_member4_weapon_dmg_info]"
-    new "{size=-5}[player_squad_member4_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member4_weapon_length]{vspace=3}    伤害: [player_squad_member4_weapon_dmg_info]"
+    new "{size=-7}[player_squad_member4_weapon_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    类型: [type]{vspace=3}    长度: [player_squad_member4_weapon_length]{vspace=3}    伤害: [player_squad_member4_weapon_dmg_info]"
 
     # game/script_downfall.rpy:29903
     old "{size=-5}[player_squad_member4_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Amount of daggers: [player_squad_member4_knife_number]"
-    new "{size=-5}[player_squad_member4_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member4_knife_number]"
+    new "{size=-7}[player_squad_member4_item_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    匕首数量: [player_squad_member4_knife_number]"
 
     # game/script_downfall.rpy:29906
     old "{size=-5}[player_squad_member4_item_name_official!t]"
-    new "{size=-5}[player_squad_member4_item_name_official!t]"
+    new "{size=-7}[player_squad_member4_item_name_official!t]"
 
     # game/script_downfall.rpy:29913
     old "{size=-5}[player_squad_member4_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    Neck armor: [player_squad_member4_neck_armor]         Neck cover: [player_squad_member4_neck_cover]"
-    new "{size=-5}[player_squad_member4_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member4_neck_armor]         颈部覆盖: [player_squad_member4_neck_cover]"
+    new "{size=-7}[player_squad_member4_trinket_name_official!t]{vspace=3}{size=-2}{color=#A9A9A9}    颈部护甲: [player_squad_member4_neck_armor]         颈部覆盖: [player_squad_member4_neck_cover]"
 
     # game/script_downfall.rpy:29916
     old "{size=-5}[player_squad_member4_trinket_name_official!t]"
-    new "{size=-5}[player_squad_member4_trinket_name_official!t]"
+    new "{size=-7}[player_squad_member4_trinket_name_official!t]"
 
     # game/script_downfall.rpy:29922
     old "{size=-5}[player_squad_member4_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Torso armor: [player_squad_member4_armor]        Neck armor: [player_squad_member4_neck_armor]{vspace=3}{color=#A9A9A9}    Torso cover: [player_squad_member4_armor_cover]        Neck cover: [player_squad_member4_neck_cover]{vspace=3}{color=#A9A9A9}    Limbs armor: [player_squad_member4_limbs_armor_combined]        Limbs cover: [player_squad_member4_limbs_cover_combined]"
-    new "{size=-5}[player_squad_member4_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member4_armor]        颈部护甲: [player_squad_member4_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member4_armor_cover]        颈部覆盖: [player_squad_member4_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [player_squad_member4_limbs_armor_combined]        肢体覆盖: [player_squad_member4_limbs_cover_combined]"
+    new "{size=-7}[player_squad_member4_armor_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    躯干护甲: [player_squad_member4_armor]        颈部护甲: [player_squad_member4_neck_armor]{vspace=3}{color=#A9A9A9}    躯干覆盖: [player_squad_member4_armor_cover]        颈部覆盖: [player_squad_member4_neck_cover]{vspace=3}{color=#A9A9A9}    肢体护甲: [player_squad_member4_limbs_armor_combined]        肢体覆盖: [player_squad_member4_limbs_cover_combined]"
 
     # game/script_downfall.rpy:29930
     old "{size=-5}[player_squad_member4_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: {color=#8B0000}[player_squad_member4_helmet]     Нead cover: [player_squad_member4_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member4_neck_armor]         Neck cover: [player_squad_member4_neck_cover]"
-    new "{size=-5}[player_squad_member4_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member4_helmet]     头部防护: [player_squad_member4_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member4_neck_armor]         颈部防护: [player_squad_member4_neck_cover]"
+    new "{size=-7}[player_squad_member4_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: {color=#8B0000}[player_squad_member4_helmet]     头部防护: [player_squad_member4_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member4_neck_armor]         颈部防护: [player_squad_member4_neck_cover]"
 
     # game/script_downfall.rpy:29933
     old "{size=-5}[player_squad_member4_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Helmet armor: [player_squad_member4_helmet]     Нead cover: [player_squad_member4_helmet_cover]{vspace=3}{color=#A9A9A9}    Neck armor: [player_squad_member4_neck_armor]         Neck cover: [player_squad_member4_neck_cover]"
-    new "{size=-5}[player_squad_member4_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member4_helmet]     头部防护: [player_squad_member4_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member4_neck_armor]         颈部防护: [player_squad_member4_neck_cover]"
+    new "{size=-7}[player_squad_member4_helmet_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    头盔护甲: [player_squad_member4_helmet]     头部防护: [player_squad_member4_helmet_cover]{vspace=3}{color=#A9A9A9}    颈部护甲: [player_squad_member4_neck_armor]         颈部防护: [player_squad_member4_neck_cover]"
 
     # game/script_downfall.rpy:29939
     old "{size=-5}[player_squad_member4_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Shield durability: [player_squad_member4_shield]/[player_squad_member4_shield_max]{/color}{vspace=3}{color=#A9A9A9}    Shield cover: [player_squad_member4_shield_cover]"
-    new "{size=-5}[player_squad_member4_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member4_shield]/[player_squad_member4_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌防护: [player_squad_member4_shield_cover]"
+    new "{size=-7}[player_squad_member4_shield_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    盾牌耐久: [player_squad_member4_shield]/[player_squad_member4_shield_max]{/color}{vspace=3}{color=#A9A9A9}    盾牌防护: [player_squad_member4_shield_cover]"
 
     # game/script_downfall.rpy:29955
     old "{size=-5}[player_squad_member4_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    Crossbow skill: [player_squad_member4_crossbow_skill]{vspace=3}    Amount of bolts: [number_of_bolts]"
-    new "{size=-5}[player_squad_member4_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member4_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
+    new "{size=-7}[player_squad_member4_crossbow_official_name!ti]{vspace=3}{size=-2}{color=#A9A9A9}    弩技能: [player_squad_member4_crossbow_skill]{vspace=3}    弩箭数量: [number_of_bolts]"
 
     # game/script_downfall.rpy:29969
     old "{size=-5}Нealth: [player_squad_member4_health_max]{/size}"
-    new "{size=-5}生命值: [player_squad_member4_health_max]{/size}"
+    new "{size=-7}生命值: [player_squad_member4_health_max]{/size}"
 
     # game/script_downfall.rpy:29970
     old "{size=-5}Stamina: [player_squad_member4_stamina_max]{/size}"
-    new "{size=-5}耐力: [player_squad_member4_stamina_max]{/size}"
+    new "{size=-7}耐力: [player_squad_member4_stamina_max]{/size}"
 
     # game/script_downfall.rpy:29971
     old "{size=-5}Strength: [player_squad_member4_strength]{/size}"
-    new "{size=-5}力量: [player_squad_member4_strength]{/size}"
+    new "{size=-7}力量: [player_squad_member4_strength]{/size}"
 
     # game/script_downfall.rpy:29972
     old "{size=-5}Agility: [player_squad_member4_agility]{/size}"
-    new "{size=-5}敏捷: [player_squad_member4_agility]{/size}"
+    new "{size=-7}敏捷: [player_squad_member4_agility]{/size}"
 
     # game/script_downfall.rpy:29973
     old "{size=-5}Coordination: [player_squad_member4_coordination]{/size}"
-    new "{size=-5}协调性: [player_squad_member4_coordination]{/size}"
+    new "{size=-7}协调性: [player_squad_member4_coordination]{/size}"
 
     # game/script_downfall.rpy:29974
     old "{size=-5}Weapon Skill: [player_squad_member4_weapon_skill]{/size}"
-    new "{size=-5}武器技能: [player_squad_member4_weapon_skill]{/size}"
+    new "{size=-7}武器技能: [player_squad_member4_weapon_skill]{/size}"
 
     # game/script_downfall.rpy:29975
     old "{size=-7}{color=#A9A9A9}Stamina recovery: [player_squad_member4_stamina_recovery]{/size}"
@@ -10428,95 +10428,95 @@ translate english strings:
 
     # game/script_downfall.rpy:29979
     old "{size=-5}Winded {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (Fatigue: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}喘息 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}喘息 {color=#8B0000}{font=DejaVuSans.ttf}{b}II{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_mid]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:29982
     old "{size=-5}Tired {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (Fatigue: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}疲惫 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}疲惫 {color=#8B0000}{font=DejaVuSans.ttf}{b}III{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_top]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:29985
     old "{size=-5}On last legs {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (Fatigue: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}濒临崩溃 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}濒临崩溃 {color=#8B0000}{font=DejaVuSans.ttf}{b}IV{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_fatigue_pool_ultimate]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:29991
     old "{size=-5}Fresh {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (Fatigue: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    Fatigue builds up with every action a character{vspace=3}    takes. As it reaches higher levels the character{vspace=3}    becomes increasingly less combat effective."
-    new "{size=-5}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
+    new "{size=-7}精力充沛 {color=#8B0000}{font=DejaVuSans.ttf}{b}I{/b}{/font}{/color} (疲劳: [player_squad_member4_fatigue_pool_displayable]/[player_squad_member4_stamina_max]){vspace=3}{size=-2}{color=#A9A9A9}    角色每次行动都会积累疲劳值{vspace=3}    当达到更高等级时，角色的战斗效率会{vspace=3}    逐渐降低"
 
     # game/script_downfall.rpy:29995
     old "{size=-5}Bleeding!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member4_bleed]{/color}"
-    new "{size=-5}流血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member4_bleed]{/color}"
+    new "{size=-7}流血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member4_bleed]{/color}"
 
     # game/script_downfall.rpy:30001
     old "{size=-5}Нeavy bleeding! Bloodloss!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#8B0000}[player_squad_member4_bleed]{/color}{vspace=3}{color=#A9A9A9}    Bloodloss increases character's fatigue gain and{vspace=3}    turns regular bleedings into heavy bleedings."
-    new "{size=-5}严重出血! 失血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member4_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳获取速度{vspace=3}    并将普通流血转化为严重出血"
+    new "{size=-7}严重出血! 失血!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#8B0000}[player_squad_member4_bleed]{/color}{vspace=3}{color=#A9A9A9}    失血会增加角色疲劳获取速度{vspace=3}    并将普通流血转化为严重出血"
 
     # game/script_downfall.rpy:30025
     old "{size=-5}Broken leg and hurt arm!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member4_broken_leg]{color=#A9A9A9}.{vspace=3}    Weapon skill lowered by {color=#8B0000}[player_squad_member4_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}断腿和手臂受伤!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member4_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member4_arm_muscles_cut]{color=#A9A9A9}"
+    new "{size=-7}断腿和手臂受伤!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member4_broken_leg]{color=#A9A9A9}.{vspace=3}    武器技能降低 {color=#8B0000}[player_squad_member4_arm_muscles_cut]{color=#A9A9A9}"
 
     # game/script_downfall.rpy:30029
     old "{size=-5}Arms muscles cut!{vspace=3}{size=-2}{color=#A9A9A9}    Weapon skill lowered by {color=#8B0000}[player_squad_member4_arm_muscles_cut]{color=#A9A9A9}."
-    new "{size=-5}手臂肌肉撕裂!{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member4_arm_muscles_cut]{color=#A9A9A9}"
+    new "{size=-7}手臂肌肉撕裂!{vspace=3}{size=-2}{color=#A9A9A9}    武器技能降低 {color=#8B0000}[player_squad_member4_arm_muscles_cut]{color=#A9A9A9}"
 
     # game/script_downfall.rpy:30033
     old "{size=-5}Broken leg!{vspace=3}{size=-2}{color=#A9A9A9}    Agility lowered by {color=#8B0000}[player_squad_member4_broken_leg]{color=#A9A9A9}."
-    new "{size=-5}断腿!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member4_broken_leg]{color=#A9A9A9}"
+    new "{size=-7}断腿!{vspace=3}{size=-2}{color=#A9A9A9}    敏捷降低 {color=#8B0000}[player_squad_member4_broken_leg]{color=#A9A9A9}"
 
     # game/script_downfall.rpy:30037
     old "{size=-5}Pierced lung!{vspace=3}{size=-2}{color=#A9A9A9}    Stamina recovery lowered by {color=#8B0000}[player_squad_member4_pierced_lung]{color=#A9A9A9}."
-    new "{size=-5}肺部穿孔!{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member4_pierced_lung]{color=#A9A9A9}"
+    new "{size=-7}肺部穿孔!{vspace=3}{size=-2}{color=#A9A9A9}    耐力恢复降低 {color=#8B0000}[player_squad_member4_pierced_lung]{color=#A9A9A9}"
 
     # game/script_downfall.rpy:30041
     old "{size=-5}Нeavy trauma!{vspace=3}{size=-2}{color=#A9A9A9}    Maimed and concussed.{vspace=3} Strength lowered by {color=#8B0000}[player_squad_member4_maimed]{color=#A9A9A9}.{vspace=3} Coordination lowered by {color=#8B0000}[player_squad_member4_concussed]{color=#A9A9A9}."
-    new "{size=-5}严重创伤!{vspace=3}{size=-2}{color=#A9A9A9}    伤残并脑震荡{vspace=3} 力量降低 {color=#8B0000}[player_squad_member4_maimed]{color=#A9A9A9}.{vspace=3} 协调性降低 {color=#8B0000}[player_squad_member4_concussed]{color=#A9A9A9}"
+    new "{size=-7}严重创伤!{vspace=3}{size=-2}{color=#A9A9A9}    伤残并脑震荡{vspace=3} 力量降低 {color=#8B0000}[player_squad_member4_maimed]{color=#A9A9A9}.{vspace=3} 协调性降低 {color=#8B0000}[player_squad_member4_concussed]{color=#A9A9A9}"
 
     # game/script_downfall.rpy:30045
     old "{size=-5}Maimed!{vspace=3}{size=-2}{color=#A9A9A9}    Strength lowered by {color=#8B0000}[player_squad_member4_maimed]{color=#A9A9A9}."
-    new "{size=-5}伤残!{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member4_maimed]{color=#A9A9A9}"
+    new "{size=-7}伤残!{vspace=3}{size=-2}{color=#A9A9A9}    力量降低 {color=#8B0000}[player_squad_member4_maimed]{color=#A9A9A9}"
 
     # game/script_downfall.rpy:30049
     old "{size=-5}Concussed!{vspace=3}{size=-2}{color=#A9A9A9}    Coordination lowered by {color=#8B0000}[player_squad_member4_concussed]{color=#A9A9A9}."
-    new "{size=-5}脑震荡!{vspace=3}{size=-2}{color=#A9A9A9}    协调性降低 {color=#8B0000}[player_squad_member4_concussed]{color=#A9A9A9}"
+    new "{size=-7}脑震荡!{vspace=3}{size=-2}{color=#A9A9A9}    协调性降低 {color=#8B0000}[player_squad_member4_concussed]{color=#A9A9A9}"
 
     # game/script_downfall.rpy:30054
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member4_poison_total]"
-    new "{size=-5}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poison_total]"
+    new "{size=-7}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poison_total]"
 
     # game/script_downfall.rpy:30063
     old "{size=-5}Severely poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member4_poisoned_strong]"
-    new "{size=-5}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poisoned_strong]"
+    new "{size=-7}重度中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poisoned_strong]"
 
     # game/script_downfall.rpy:30066
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member4_poison_total]"
-    new "{size=-5}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poison_total]"
+    new "{size=-7}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poison_total]"
 
     # game/script_downfall.rpy:30069
     old "{size=-5}Нeavily poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member4_poisoned_medium]"
-    new "{size=-5}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poisoned_medium]"
+    new "{size=-7}严重中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poisoned_medium]"
 
     # game/script_downfall.rpy:30072
     old "{size=-5}Poisoned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: {color=#008000}[player_squad_member4_poisoned_light]"
-    new "{size=-5}中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poisoned_light]"
+    new "{size=-7}中毒!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: {color=#008000}[player_squad_member4_poisoned_light]"
 
     # game/script_downfall.rpy:30077
     old "{size=-5}Severely Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}."
-    new "{size=-5}剧毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}"
+    new "{size=-7}剧毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}"
 
     # game/script_downfall.rpy:30080
     old "{size=-5}Нeavily Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}."
-    new "{size=-5}强毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}"
+    new "{size=-7}强毒!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}"
 
     # game/script_downfall.rpy:30083
     old "{size=-5}Toxic!{vspace=3}{size=-2}{color=#A9A9A9}    Injury chance increased by {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}."
-    new "{size=-5}毒性!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}"
+    new "{size=-7}毒性!{vspace=3}{size=-2}{color=#A9A9A9}    受伤几率增加 {color=#008000}[injury_debuff_visual_player_squad_member4]{/color}"
 
     # game/script_downfall.rpy:30087
     old "{size=-5}Stunned!{vspace=3}{size=-2}{color=#A9A9A9}    Duration: [player_squad_member4_bashed]"
-    new "{size=-5}眩晕!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member4_bashed]"
+    new "{size=-7}眩晕!{vspace=3}{size=-2}{color=#A9A9A9}    持续时间: [player_squad_member4_bashed]"
 
     # game/script_downfall.rpy:30091
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Duration: [player_squad_member4_blinded]"
-    new "{size=-5}佯攻!{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率下降{vspace=3}    持续时间: [player_squad_member4_blinded]"
+    new "{size=-7}佯攻!{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率下降{vspace=3}    持续时间: [player_squad_member4_blinded]"
 
     # game/script_downfall.rpy:30099
     old "{size=-3}Give weapon"
@@ -12520,35 +12520,35 @@ translate english strings:
 
     # game/script_downfall.rpy:85819
     old "{size=-5}Нealth: [player_squad_member1_health]/[player_squad_member1_health_max]{/size}"
-    new "{size=-5}生命值：[player_squad_member1_health]/[player_squad_member1_health_max]{/size}"
+    new "{size=-7}生命值：[player_squad_member1_health]/[player_squad_member1_health_max]{/size}"
 
     # game/script_downfall.rpy:85941
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [player_squad_member1_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member1_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member1_blinded]"
 
     # game/script_downfall.rpy:86212
     old "{size=-5}Нealth: [player_squad_member2_health]/[player_squad_member2_health_max]{/size}"
-    new "{size=-5}生命值：[player_squad_member2_health]/[player_squad_member2_health_max]{/size}"
+    new "{size=-7}生命值：[player_squad_member2_health]/[player_squad_member2_health_max]{/size}"
 
     # game/script_downfall.rpy:86334
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [player_squad_member2_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member2_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member2_blinded]"
 
     # game/script_downfall.rpy:86605
     old "{size=-5}Нealth: [player_squad_member3_health]/[player_squad_member3_health_max]{/size}"
-    new "{size=-5}生命值：[player_squad_member3_health]/[player_squad_member3_health_max]{/size}"
+    new "{size=-7}生命值：[player_squad_member3_health]/[player_squad_member3_health_max]{/size}"
 
     # game/script_downfall.rpy:86727
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [player_squad_member3_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member3_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member3_blinded]"
 
     # game/script_downfall.rpy:86998
     old "{size=-5}Нealth: [player_squad_member4_health]/[player_squad_member4_health_max]{/size}"
-    new "{size=-5}生命值：[player_squad_member4_health]/[player_squad_member4_health_max]{/size}"
+    new "{size=-7}生命值：[player_squad_member4_health]/[player_squad_member4_health_max]{/size}"
 
     # game/script_downfall.rpy:87120
     old "{size=-5}Feinted!{vspace=3}{size=-2}{color=#A9A9A9}    Attack accuracy lowered.{vspace=3}    Dodge chance lowered.{vspace=3}    Duration: [player_squad_member4_blinded]"
-    new "{size=-5}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member4_blinded]"
+    new "{size=-7}佯攻！{vspace=3}{size=-2}{color=#A9A9A9}    攻击准确率降低。{vspace=3}    闪避几率降低。{vspace=3}    持续时间：[player_squad_member4_blinded]"
 
     # game/script_downfall.rpy:98557
     old "{color=#A9A9A9}Create Character"
@@ -12556,7 +12556,7 @@ translate english strings:
 
     # game/script_downfall.rpy:98560
     old "{size=-5}Customize"
-    new "{size=-5}自定义"
+    new "{size=-7}自定义"
 
     # game/script_downfall.rpy:98565
     old "{color=#A9A9A9}Choose Enemy"
@@ -12564,35 +12564,35 @@ translate english strings:
 
     # game/script_downfall.rpy:98579
     old "{size=-5}Militiaman"
-    new "{size=-5}民兵"
+    new "{size=-7}民兵"
 
     # game/script_downfall.rpy:98583
     old "{size=-5}Mercenary"
-    new "{size=-5}雇佣兵"
+    new "{size=-7}雇佣兵"
 
     # game/script_downfall.rpy:98585
     old "{size=-5}Knight"
-    new "{size=-5}骑士"
+    new "{size=-7}骑士"
 
     # game/script_downfall.rpy:98587
     old "{size=-5}Bandit"
-    new "{size=-5}强盗"
+    new "{size=-7}强盗"
 
     # game/script_downfall.rpy:98589
     old "{size=-5}Deserter"
-    new "{size=-5}逃兵"
+    new "{size=-7}逃兵"
 
     # game/script_downfall.rpy:98591
     old "{size=-5}Cultist"
-    new "{size=-5}邪教徒"
+    new "{size=-7}邪教徒"
 
     # game/script_downfall.rpy:98593
     old "{size=-5}Sheriff"
-    new "{size=-5}警长"
+    new "{size=-7}警长"
 
     # game/script_downfall.rpy:98595
     old "{size=-5}Warden"
-    new "{size=-5}典狱长"
+    new "{size=-7}典狱长"
 
     # game/script_downfall.rpy:98812
     old "{size=+10}Confirm"
@@ -12681,7 +12681,7 @@ translate english strings:
 
     # game/script_downfall.rpy:87092
     old "{size=-5}Create Character"
-    new "{size=-5}创建角色"
+    new "{size=-7}创建角色"
 
     # game/script_downfall.rpy:87176
     old "Configue player"
@@ -13039,27 +13039,27 @@ translate english strings:
 
     # game/script_downfall.rpy:89777
     old "{size=-5}[ranged.name!ti]"
-    new "{size=-5}[ranged.name!ti]"
+    new "{size=-7}[ranged.name!ti]"
 
     # game/script_downfall.rpy:89787
     old "{size=-5}[ammo.name!ti]"
-    new "{size=-5}[ammo.name!ti]"
+    new "{size=-7}[ammo.name!ti]"
 
     # game/script_downfall.rpy:89798
     old "{size=-5}[trinket.name!ti]"
-    new "{size=-5}[trinket.name!ti]"
+    new "{size=-7}[trinket.name!ti]"
 
     # game/script_downfall.rpy:89817
     old "{size=-5}[consumables.name!ti]"
-    new "{size=-5}[consumables.name!ti]"
+    new "{size=-7}[consumables.name!ti]"
 
     # game/script_downfall.rpy:90121
     old "{size=-5}Нealth: [ally_health]/[ally_health_max]{/size}"
-    new "{size=-5}生命值：[ally_health]/[ally_health_max]{/size}"
+    new "{size=-7}生命值：[ally_health]/[ally_health_max]{/size}"
 
     # game/script_downfall.rpy:90122
     old "{size=-5}Stamina: [ally_stamina_max]{/size}"
-    new "{size=-5}体力：[ally_stamina_max]{/size}"
+    new "{size=-7}体力：[ally_stamina_max]{/size}"
 
     # game/script_downfall.rpy:107547
     old "{size=-10}{color=#A9A9A9}{i}Upgrade points: [player_civil_talents_upgrade_points]"
@@ -13067,7 +13067,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107565
     old "{size=-5}Man of Faith"
-    new "{size=-5}信仰之人"
+    new "{size=-7}信仰之人"
 
     # game/script_downfall.rpy:107567
     old "[man_of_faith_civil_talent_description!ti]"
@@ -13075,7 +13075,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107573
     old "{size=-5}Do-It-Yourself"
-    new "{size=-5}自己动手"
+    new "{size=-7}自己动手"
 
     # game/script_downfall.rpy:107575
     old "[do_it_yourself_civil_talent_description!ti]"
@@ -13083,7 +13083,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107581
     old "{size=-5}Lucky Devil"
-    new "{size=-5}幸运魔鬼"
+    new "{size=-7}幸运魔鬼"
 
     # game/script_downfall.rpy:107583
     old "[lucky_devil_civil_talent_description!ti]"
@@ -13091,7 +13091,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107589
     old "{size=-5}Master of Poison"
-    new "{size=-5}毒药大师"
+    new "{size=-7}毒药大师"
 
     # game/script_downfall.rpy:107591
     old "[master_of_poisons_civil_talent_description!ti]"
@@ -13099,7 +13099,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107597
     old "{size=-5}Casanova"
-    new "{size=-5}情圣"
+    new "{size=-7}情圣"
 
     # game/script_downfall.rpy:107599
     old "[casanova_civil_talent_description!ti]"
@@ -13107,7 +13107,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107605
     old "{size=-5}Sticky Fingers"
-    new "{size=-5}妙手神偷"
+    new "{size=-7}妙手神偷"
 
     # game/script_downfall.rpy:107607
     old "[sticky_fingers_civil_talent_description!ti]"
@@ -13115,7 +13115,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107613
     old "{size=-5}Craftsman"
-    new "{size=-5}工匠"
+    new "{size=-7}工匠"
 
     # game/script_downfall.rpy:107615
     old "[craftsman_civil_talent_description!ti]"
@@ -13123,7 +13123,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107621
     old "{size=-5}Нuntsman"
-    new "{size=-5}猎人"
+    new "{size=-7}猎人"
 
     # game/script_downfall.rpy:107623
     old "[huntsman_civil_talent_description!ti]"
@@ -13131,7 +13131,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107629
     old "{size=-5}Нerbsman"
-    new "{size=-5}草药师"
+    new "{size=-7}草药师"
 
     # game/script_downfall.rpy:107631
     old "[herbsman_civil_talent_description!ti]"
@@ -13139,7 +13139,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107637
     old "{size=-5}Scholar"
-    new "{size=-5}学者"
+    new "{size=-7}学者"
 
     # game/script_downfall.rpy:107639
     old "[scholar_civil_talent_description!ti]"
@@ -13147,7 +13147,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107645
     old "{size=-5}Colossus"
-    new "{size=-5}巨像"
+    new "{size=-7}巨像"
 
     # game/script_downfall.rpy:107647
     old "[colossus_civil_talent_description!ti]"
@@ -13155,7 +13155,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107653
     old "{size=-5}Good Manager"
-    new "{size=-5}优秀管理者"
+    new "{size=-7}优秀管理者"
 
     # game/script_downfall.rpy:107655
     old "[good_manager_civil_talent_description!ti]"
@@ -13163,7 +13163,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107661
     old "{size=-5}Gambler"
-    new "{size=-5}赌徒"
+    new "{size=-7}赌徒"
 
     # game/script_downfall.rpy:107663
     old "[gambler_civil_talent_description!ti]"
@@ -13171,7 +13171,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107669
     old "{size=-5}Marauder"
-    new "{size=-5}掠夺者"
+    new "{size=-7}掠夺者"
 
     # game/script_downfall.rpy:107671
     old "[marauder_civil_talent_description!ti]"
@@ -13179,7 +13179,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107677
     old "{size=-5}Musician"
-    new "{size=-5}音乐家"
+    new "{size=-7}音乐家"
 
     # game/script_downfall.rpy:107679
     old "[musician_civil_talent_description!ti]"
@@ -13187,7 +13187,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107685
     old "{size=-5}Thief"
-    new "{size=-5}盗贼"
+    new "{size=-7}盗贼"
 
     # game/script_downfall.rpy:107687
     old "[thief_civil_talent_description!ti]"
@@ -13195,7 +13195,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107693
     old "{size=-5}Armorsmith"
-    new "{size=-5}护甲匠"
+    new "{size=-7}护甲匠"
 
     # game/script_downfall.rpy:107695
     old "[armorsmith_civil_talent_description!ti]"
@@ -13203,7 +13203,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107701
     old "{size=-5}Нaggler"
-    new "{size=-5}讨价还价者"
+    new "{size=-7}讨价还价者"
 
     # game/script_downfall.rpy:107703
     old "[haggler_civil_talent_description!ti]"
@@ -13215,86 +13215,86 @@ translate english strings:
 
     # game/script_downfall.rpy:107720
     old "{size=-5}{color=#A9A9A9}Man of Faith"
-    new "{size=-5}{color=#A9A9A9}信仰之人"
+    new "{size=-7}{color=#A9A9A9}信仰之人"
 
     # game/script_downfall.rpy:107731
     old "{size=-5}{color=#A9A9A9}Do-It-Yourself"
-    new "{size=-5}{color=#A9A9A9}自己动手"
+    new "{size=-7}{color=#A9A9A9}自己动手"
 
     # game/script_downfall.rpy:107742
     old "{size=-5}{color=#A9A9A9}Lucky Devil"
-    new "{size=-5}{color=#A9A9A9}幸运魔鬼"
+    new "{size=-7}{color=#A9A9A9}幸运魔鬼"
 
     # game/script_downfall.rpy:107753
     old "{size=-5}{color=#A9A9A9}Master of Poisons"
-    new "{size=-5}{color=#A9A9A9}毒药大师"
+    new "{size=-7}{color=#A9A9A9}毒药大师"
 
     # game/script_downfall.rpy:107764
     old "{size=-5}{color=#A9A9A9}Casanova"
-    new "{size=-5}{color=#A9A9A9}情圣"
+    new "{size=-7}{color=#A9A9A9}情圣"
 
     # game/script_downfall.rpy:107775
     old "{size=-5}{color=#A9A9A9}Sticky Fingers"
-    new "{size=-5}{color=#A9A9A9}妙手神偷"
+    new "{size=-7}{color=#A9A9A9}妙手神偷"
 
     # game/script_downfall.rpy:107786
     old "{size=-5}{color=#A9A9A9}Craftsman"
-    new "{size=-5}{color=#A9A9A9}工匠"
+    new "{size=-7}{color=#A9A9A9}工匠"
 
     # game/script_downfall.rpy:107797
     old "{size=-5}{color=#A9A9A9}Нuntsman"
-    new "{size=-5}{color=#A9A9A9}猎人"
+    new "{size=-7}{color=#A9A9A9}猎人"
 
     # game/script_downfall.rpy:107808
     old "{size=-5}{color=#A9A9A9}Нerbsman"
-    new "{size=-5}{color=#A9A9A9}草药师"
+    new "{size=-7}{color=#A9A9A9}草药师"
 
     # game/script_downfall.rpy:107819
     old "{size=-5}{color=#A9A9A9}Scholar"
-    new "{size=-5}{color=#A9A9A9}学者"
+    new "{size=-7}{color=#A9A9A9}学者"
 
     # game/script_downfall.rpy:107830
     old "{size=-5}{color=#A9A9A9}Colossus"
-    new "{size=-5}{color=#A9A9A9}巨像"
+    new "{size=-7}{color=#A9A9A9}巨像"
 
     # game/script_downfall.rpy:107841
     old "{size=-5}{color=#A9A9A9}Good Manager"
-    new "{size=-5}{color=#A9A9A9}优秀管理者"
+    new "{size=-7}{color=#A9A9A9}优秀管理者"
 
     # game/script_downfall.rpy:107852
     old "{size=-5}{color=#A9A9A9}Gambler"
-    new "{size=-5}{color=#A9A9A9}赌徒"
+    new "{size=-7}{color=#A9A9A9}赌徒"
 
     # game/script_downfall.rpy:107863
     old "{size=-5}{color=#A9A9A9}Marauder"
-    new "{size=-5}{color=#A9A9A9}掠夺者"
+    new "{size=-7}{color=#A9A9A9}掠夺者"
 
     # game/script_downfall.rpy:107874
     old "{size=-5}{color=#A9A9A9}Musician"
-    new "{size=-5}{color=#A9A9A9}音乐家"
+    new "{size=-7}{color=#A9A9A9}音乐家"
 
     # game/script_downfall.rpy:107885
     old "{size=-5}{color=#A9A9A9}Thief"
-    new "{size=-5}{color=#A9A9A9}盗贼"
+    new "{size=-7}{color=#A9A9A9}盗贼"
 
     # game/script_downfall.rpy:107896
     old "{size=-5}{color=#A9A9A9}Armorsmith"
-    new "{size=-5}{color=#A9A9A9}护甲匠"
+    new "{size=-7}{color=#A9A9A9}护甲匠"
 
     # game/script_downfall.rpy:107907
     old "{size=-5}{color=#A9A9A9}Нaggler"
-    new "{size=-5}{color=#A9A9A9}讨价还价者"
+    new "{size=-7}{color=#A9A9A9}讨价还价者"
 # TODO: Translation updated at 2024-05-23 15:34
 
 translate english strings:
 
     # game/script_downfall.rpy:86803
     old "{size=-5}Damaged eye!{vspace=3}{size=-2}{color=#A9A9A9}    Accuracy and evasion decreased."
-    new "{size=-5}受伤的眼睛!{vspace=3}{size=-2}{color=#A9A9A9}    命中和闪避降低。"
+    new "{size=-7}受伤的眼睛!{vspace=3}{size=-2}{color=#A9A9A9}    命中和闪避降低。"
 
     # game/script_downfall.rpy:107728
     old "{size=-5}Beast of Burden"
-    new "{size=-5}驮兽"
+    new "{size=-7}驮兽"
 
     # game/script_downfall.rpy:107730
     old "[beast_of_burden_civil_talent_description!ti]"
@@ -13302,7 +13302,7 @@ translate english strings:
 
     # game/script_downfall.rpy:107945
     old "{size=-5}{color=#A9A9A9}Beast of Burden"
-    new "{size=-5}{color=#A9A9A9}负重之兽"
+    new "{size=-7}{color=#A9A9A9}负重之兽"
 # TODO: Translation updated at 2024-05-29 12:32
 
 translate english strings:
@@ -13438,7 +13438,7 @@ translate english strings:
 
     # game/script_downfall.rpy:116176
     old "{size=-5}Acrobat"
-    new "{size=-5}杂技演员"
+    new "{size=-7}杂技演员"
 
     # game/script_downfall.rpy:116178
     old "[acrobat_civil_talent_description!ti]"
@@ -13446,7 +13446,7 @@ translate english strings:
 
     # game/script_downfall.rpy:116184
     old "{size=-5}Woodsman"
-    new "{size=-5}樵夫"
+    new "{size=-7}樵夫"
 
     # game/script_downfall.rpy:116186
     old "[woodsman_civil_talent_description!ti]"
@@ -13454,11 +13454,11 @@ translate english strings:
 
     # game/script_downfall.rpy:116203
     old "{size=-5}{color=#A9A9A9}Acrobat"
-    new "{size=-5}{color=#A9A9A9}杂技演员"
+    new "{size=-7}{color=#A9A9A9}杂技演员"
 
     # game/script_downfall.rpy:116401
     old "{size=-5}{color=#A9A9A9}Woodsman"
-    new "{size=-5}{color=#A9A9A9}樵夫"
+    new "{size=-7}{color=#A9A9A9}樵夫"
 
 # TODO: Translation updated at 2024-10-25 22:20
 
