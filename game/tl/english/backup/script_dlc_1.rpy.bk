@@ -1,0 +1,3707 @@
+﻿# TODO: Translation updated at 2023-12-22 18:27
+
+# game/script_dlc_1.rpy:9
+translate english olivia_marriage_be39d90f:
+
+    # dn "{cps=50}{color=#A9A9A9}Обвенчавшись с Оливией и приняв титул герцога, вы переходите в совершенно новое для себя амплуа."
+    dn "{cps=50}{color=#A9A9A9}By marrying Olivia and accepting the title of duke, you are moving into a completely new role for yourself."
+
+# game/script_dlc_1.rpy:10
+translate english olivia_marriage_ded6ccd9:
+
+    # dn "{cps=50}{color=#A9A9A9}Из безродного ополченца на побегушках, а затем из наемника, выполняющего грязную работу, вы превратились в знатную и титулованную особу, впервые в своей жизни став тем, кто приказы раздает, а не тем, кто их выполняет."
+    dn "{cps=50}{color=#A9A9A9}From a nameless militiaman running errands and then from a mercenary doing the dirty work, you have turned into a noble and distinguished person, for the first time in your life, becoming the one who gives orders rather than the one who carries them out."
+
+# game/script_dlc_1.rpy:11
+translate english olivia_marriage_9ebb23e5:
+
+    # dn "{cps=50}{color=#A9A9A9}В мирное время человеку вашего происхожождения не было смысла даже мечтать о чем-то подобном. Однако война, как это часто бывает, причудливым образом перекроила судьбу."
+    dn "{cps=50}{color=#A9A9A9}In peacetime, there was no point in even dreaming about something like that for a person of your origin. However, the war, as often happens, changed the fate in a bizarre way."
+
+# game/script_dlc_1.rpy:12
+translate english olivia_marriage_bed4152e:
+
+    # dn "{cps=50}{color=#A9A9A9}И там, где кто-то нашел смерть и разорение, вы, пройдя опасной тропой и пролив немало крови, нашли богатство."
+    dn "{cps=50}{color=#A9A9A9}And where some found death and ruin, you, having walked a dangerous path and shed a lot of blood, found wealth."
+
+# game/script_dlc_1.rpy:15
+translate english olivia_marriage_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:24
+translate english olivia_marriage_30d065ef:
+
+    # dn "{cps=50}{color=#A9A9A9}И, похоже, счастье."
+    dn "{cps=50}{color=#A9A9A9}And, it seems, happiness."
+
+# game/script_dlc_1.rpy:25
+translate english olivia_marriage_83cbbf63:
+
+    # dn "{cps=50}{color=#A9A9A9}Ваши отношения с Оливией складываются идеально и вам кажется, что вы получили от жизни всё, чего хотели.{vspace=5}{color=#A9A9A9}Низкое Благочестие — успех!"
+    dn "{cps=50}{color=#A9A9A9}Your relationship with Olivia is perfect, and you feel like you got everything you wanted from life.{vspace=5}{color=#A9A9A9}Low Virtue - success!"
+
+# game/script_dlc_1.rpy:30
+translate english olivia_marriage_767a1eab:
+
+    # dn "{cps=50}{color=#A9A9A9}Какое-то время мысли о новых приключениях еще не дают вам покоя, но проснувшись однажды утром вы вдруг ясно осознаете, что вам уже нечего больше искать."
+    dn "{cps=50}{color=#A9A9A9}For some time, thoughts of new adventures still haunt you, but when you wake up one morning, you suddenly clearly realize that you have nothing left to look for."
+
+# game/script_dlc_1.rpy:31
+translate english olivia_marriage_7f661189:
+
+    # dn "{cps=50}{color=#A9A9A9}И ни в одном месте на земле вы не станете счастливее, чем здесь."
+    dn "{cps=50}{color=#A9A9A9}And in no place on earth will you be happier than here."
+
+# game/script_dlc_1.rpy:32
+translate english olivia_marriage_b4cd5833:
+
+    # dn "{cps=50}{color=#A9A9A9}Остаток своих дней вы проводите в Ренне в компании любящей жены, множества детей и верных подданных, исправно поднимающих тосты за ваше здоровье во всех окрестных тавернах."
+    dn "{cps=50}{color=#A9A9A9}You spend the rest of your days in Rennes in the company of a loving wife, many children and loyal subjects who regularly toast your health in all the surrounding taverns."
+
+# game/script_dlc_1.rpy:33
+translate english olivia_marriage_d50507aa:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 1 из 11."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 1 of 11."
+
+# game/script_dlc_1.rpy:80
+translate english olivia_marriage_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:89
+translate english grace_and_glory_olivia_arrest_3991e06e:
+
+    # "test"
+    "test"
+
+# game/script_dlc_1.rpy:92
+translate english emma_marriage_f19b054f:
+
+    # nvl clear
+    # "{cps=50}За время поисков, однако, Дамиетта успевает стать вашим новым домом. Не в последнюю очередь благодаря отношениям с Эммой, которая даёт вам понять, что не против провести остаток жизни вместе."
+    nvl clear
+    "{cps=50}During your search, however, Damietta manages to become your new home. Not least thanks to the relationship with Emma, who lets you know that she does not mind spending the rest of her life together."
+
+# game/script_dlc_1.rpy:94
+translate english emma_marriage_b7b83971:
+
+    # nvl clear
+    # "{cps=50}Губернатор, явно рассчитывавший выдать свою дочь замуж за более влиятельного человека, поначалу колеблется. Но ваш статус знатного воина, а также многочисленные услуги, оказанные ему, перевешивают и он благословляет брак.{vspace=5}{color=#A9A9A9}Репутация (губернатор) — успех!"
+    nvl clear
+    "{cps=50}The governor, who clearly hoped to marry his daughter to a more influential man, hesitates at first. But your status as a noble warrior, as well as the numerous services rendered to him, outweighs and he blesses the marriage.{vspace=5}{color=#A9A9A9}Reputation (governor) - success!"
+
+# game/script_dlc_1.rpy:96
+translate english emma_marriage_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:103
+translate english emma_marriage_quickjump_b07385e3:
+
+    # dn "{cps=50}{color=#A9A9A9}Так, пройдя через полмира, вы находите неожиданное пристанище здесь, в Утремере."
+    dn "{cps=50}{color=#A9A9A9}So, after traveling halfway around the world, you find an unexpected refuge here in Outremer."
+
+# game/script_dlc_1.rpy:104
+translate english emma_marriage_quickjump_66b4ea2a:
+
+    # dn "{cps=50}{color=#A9A9A9}Несмотря на свой образ избалованной и ветренной девушки, Эмма оказывается заботливой и любящей женой — а также отличной матерью для ваших многочисленных детей."
+    dn "{cps=50}{color=#A9A9A9}Despite her image of a spoiled and flighty girl, Emma turns out to be a caring and loving wife - as well as an excellent mother for your many children."
+
+# game/script_dlc_1.rpy:105
+translate english emma_marriage_quickjump_d7273a5f:
+
+    # dn "{cps=50}{color=#A9A9A9}Остаток своих дней вы проводите в Дамиетте, возглавляя оборону города и пресекая все попытки мамлюков вернуть город и его окрестности под свой контроль."
+    dn "{cps=50}{color=#A9A9A9}You spend the rest of your days in Damietta, leading the defense of the city and stopping all attempts by the Mamluks to return the city and its surroundings to their control."
+
+# game/script_dlc_1.rpy:106
+translate english emma_marriage_quickjump_6c8ae3ff:
+
+    # dn "{cps=50}{color=#A9A9A9}Завоёванная вами слава оказывается столь велика, что даже спустя годы после вашей смерти имя '[name]' всё ещё будет известно каждому в этой части Утремера..."
+    dn "{cps=50}{color=#A9A9A9}The fame you have won is so great that even years after your death, the name '[name]' will still be known to everyone in this part of Outremer..."
+
+# game/script_dlc_1.rpy:107
+translate english emma_marriage_quickjump_fe5bb010:
+
+    # dn "{cps=50}{color=#A9A9A9}Вселяя страх в сердца одних и придавая сил другим."
+    dn "{cps=50}{color=#A9A9A9}Instilling fear in the hearts of some and giving strength to others."
+
+# game/script_dlc_1.rpy:108
+translate english emma_marriage_quickjump_a6ca4162:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 4 из 11."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 4 of 11."
+
+# game/script_dlc_1.rpy:163
+translate english damanhur_march_day1_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:176
+translate english damanhur_march_day1_fdb1fc10:
+
+    # "{cps=50}Изнурительный переход по пустыне быстро сжигает ваши силы.{vspace=5}{color=#A9A9A9}Усталость увеличена!"
+    "{cps=50}The grueling trek through the desert quickly burns up your strength.{vspace=5}{color=#A9A9A9}Fatigue level increased!"
+
+# game/script_dlc_1.rpy:178
+translate english damanhur_march_day1_1ac9cf95:
+
+    # nvl clear
+    # "{cps=50}Стоит вам лишь покинуть Дамиетту, как на горизонте показываются группы сарацинов-разведчиков, внимательно следящие за передвижениями вашего отряда и как тень следующие за вами по пятам."
+    nvl clear
+    "{cps=50}As soon as you leave Damietta, groups of Saracen scouts appear on the horizon, carefully monitoring the movements of your squad and following on your heels like a shadow."
+
+# game/script_dlc_1.rpy:180
+translate english damanhur_march_day1_2981f552:
+
+    # nvl clear
+    # "{cps=50}Их постоянное присутствие пораждает у вас неотступающее чувство опастности и, когда на закате приходит время остановиться и разбить лагерь для ночёвки, вы с трудом можете заставить себя сомкнуть глаза. Даже несмотря на многочисленных дозорных, выставленных по периметру лагеря."
+    nvl clear
+    "{cps=50}Their constant presence gives you a nagging sense of danger, and when the time comes to stop and set up camp for the night at sunset, you can hardly bring yourself to close your eyes. Even despite the numerous sentinels posted around the perimeter of the camp."
+
+# game/script_dlc_1.rpy:182
+translate english damanhur_march_day1_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:187
+translate english damanhur_march_day1_07a7f8df:
+
+    # nvl clear
+    # "{cps=50}Несмотря на ощущение опасности вы решаете попытаться взремнуть, чтобы хоть немного восстановить силы после трудного дня."
+    nvl clear
+    "{cps=50}Despite the feeling of danger, you decide to try to take a nap in order to regain some strength after a hard day."
+
+# game/script_dlc_1.rpy:189
+translate english damanhur_march_day1_d14cd0c4:
+
+    # nvl clear
+    # "{cps=50}..."
+    nvl clear
+    "{cps=50}..."
+
+# game/script_dlc_1.rpy:191
+translate english damanhur_march_day1_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:196
+translate english damanhur_march_day1_a1300b31:
+
+    # "{cps=50}Ночь проходит без проишествий."
+    "{cps=50}The night passes without incident."
+
+# game/script_dlc_1.rpy:197
+translate english damanhur_march_day1_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:201
+translate english damanhur_march_day1_a90cb4ed:
+
+    # nvl clear
+    # "{cps=50}Несмотря на крайнюю усталость от дневного перехода, вы всю ночь не смыкаете глаз, готовясь отразить возможное нападение сарацинов."
+    nvl clear
+    "{cps=50}Despite extreme fatigue from the day's march, you do not close your eyes all night, preparing to repel a possible attack by the Saracens."
+
+# game/script_dlc_1.rpy:203
+translate english damanhur_march_day1_e397d663:
+
+    # nvl clear
+    # "{cps=50}Нападение, которого так и не происходит."
+    nvl clear
+    "{cps=50}An attack that never happens."
+
+# game/script_dlc_1.rpy:205
+translate english damanhur_march_day1_e2923e5e:
+
+    # nvl clear
+    # "{cps=50}Бессонная ночь, которой вы награждаете своё тело после трудного перехода, не проходит бесследно для вашего здоровья.{vspace=5}{color=#A9A9A9}Все характеристики уменьшены на 2!"
+    nvl clear
+    "{cps=50}The sleepless night that you reward your body with after a difficult crossing does not pass without leaving a mark on your health.{vspace=5}{color=#A9A9A9}All stats lowered by 2!"
+
+# game/script_dlc_1.rpy:207
+translate english damanhur_march_day1_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:219
+translate english damanhur_march_day2_7ba6b4a2:
+
+    # nvl clear
+    # "{cps=50}Второй день пути приносит очередной истощающий переход по пустыне.{vspace=5}{color=#A9A9A9}Усталость увеличена!"
+    nvl clear
+    "{cps=50}The second day of the journey brings another exhausting trek through the desert.{vspace=5}{color=#A9A9A9}Fatigue level increased!"
+
+# game/script_dlc_1.rpy:222
+translate english damanhur_march_day2_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:224
+translate english damanhur_march_day2_dac13f58:
+
+    # "{cps=50}В течение всего дня вы внимательно следите за округой, однако не замечаете ничего подозрительного. Многие ваши спутники приободряются, считая, что получившие отпор сарацины больше не осмелятся показываться."
+    "{cps=50}You carefully monitor your surroundings throughout the day, but do not notice anything suspicious. Many of your companions are encouraged, believing that the Saracens, having been rebuffed, will no longer dare to show themselves."
+
+# game/script_dlc_1.rpy:225
+translate english damanhur_march_day2_c4c231e5:
+
+    # nvl clear
+    # "{cps=50}Но вы не разделяете их уверенности, а чувство опасности не пропадает."
+    nvl clear
+    "{cps=50}But you do not share their confidence, and the feeling of danger does not disappear."
+
+# game/script_dlc_1.rpy:227
+translate english damanhur_march_day2_75788128:
+
+    # nvl clear
+    # "{cps=50}Наступление заката ознаменует необходимость вновь разбивать лагерь для ночлега..."
+    nvl clear
+    "{cps=50}The sunset marks the need to set up camp again for the night..."
+
+# game/script_dlc_1.rpy:229
+translate english damanhur_march_day2_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:231
+translate english damanhur_march_day2_7282ec28:
+
+    # "{cps=50}Сарацинские всадники по прежнему продолжают следить за вами издалека — не рискуя приближаться, но и ни на мгновение не пропадая из виду."
+    "{cps=50}The Saracen horsemen still continue to watch you from afar - not risking getting closer, but not losing sight for a moment."
+
+# game/script_dlc_1.rpy:232
+translate english damanhur_march_day2_75788128_1:
+
+    # nvl clear
+    # "{cps=50}Наступление заката ознаменует необходимость вновь разбивать лагерь для ночлега..."
+    nvl clear
+    "{cps=50}The sunset marks the need to set up camp again for the night..."
+
+# game/script_dlc_1.rpy:234
+translate english damanhur_march_day2_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:239
+translate english damanhur_march_day2_07a7f8df:
+
+    # nvl clear
+    # "{cps=50}Несмотря на ощущение опасности вы решаете попытаться взремнуть, чтобы хоть немного восстановить силы после трудного дня."
+    nvl clear
+    "{cps=50}Despite the feeling of danger, you decide to try to take a nap in order to regain some strength after a hard day."
+
+# game/script_dlc_1.rpy:241
+translate english damanhur_march_day2_d14cd0c4:
+
+    # nvl clear
+    # "{cps=50}..."
+    nvl clear
+    "{cps=50}..."
+
+# game/script_dlc_1.rpy:243
+translate english damanhur_march_day2_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:254
+translate english damanhur_march_day2_a90cb4ed:
+
+    # nvl clear
+    # "{cps=50}Несмотря на крайнюю усталость от дневного перехода, вы всю ночь не смыкаете глаз, готовясь отразить возможное нападение сарацинов."
+    nvl clear
+    "{cps=50}Despite extreme fatigue from the day's march, you do not close your eyes all night, preparing to repel a possible attack by the Saracens."
+
+# game/script_dlc_1.rpy:256
+translate english damanhur_march_day2_e397d663:
+
+    # nvl clear
+    # "{cps=50}Нападение, которого так и не происходит."
+    nvl clear
+    "{cps=50}An attack that never happens."
+
+# game/script_dlc_1.rpy:258
+translate english damanhur_march_day2_e2923e5e:
+
+    # nvl clear
+    # "{cps=50}Бессонная ночь, которой вы награждаете своё тело после трудного перехода, не проходит бесследно для вашего здоровья.{vspace=5}{color=#A9A9A9}Все характеристики уменьшены на 2!"
+    nvl clear
+    "{cps=50}The sleepless night that you reward your body with after a difficult crossing does not pass without leaving a mark on your health.{vspace=5}{color=#A9A9A9}All stats lowered by 2!"
+
+# game/script_dlc_1.rpy:260
+translate english damanhur_march_day2_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:271
+translate english damanhur_ambush_f25145a8:
+
+    # nvl clear
+    # "{cps=50}Проснувшись ночью от каких-то непонятных звуков, вы немедленно хватаетесь за оружие и выскакиваете из своего шатра..."
+    nvl clear
+    "{cps=50}Waking up at night from some incomprehensible sounds, you immediately grab your weapon and jump out of your tent..."
+
+# game/script_dlc_1.rpy:273
+translate english damanhur_ambush_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:285
+translate english damanhur_ambush_0864eb4a:
+
+    # "{cps=50}...Как раз вовремя для того, чтобы увидеть, как [ally!ti] захлебывается собственной кровью, держась за перерезанное горло.{vspace=5}{color=#A9A9A9}[ally!ti] погиб!"
+    "{cps=50}...Just in time to see [ally!ti] choke on his own blood, holding his slit throat.{vspace=5}{color=#A9A9A9}[ally!ti] died!"
+
+# game/script_dlc_1.rpy:305
+translate english damanhur_ambush_ba58b535:
+
+    # "{cps=50}...Как раз вовремя для того, чтобы увидеть, как один из людей Раймунда захлебывается собственной кровью, держась за перерезанное горло."
+    "{cps=50}...Just in time to see one of Raymond's men choke on his own blood, holding his cut throat."
+
+# game/script_dlc_1.rpy:307
+translate english damanhur_ambush_059edcbb:
+
+    # nvl clear
+    # "{cps=50}Темная фигура с окровавленным клинком в руке, стоящая над его телом и уже заносившая было оружие для удара по еще одному вашему товарищу, немедленно бросается на вас."
+    nvl clear
+    "{cps=50}A dark figure with a bloody blade in his hand, standing over his body and already raising a weapon to strike another of your comrades, immediately rushes at you."
+
+# game/script_dlc_1.rpy:309
+translate english damanhur_ambush_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:707
+translate english damanhur_ambush1_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:713
+translate english damanhur_ambush1_fight_9761afe5:
+
+    # nvl clear
+    # "{cps=50}Сарацины явно не намерены сражаться до конца и, как только дело начинает поворачиваться не в их пользу, они тут же поспешно отступают."
+    nvl clear
+    "{cps=50}The Saracens clearly do not intend to fight to the end, and, as soon as things start to turn against them, they hastily retreat."
+
+# game/script_dlc_1.rpy:716
+translate english damanhur_ambush1_fight_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:792
+translate english damanhur_ambush1_postfight_66fec7b3:
+
+    # nvl clear
+    # "{cps=50}Пользуясь неразберихой в лагере, остатки нападавших быстро исчезают в ночной тьме."
+    nvl clear
+    "{cps=50}Taking advantage of the confusion in the camp, the remnants of the attackers quickly disappear into the darkness of the night."
+
+# game/script_dlc_1.rpy:794
+translate english damanhur_ambush1_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:806
+translate english damanhur_march_battle_intro_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:808
+translate english damanhur_march_battle_intro_ebbdddf7:
+
+    # "{cps=50}Когда, утром третьего дня, вы, осмотревшись, больше не замечаете сарацинов, чувство опасности, не отпускавшее вас всё это время, наконец понемногу исчезает."
+    "{cps=50}When, on the morning of the third day, you look around and no longer notice the Saracens, the feeling of danger that has not left you all this time finally gradually disappears."
+
+# game/script_dlc_1.rpy:809
+translate english damanhur_march_battle_intro_58baf5c1:
+
+    # nvl clear
+    # "{cps=50}Позавтракав, отряд бодро выступает в путь — приободрившиеся солдаты затягивают песни, а вы, впервые за несколько последних дней, замечаете улыбку на своём лице. Все скалдывается не так уж и плохо."
+    nvl clear
+    "{cps=50}After breakfast, the detachment cheerfully sets out on the road - the invigorated soldiers begin to sing, and you, for the first time in the last few days, notice a smile on your face. Things don't turn out that bad."
+
+# game/script_dlc_1.rpy:812
+translate english damanhur_march_battle_intro_a32e773c:
+
+    # "{cps=50}На утро третьего дня вы с удивлением замечаете, что отряд сарацинов, преследовавший вас всё это время, бесследно исчез."
+    "{cps=50}On the morning of the third day, you are surprised to notice that the detachment of Saracens that had been pursuing you all this time has disappeared without a trace."
+
+# game/script_dlc_1.rpy:813
+translate english damanhur_march_battle_intro_a70cf99f:
+
+    # nvl clear
+    # "{cps=50}Поначалу это обстоятельство становится поводом для радости."
+    nvl clear
+    "{cps=50}At first, this circumstance becomes a reason for joy."
+
+# game/script_dlc_1.rpy:816
+translate english damanhur_march_battle_intro_7bb590b2:
+
+    # nvl clear
+    # "{cps=50}Однако спустя несколько часов становится очевидно, что радость эта было несколько преждевременной.{w} Так как вместо одинокой группы разведчиков на горизонте появляется внушительный отряд сарацинских всадников в блестящих на солнце кольчугах."
+    nvl clear
+    "{cps=50}However, after a few hours it becomes obvious that this joy was somewhat premature.{w} Because instead of a lonely group of scouts, an impressive detachment of Saracen horsemen in chain mail shining in the sun appears on the horizon."
+
+# game/script_dlc_1.rpy:818
+translate english damanhur_march_battle_intro_a3b74249:
+
+    # nvl clear
+    # "{cps=50}Развернувшись в боевые порядки, вы готовитесь обороняться, но сарацины не спешат бросаться на вас. Вместо этого, подобравшись на расстояние выстрела из лука, они начинают забрасывать вас стрелами и арбалетными болтами."
+    nvl clear
+    "{cps=50}After deploying into battle formations, you prepare to defend yourselves, but the Saracens are in no hurry to rush at you. Instead, once they get within bow range, they start barraging you with arrows and crossbow bolts."
+
+# game/script_dlc_1.rpy:820
+translate english damanhur_under_fire_76b2fe88_8:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:826
+translate english damanhur_under_fire_07c1ff67:
+
+    # "{cps=50}Несколько стрел попадают в вас, однако со звоном отскакивают от вашего доспеха.{vspace=5}{color=#A9A9A9}Покрытие брони, Удача — успех!"
+    "{cps=50}Several arrows hit you, but bounce off your armor with a ringing sound.{vspace=5}{color=#A9A9A9}Armor cover, Luck — success!"
+
+# game/script_dlc_1.rpy:829
+translate english damanhur_under_fire_4ca8db89:
+
+    # "{cps=50}Несколько стрел попадают в вас, нанося тяжелые ранения.{vspace=5}{color=#A9A9A9}Покрытие брони, Удача — провал!{vspace=5}Здоровье уменьшено на 25!{vspace=5}Здоровье: [player_health]/[player_health_max]"
+    "{cps=50}Several arrows hit you, causing heavy wounds.{vspace=5}{color=#A9A9A9}Armor cover, Luck - fail!{vspace=5}Health lowered by 25!{vspace=5}Health: [player_health]/[player_health_max]"
+
+# game/script_dlc_1.rpy:832
+translate english damanhur_under_fire_735dbe23:
+
+    # nvl clear
+    # "{cps=50}Одно из них оказывается смертельным."
+    nvl clear
+    "{cps=50}One of them ends up being fatal."
+
+# game/script_dlc_1.rpy:838
+translate english damanhur_under_fire_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:843
+translate english damanhur_under_fire_c6fd07d1:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён броней!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by armor!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover - success!"
+
+# game/script_dlc_1.rpy:846
+translate english damanhur_under_fire_2578f490:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member1_health]/[player_squad_member1_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover - fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member1_health]/[player_squad_member1_health_max]"
+
+# game/script_dlc_1.rpy:849
+translate english damanhur_under_fire_46b1d67e:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:851
+translate english damanhur_under_fire_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:856
+translate english damanhur_under_fire_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:861
+translate english damanhur_under_fire_c6fd07d1_1:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён броней!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by armor!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover - success!"
+
+# game/script_dlc_1.rpy:864
+translate english damanhur_under_fire_2738df57:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member2_health]/[player_squad_member2_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover - fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member2_health]/[player_squad_member2_health_max]"
+
+# game/script_dlc_1.rpy:867
+translate english damanhur_under_fire_46b1d67e_1:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:869
+translate english damanhur_under_fire_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:874
+translate english damanhur_under_fire_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:879
+translate english damanhur_under_fire_c6fd07d1_2:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён броней!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by armor!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover - success!"
+
+# game/script_dlc_1.rpy:882
+translate english damanhur_under_fire_5d66f07e:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member3_health]/[player_squad_member3_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover - fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member3_health]/[player_squad_member3_health_max]"
+
+# game/script_dlc_1.rpy:885
+translate english damanhur_under_fire_46b1d67e_2:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:887
+translate english damanhur_under_fire_76b2fe88_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:892
+translate english damanhur_under_fire_76b2fe88_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:897
+translate english damanhur_under_fire_c6fd07d1_3:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён броней!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by armor!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover - success!"
+
+# game/script_dlc_1.rpy:900
+translate english damanhur_under_fire_2ae8b609:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие брони — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member4_health]/[player_squad_member4_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Armor cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member4_health]/[player_squad_member4_health_max]"
+
+# game/script_dlc_1.rpy:903
+translate english damanhur_under_fire_46b1d67e_3:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:905
+translate english damanhur_under_fire_76b2fe88_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:913
+translate english damanhur_under_fire2_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:917
+translate english damanhur_under_fire2_a32c2576:
+
+    # "{cps=50}Несколько стрел попадают в вас, однако со звоном отскакивают от вашего шлема.{vspace=5}{color=#A9A9A9}Покрытие шлема, Удача — успех!"
+    "{cps=50}Several arrows hit you, but bounce off your helmet with a ringing sound.{vspace=5}{color=#A9A9A9}Helmet cover, Luck — success!"
+
+# game/script_dlc_1.rpy:920
+translate english damanhur_under_fire2_f688f7d8:
+
+    # "{cps=50}Несколько стрел попадают в вас, нанося тяжелые ранения.{vspace=5}{color=#A9A9A9}Покрытие шлема, Удача — провал!{vspace=5}Здоровье уменьшено на 25!{vspace=5}Здоровье: [player_health]/[player_health_max]"
+    "{cps=50}Several arrows hit you, causing heavy wounds.{vspace=5}{color=#A9A9A9}Helmet cover, Luck - fail!{vspace=5}Health lowered by 25!{vspace=5}Health: [player_health]/[player_health_max]"
+
+# game/script_dlc_1.rpy:923
+translate english damanhur_under_fire2_735dbe23:
+
+    # nvl clear
+    # "{cps=50}Одно из них оказывается смертельным."
+    nvl clear
+    "{cps=50}One of them ends up being fatal."
+
+# game/script_dlc_1.rpy:929
+translate english damanhur_under_fire2_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:934
+translate english damanhur_under_fire2_68c23e89:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён шлемом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the helmet!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — success!"
+
+# game/script_dlc_1.rpy:937
+translate english damanhur_under_fire2_84e96160:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member1_health]/[player_squad_member1_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member1_health]/[player_squad_member1_health_max]"
+
+# game/script_dlc_1.rpy:940
+translate english damanhur_under_fire2_46b1d67e:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:942
+translate english damanhur_under_fire2_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:947
+translate english damanhur_under_fire2_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:952
+translate english damanhur_under_fire2_68c23e89_1:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён шлемом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the helmet!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — success!"
+
+# game/script_dlc_1.rpy:955
+translate english damanhur_under_fire2_bbb3494c:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member2_health]/[player_squad_member2_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member2_health]/[player_squad_member2_health_max]"
+
+# game/script_dlc_1.rpy:958
+translate english damanhur_under_fire2_46b1d67e_1:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:960
+translate english damanhur_under_fire2_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:965
+translate english damanhur_under_fire2_76b2fe88_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:970
+translate english damanhur_under_fire2_68c23e89_2:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён шлемом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the helmet!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — success!"
+
+# game/script_dlc_1.rpy:973
+translate english damanhur_under_fire2_8cb6f163:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member3_health]/[player_squad_member3_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member3_health]/[player_squad_member3_health_max]"
+
+# game/script_dlc_1.rpy:976
+translate english damanhur_under_fire2_46b1d67e_2:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:978
+translate english damanhur_under_fire2_76b2fe88_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:983
+translate english damanhur_under_fire2_76b2fe88_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:988
+translate english damanhur_under_fire2_68c23e89_3:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён шлемом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the helmet!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — success!"
+
+# game/script_dlc_1.rpy:991
+translate english damanhur_under_fire2_7558652d:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие шлема — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member4_health]/[player_squad_member4_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Helmet cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member4_health]/[player_squad_member4_health_max]"
+
+# game/script_dlc_1.rpy:994
+translate english damanhur_under_fire2_46b1d67e_3:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:996
+translate english damanhur_under_fire2_76b2fe88_8:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1004
+translate english damanhur_under_fire3_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1008
+translate english damanhur_under_fire3_1e8bb3a1:
+
+    # "{cps=50}Несколько стрел попадают в вас, однако со звоном отскакивают от вашего горжета.{vspace=5}{color=#A9A9A9}Покрытие горжета, Удача — успех!"
+    "{cps=50}Several arrows hit you, but bounce off your gorget with a ringing sound.{vspace=5}{color=#A9A9A9}Gorget cover, Luck — success!"
+
+# game/script_dlc_1.rpy:1011
+translate english damanhur_under_fire3_f1cdc8d9:
+
+    # "{cps=50}Несколько стрел попадают в вас, нанося тяжелые ранения.{vspace=5}{color=#A9A9A9}Покрытие горжета, Удача — провал!{vspace=5}Здоровье уменьшено на 25!{vspace=5}Здоровье: [player_health]/[player_health_max]"
+    "{cps=50}Several arrows hit you, causing heavy wounds.{vspace=5}{color=#A9A9A9}Gorget cover, Luck - Fail!{vspace=5}Health lowered by 25!{vspace=5}Health: [player_health]/[player_health_max]"
+
+# game/script_dlc_1.rpy:1014
+translate english damanhur_under_fire3_735dbe23:
+
+    # nvl clear
+    # "{cps=50}Одно из них оказывается смертельным."
+    nvl clear
+    "{cps=50}One of them ends up being fatal."
+
+# game/script_dlc_1.rpy:1020
+translate english damanhur_under_fire3_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1025
+translate english damanhur_under_fire3_cfc231b1:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён горжетом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the gorget!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — success!"
+
+# game/script_dlc_1.rpy:1028
+translate english damanhur_under_fire3_b5c22257:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member1_health]/[player_squad_member1_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member1_health]/[player_squad_member1_health_max]"
+
+# game/script_dlc_1.rpy:1031
+translate english damanhur_under_fire3_46b1d67e:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:1033
+translate english damanhur_under_fire3_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1038
+translate english damanhur_under_fire3_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1043
+translate english damanhur_under_fire3_cfc231b1_1:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён горжетом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the gorget!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — success!"
+
+# game/script_dlc_1.rpy:1046
+translate english damanhur_under_fire3_74684523:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member2_health]/[player_squad_member2_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member2_health]/[player_squad_member2_health_max]"
+
+# game/script_dlc_1.rpy:1049
+translate english damanhur_under_fire3_46b1d67e_1:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:1051
+translate english damanhur_under_fire3_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1056
+translate english damanhur_under_fire3_76b2fe88_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1061
+translate english damanhur_under_fire3_cfc231b1_2:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён горжетом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the gorget!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — success!"
+
+# game/script_dlc_1.rpy:1064
+translate english damanhur_under_fire3_9056ad45:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member3_health]/[player_squad_member3_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member3_health]/[player_squad_member3_health_max]"
+
+# game/script_dlc_1.rpy:1067
+translate english damanhur_under_fire3_46b1d67e_2:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:1069
+translate english damanhur_under_fire3_76b2fe88_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1074
+translate english damanhur_under_fire3_76b2fe88_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1079
+translate english damanhur_under_fire3_cfc231b1_3:
+
+    # "{cps=50}[ally!ti] попал под обстрел, но был спасён горжетом!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — успех!"
+    "{cps=50}[ally!ti] was hit with an arrow, but was saved by the gorget!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — success!"
+
+# game/script_dlc_1.rpy:1082
+translate english damanhur_under_fire3_a677c255:
+
+    # "{cps=50}[ally!ti] попал под обстрел и получил ранение!{vspace=5}{color=#A9A9A9}[ally!ti]: Покрытие горжета — провал!{vspace=5}[ally!ti]: Здоровье уменьшено на 25!{vspace=5}[ally!ti]: Здоровье: [player_squad_member4_health]/[player_squad_member4_health_max]"
+    "{cps=50}[ally!ti] was hit with an arrow and was wounded!{vspace=5}{color=#A9A9A9}[ally!ti]: Gorget cover — fail!{vspace=5}[ally!ti]: Health lowered by 25!{vspace=5}[ally!ti]: Health: [player_squad_member4_health]/[player_squad_member4_health_max]"
+
+# game/script_dlc_1.rpy:1085
+translate english damanhur_under_fire3_46b1d67e_3:
+
+    # nvl clear
+    # "{cps=50}[ally!ti] погибает!"
+    nvl clear
+    "{cps=50}[ally!ti] is dead!"
+
+# game/script_dlc_1.rpy:1087
+translate english damanhur_under_fire3_76b2fe88_8:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1097
+translate english damanhur_under_fire_hub_e5647d15:
+
+    # nvl clear
+    # "{cps=50}Несмотря на интенсивный обстрел, Раймунд из Байё, возглавляющий ваш отряд, запрещает кому-либо покидать плотно сомкнутый строй, опасаясь попасть в ловушку сарацинов..."
+    nvl clear
+    "{cps=50}Despite the Saracens' shower of arrows, Raymond of Bayeux, leader of your detachment, forbids anyone from leaving the tightly closed formation for fear of falling into the Saracens' trap..."
+
+# game/script_dlc_1.rpy:1099
+translate english damanhur_under_fire_hub_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1101
+translate english damanhur_under_fire_hub_0395c4a3:
+
+    # nvl clear
+    # "{cps=50}Отчаявшись заставить вас разорвать строй и атаковать, сарацинские лучники отходят назад, уступая место тяжеловооруженным воинам, которые сами предпринимают атаку на ваши позиции."
+    nvl clear
+    "{cps=50}Unable to force you to break formation and attack, the Saracen archers retreat, giving way to heavily armed warriors who launch their own attack on your positions."
+
+# game/script_dlc_1.rpy:1103
+translate english damanhur_under_fire_hub_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1109
+translate english damanhur_under_fire_hub_d0686e7b:
+
+    # nvl clear
+    # "{cps=50}Не желая позволять сарацинам спокойно расстреливать вас и ваших товарищей, вы самовольно поднимаете людей в атаку и устремляетесь прямо на противника."
+    nvl clear
+    "{cps=50}Reluctant to let the Saracens safely shoot you and your comrades, you arbitrarily raise people to attack and charge straight at the enemy."
+
+# game/script_dlc_1.rpy:1111
+translate english damanhur_under_fire_hub_ae561259:
+
+    # nvl clear
+    # "{cps=50}Уже ввязавшись в бой вы понимаете, что бросив строй и рванувшись вперед — угодили прямиком в ловушку сарацинов и вот-вот окажетесь в окружении..."
+    nvl clear
+    "{cps=50}Having already gotten involved in the battle, you realize that by abandoning the formation and rushing forward you have fallen straight into the Saracens’ trap and are now about to find yourself surrounded..."
+
+# game/script_dlc_1.rpy:1113
+translate english damanhur_under_fire_hub_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1119
+translate english damanhur_under_fire_hub_9233f1cc:
+
+    # nvl clear
+    # "{cps=50}Стиснув зубы, вы продолжаете держать позицию под обстрелом.{vspace=5}А сарацинские лучники, тем временем, запускают в небо очердную волну стрел..."
+    nvl clear
+    "{cps=50}Clenching your teeth, you continue to hold your position under fire.{vspace=5}And the Saracen archers, meanwhile, are launching another volley of arrows into the sky..."
+
+# game/script_dlc_1.rpy:1121
+translate english damanhur_under_fire_hub_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1489
+translate english damanhur_march_attack_battle_fight_342ac00e:
+
+    # nvl clear
+    # "{cps=50}Отчаянно сражаясь, вы успеваете вырваться из окружения прежде, чем ловушка окончательно захлопнется — и благополучно возвращаетесь назад."
+    nvl clear
+    "{cps=50}Fighting desperately, you manage to escape from the encirclement before the trap completely slams shut - and return safely."
+
+# game/script_dlc_1.rpy:1491
+translate english damanhur_march_attack_battle_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1497
+translate english damanhur_march_attack_battle_fight_05b02d46:
+
+    # "{cps=50}Ловкушка постепенно захлопывается. Вы вот-вот окажетесь в полном окружении..."
+    "{cps=50}The trap is gradually closing. You are about to find yourself completely surrounded..."
+
+# game/script_dlc_1.rpy:1499
+translate english damanhur_march_attack_battle_fight_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1514
+translate english damanhur_march_attack_battle_fight_8faf01d8:
+
+    # nvl clear
+    # "{cps=50}Успешно отрезав вас от оставшихся позади основных сил, сарацины без труда одного за одним перебивают всех."
+    nvl clear
+    "{cps=50}Having successfully cut you off from the main forces left behind, the Saracens easily kill everyone one by one."
+
+# game/script_dlc_1.rpy:1516
+translate english damanhur_march_attack_battle_fight_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1593
+translate english damanhur_march_attack_battle_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:1964
+translate english damanhur_march_defend_battle_fight_b4551df1:
+
+    # nvl clear
+    # "{cps=50}Выдержав натиск противника, вы заставляете его начать беспорядочное отступление."
+    nvl clear
+    "{cps=50}Having withstood the enemy's onslaught, you force them to begin a disorderly retreat."
+
+# game/script_dlc_1.rpy:1966
+translate english damanhur_march_defend_battle_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2045
+translate english damanhur_march_defend_battle_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2052
+translate english damanhur_siege_3d18ac9a:
+
+    # nvl clear
+    # "{cps=50}Видя, что теперь уже сарацины оказались в уязвимом положении, Раймунд принимает решение о контратаке."
+    nvl clear
+    "{cps=50}Seeing that it is the Saracens who are now in a vulnerable position, Raymond decides to launch a counterattack."
+
+# game/script_dlc_1.rpy:2054
+translate english damanhur_siege_35550634:
+
+    # nvl clear
+    # "{cps=50}Застигнутый врасплох вашей контратакой противник обращается в бегство. Спустя четверть часа от внушительного отряда сарацинов не остается и следа."
+    nvl clear
+    "{cps=50}Caught by surprise by your counterattack, the enemy takes flight. A quarter of an hour later, not a trace remains of the formidable detachment of Saracens."
+
+# game/script_dlc_1.rpy:2056
+translate english damanhur_siege_f4fc3cd4:
+
+    # nvl clear
+    # nvl clear
+    # "{cps=50}Несмотря на уверенную победу, которой завершается сражение, вы всё меньше верите в успех предприятия. Покинув Дамиетту лишь несколько дней назад и еще даже не успев достичь стен Даманхура, отряд уже лишился доброй четверти бойцов."
+    nvl clear
+    nvl clear
+    "{cps=50}Despite the confident victory that the battle ends with, you believe less and less in the success of the enterprise. Having left Damietta only a few days ago, the detachment has already lost a good quarter of its fighters before even reaching the walls of Damanhur."
+
+# game/script_dlc_1.rpy:2060
+translate english damanhur_siege_7570b00c:
+
+    # nvl clear
+    # "{cps=50}Еще одной подобной стычки с сарацинами будет достаточно для того, чтобы окончательно похоронить любые надежды на то, чтобы овладеть Даманхуром — потому что городские стены просто некому будет штурмовать."
+    nvl clear
+    "{cps=50}Another similar skirmish with the Saracens would be enough to completely bury any hopes of capturing Damanhur - because there would simply be no one left to storm the city walls."
+
+# game/script_dlc_1.rpy:2062
+translate english damanhur_siege_a0d4c6fd:
+
+    # nvl clear
+    # "{cps=50}К счастью, нанесенное сарацинам поражение оказывается достаточно существенным для того, чтобы обезопасть вас на оставшемся промежутки пути. И, спустя еще несколько дней изнурительного пути, вы наконец достигаете цели."
+    nvl clear
+    "{cps=50}Fortunately, the defeat inflicted on the Saracens turns out to be significant enough to keep you safe the rest of the way. And, after several more days of grueling travel, you finally reach your goal."
+
+# game/script_dlc_1.rpy:2064
+translate english damanhur_siege_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2071
+translate english damanhur_siege_b3e9906f:
+
+    # nvl clear
+    # "{cps=50}Расположенный вблизи оазиса Даманхур оказывается внушительных размеров городом, обладающим мощными укреплениями с виду едва ли уступающими по неприступности бастионам Дамиетты."
+    nvl clear
+    "{cps=50}Located near an oasis, Damanhur turns out to be an impressive-sized city with powerful fortifications that seem hardly inferior in impregnability to the bastions of Damietta."
+
+# game/script_dlc_1.rpy:2073
+translate english damanhur_siege_8aba3044:
+
+    # nvl clear
+    # "{cps=50}Намётанным глазом опытного воина вы сразу видите, что численности вашего отряда не хватит для окружения города и взятия его в осаду — Даманхур для этого слишком огромен."
+    nvl clear
+    "{cps=50}With the trained eye of an experienced warrior, you immediately see that the size of your squad is not enough to encircle the city and take it under siege - Damanhur is too huge for that."
+
+# game/script_dlc_1.rpy:2075
+translate english damanhur_siege_d5185ac3:
+
+    # nvl clear
+    # "{cps=50}Изложив свои соображения на военном совете, вы убеждаете Раймунда, что единственный шанс овладеть городом — это захватить его стремительной атакой. В противном случае, с каждым днем промедления, силы защитников, подпитываемые со всех окрестностей, будут лишь расти — в то время как ваш отряд, уязвимый для вылазок и лишенный подкреплений, будет таять на глазах."
+    nvl clear
+    "{cps=50}Having presented your thoughts at the military council, you convince Raymond that the only chance to capture the city is to seize it in a swift attack. Otherwise, with every day of delay, the forces of the defenders, bolstered from all around, will only grow - while your squad, vulnerable to attacks and deprived of reinforcements, will melt before your eyes."
+
+# game/script_dlc_1.rpy:2077
+translate english damanhur_siege_530dfc8a:
+
+    # nvl clear
+    # "{cps=50}Дав своим людям неделю на отдых и подготовку, Раймунд принимает решение о штурме города."
+    nvl clear
+    "{cps=50}Giving his people a week to rest and prepare, Raymond decides to storm the city."
+
+# game/script_dlc_1.rpy:2079
+translate english damanhur_siege_e89bf60e:
+
+    # nvl clear
+    # nvl clear
+    # "{cps=50}Следующая неделя проходит в активной подготовке к предстоящему штурму, главным образом заключающейся в добыче из близлежащего оазиса древесины и изготовлении из него большой осадной башни."
+    nvl clear
+    nvl clear
+    "{cps=50}The next week is spent in active preparation for the upcoming assault, mainly involving extraction of wood from the nearby oasis and construction of a large siege tower out of it."
+
+# game/script_dlc_1.rpy:2083
+translate english damanhur_siege_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2093
+translate english damanhur_siege_3aee8191:
+
+    # "{cps=50}Ваше мастерство в ремесленничестве приходится как раз кстати — взяв на себя руководство над процессом, вы добиваетесь того, чтобы башня получилась прочной и надежной.{vspace=5}{color=#A9A9A9}Ремесло, Предметы в инвентаре — успех!"
+    "{cps=50}Your craftsmanship skills come in handy - by taking charge of the process, you ensure that the tower ends up strong and reliable.{vspace=5}{color=#A9A9A9}Craftsmanship, Items in inventory - success!"
+
+# game/script_dlc_1.rpy:2096
+translate english damanhur_siege_42a98b3f:
+
+    # "{cps=50}К сожалению, в отряде не оказывается по-настоящему толкового ремесленника, который мог бы грамотно огранизовать её строительство.{vspace=5}{color=#A9A9A9}Ремесло, Предметы в инвентаре — провал!"
+    "{cps=50}Unfortunately, the squad does not have a truly skilled craftsman who could competently organize its construction.{vspace=5}{color=#A9A9A9}Craftsmanship, Items in inventory - fail!"
+
+# game/script_dlc_1.rpy:2097
+translate english damanhur_siege_99c294b6:
+
+    # nvl clear
+    # "{cps=50}А поэтому, вместо прочной и надежной осадной машины, приходится довольствоваться тем что получилось — кособокой конструкцией весьма сомнительного качества."
+    nvl clear
+    "{cps=50}And therefore, instead of a solid and reliable siege engine, you have to be content with what you got - a lopsided contraption of very dubious quality."
+
+# game/script_dlc_1.rpy:2102
+translate english damanhur_siege_ae396944:
+
+    # nvl clear
+    # "{cps=50}В назначенный день, получив последние указания, вы грузитесь в осадную башню, и начинаете медленное движение к городским стенам."
+    nvl clear
+    "{cps=50}On the appointed day, having received the last instructions, you board the siege tower and slowly begin moving towards the city walls."
+
+# game/script_dlc_1.rpy:2104
+translate english damanhur_siege_7a794ee6:
+
+    # nvl clear
+    # "{cps=50}Для успешного проникновения в город вам потребуется овладеть ключевыми опорными точками обороны — четырьмя мощными бастионами, каждый из которых хорошо обороняется."
+    nvl clear
+    "{cps=50}To successfully penetrate the city, you will need to capture key defense strongholds - four powerful bastions, each of which is well defended."
+
+# game/script_dlc_1.rpy:2106
+translate english damanhur_siege_3ebf1dd9:
+
+    # nvl clear
+    # "{cps=50}Как только осадная башня приближается к городским стенам — на неё немедленно обрушивается град стрел и камней."
+    nvl clear
+    "{cps=50}As soon as the siege tower approaches the city walls, a hail of arrows and stones immediately falls on it."
+
+# game/script_dlc_1.rpy:2108
+translate english damanhur_siege_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2112
+translate english damanhur_siege_1f6f8285:
+
+    # "{cps=50}Однако прочная конструкция башни надежно защищает вас и ваших товарищей от любых атак.{vspace=5}{color=#A9A9A9}Конструкция башни — успех!{vspace=5}Штурмовой отряд не понёс потерь!{vspace=5}Численность штурмового отряда: [damanhur_siege_attack_party]"
+    "{cps=50}However, the strong construction of the tower reliably protects you and your comrades from any attacks.{vspace=5}{color=#A9A9A9}Siege tower quality — success!{vspace=5}The assault squad suffered no losses!{vspace=5}Assault party size: [damanhur_siege_attack_party]"
+
+# game/script_dlc_1.rpy:2115
+translate english damanhur_siege_960c8d81:
+
+    # "{cps=50}Поначалу башня выдерживает атаки, однако вскоре непрочность её конструкции даёт о себе знать и проникающие внутрь камни и стрелы ранят и убивают многих воинов.{vspace=5}{color=#A9A9A9}Конструкция башни — провал!{vspace=5}Численность штурмового отряда уменьшена на 5!{vspace=5}Численность штурмового отряда: [damanhur_siege_attack_party]"
+    "{cps=50}At first the tower withstands the attacks, but soon the fragility of its structure makes itself felt, and penetrating stones and arrows injure and kill many warriors.{vspace=5}{color=#A9A9A9}Siege tower quality — fail!{vspace= 5}Assault party lost 5 men!{vspace=5}Assault party size: [damanhur_siege_attack_party]"
+
+# game/script_dlc_1.rpy:2117
+translate english damanhur_siege_d3354726:
+
+    # nvl clear
+    # "{cps=50}Достигнув, наконец, крепостных стен, вы покидаете башню и вступаете в бой с защитниками города..."
+    nvl clear
+    "{cps=50}Having finally reached the fortress walls, you leave the tower and engage in battle with the defenders of the city..."
+
+# game/script_dlc_1.rpy:2119
+translate english damanhur_siege_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2496
+translate english damanhur_walls_assault_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2575
+translate english damanhur_walls_assault_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2585
+translate english damanhur_siege_hub_7db1f1c9:
+
+    # nvl clear
+    # "{cps=50}Овладев участком стены, вы готовитесь к штурму следующей цели..."
+    nvl clear
+    "{cps=50}Having captured a section of the wall, you prepare to storm the next target..."
+
+# game/script_dlc_1.rpy:2587
+translate english damanhur_siege_hub_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:2973
+translate english damanhur_northern_tower_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:3052
+translate english damanhur_northern_tower_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:3418
+translate english damanhur_western_tower_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:3497
+translate english damanhur_western_tower_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:3863
+translate english damanhur_eastern_tower_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:3942
+translate english damanhur_eastern_tower_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4308
+translate english damanhur_southern_tower_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4387
+translate english damanhur_southern_tower_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4392
+translate english damanhur_siege_success_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4399
+translate english damanhur_siege_success_6b95bcef:
+
+    # "{cps=50}Один за одним укрепления защитников города переходят в руки атакующих. С падением четвертого бастиона, оборона Даманхура, казавшаяся непреодолимой, начинается рассыпаться как песчаный замок."
+    "{cps=50}One by one, the fortifications of the city’s defenders fall into the hands of the attackers. With the fall of the fourth bastion, Damanhur's seemingly insurmountable defenses begin to crumble like a sand castle."
+
+# game/script_dlc_1.rpy:4400
+translate english damanhur_siege_success_f55edaa4:
+
+    # nvl clear
+    # "{cps=50}Остатки обороняющихся, потерявшие веру в свои силы, бросают оружие и обращаются в бегство."
+    nvl clear
+    "{cps=50}The remnants of the defenders, having lost faith in their strength, drop their weapons and run for their lives."
+
+# game/script_dlc_1.rpy:4402
+translate english damanhur_siege_success_d6829a7c:
+
+    # nvl clear
+    # "{cps=50}Спустя еще час, Даманхур оказывается полностью под вашим контролем."
+    nvl clear
+    "{cps=50}An hour later Damanhur is completely under your control."
+
+# game/script_dlc_1.rpy:4404
+translate english damanhur_siege_success_961fb9cd:
+
+    # nvl clear
+    # "{cps=50}Так, наперекор всему, ваш плохо подготовленный поход заканчивается не бесславной гибелью в бескрайних песках Утремера, — а триумфом, достойным считаться главным достижением вашей военной карьеры."
+    nvl clear
+    "{cps=50}Thus, despite all the odds, your poorly prepared campaign ends not in an inglorious death in the endless sands of Outremer, but in a triumph worthy of being considered the main achievement of your military career."
+
+# game/script_dlc_1.rpy:4406
+translate english damanhur_siege_success_98a2aeed:
+
+    # nvl clear
+    # "{cps=50}Эта блистательная победа окончательно закрепляет за вами славу великого воина, а захваченная в Даманхуре богатая добыча позволяет стать одним из богатейших людей по эту сторону Средиземного моря и навсегда забыть о любой нужде."
+    nvl clear
+    "{cps=50}This brilliant victory finally cements your fame as a great warrior, while the rich spoils captured in Damanhur allow you to become one of the wealthiest men on this side of the Mediterranean Sea and never again be in need of money."
+
+# game/script_dlc_1.rpy:4408
+translate english damanhur_siege_success_f05e0361:
+
+    # nvl clear
+    # "{cps=50}Раймунд, по достоинству оценивший ваш вклад в победу, предлагает вам остаться в Даманхуре и стать его правой рукой..."
+    nvl clear
+    "{cps=50}Raymond, who appreciated your contribution to the victory, invites you to stay in Damanhur and become his right-hand man..."
+
+# game/script_dlc_1.rpy:4410
+translate english damanhur_siege_success_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4414
+translate english damanhur_siege_success_47c34117:
+
+    # nvl clear
+    # "{cps=50}Понимая, что возвращаться вам некуда, да и не к чему вы принимаете его предложение."
+    nvl clear
+    "{cps=50}Realizing that you have no place or person to return to, you accept his offer."
+
+# game/script_dlc_1.rpy:4416
+translate english damanhur_siege_success_58aedb6f:
+
+    # nvl clear
+    # "{cps=50}В течение следующих двух лет вы, опираясь на свой обширный военный опыт в Европе и Утремере, помогаете Раймунду сформировать одну из самых боеспособных армий в этой части света. И совершаете в её главе несколько успешных походов в окрестные территории, одержав громкие победы над войсками сарацинов."
+    nvl clear
+    "{cps=50}Over the next two years, you draw on your extensive military experience in Europe and Outremer to help Raymond build one of the most capable armies in this part of the world. And at its head you make several successful campaigns in the surrounding territories, winning resounding victories over the Saracen kingdoms."
+
+# game/script_dlc_1.rpy:4418
+translate english damanhur_siege_success_04d1929e:
+
+    # nvl clear
+    # "{cps=50}А еще через год, когда Раймунд из Байё неожиданно и скоропостижно умирает от экзотической болезни не оставив наследников, его ближайшее окружение выбирает вас в качестве нового правителя Даманхура."
+    nvl clear
+    "{cps=50}And a year later, when Raymond of Bayeux unexpectedly and suddenly dies from an exotic disease without leaving any heirs, his inner circle of closest friends and followers chooses you as the new ruler of Damanhur."
+
+# game/script_dlc_1.rpy:4420
+translate english damanhur_siege_success_85affb87:
+
+    # nvl clear
+    # "{cps=50}За время вашего правления этот и без того богатый город достигнет новых высот величия. А основанная вами династия проправит здесь без малого еще сто лет, прежде чем христиане вновь потеряют эти земли, чтобы уже никогда их не вернуть."
+    nvl clear
+    "{cps=50}During your reign, this already prosperous city will reach new heights of greatness. And the dynasty you founded will rule here for almost another hundred years before Christians will lose these lands once again — and this time forever."
+
+# game/script_dlc_1.rpy:4422
+translate english damanhur_siege_success_bf1c831b:
+
+    # nvl clear
+    # "{cps=50}Но это, впрочем, уже совсем другая история."
+    nvl clear
+    "{cps=50}But this, however, is a completely different story."
+
+# game/script_dlc_1.rpy:4424
+translate english damanhur_siege_success_d1be7b58:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 11 из 11."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 11 of 11."
+
+# game/script_dlc_1.rpy:4426
+translate english damanhur_siege_success_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4466
+translate english damanhur_siege_success_3d8b592e:
+
+    # nvl clear
+    # "{cps=50}Однако никакие богатства Даманхура не могут заставить вас забыть о том, ради чего вы отправились в этот поход и вы принимаете решение возвращаться в Дамиетту, чтобы повторно просить руки Эммы."
+    nvl clear
+    "{cps=50}However, no wealth of Damanhur can make you forget why you went on this campaign, and you decide to return to Damietta to ask for Emma’s hand again."
+
+# game/script_dlc_1.rpy:4468
+translate english damanhur_siege_success_c32e4c7f:
+
+    # nvl clear
+    # "{cps=50}Громкие военные победы, возросшая репутация, а также изрядное богатство, которым вы успели обзавестись, делают губернатора более благосклонным и он благословляет ваш союз."
+    nvl clear
+    "{cps=50}Large military victories, increased reputation, as well as the considerable wealth that you have acquired make the governor more favorable, and he gives his permission for the marriage."
+
+# game/script_dlc_1.rpy:4470
+translate english damanhur_siege_success_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4476
+translate english damanhur_text_death_42c8fc5b:
+
+    # nvl clear
+    # "{cps=50}Плохо подготовленная экспедиция оканчивается неудачей и где-то там, в бескрайних западных пустынях, ваш след и теряется."
+    nvl clear
+    "{cps=50}A poorly prepared expedition ends in failure, and somewhere out there, in the endless western deserts, your trace is lost."
+
+# game/script_dlc_1.rpy:4478
+translate english damanhur_text_death_476f67d4:
+
+    # nvl clear
+    # "{cps=50}Каким был ваш конец — никто не знает."
+    nvl clear
+    "{cps=50}How did you meet your end - no one knows."
+
+# game/script_dlc_1.rpy:4480
+translate english damanhur_text_death_bcccf492:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 5 из 11."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 5 of 11."
+
+# game/script_dlc_1.rpy:4482
+translate english damanhur_text_death_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4524
+translate english alyssa_marriage_934a7ef2:
+
+    # nvl clear
+    # "{cps=50}Из Лондона вы отправляетесь в Гринвич ко двору графа Колдвелла, где, к бесконечному восторгу Алисы, просите её руки у её отца."
+    nvl clear
+    "{cps=50}From London you go to Greenwich to the court of Count Caldwell, where, to Alyssa's endless delight, you ask her father for her hand in marriage."
+
+# game/script_dlc_1.rpy:4526
+translate english alyssa_marriage_89bda8a9:
+
+    # nvl clear
+    # "{cps=50}Рыцарский титул, статус героя войны, а также личное поручительство самого короля не оставляют старику Колдвеллу никаких других вариантов, кроме как согласиться."
+    nvl clear
+    "{cps=50}The knighthood, the status of a war hero, as well as the personal guarantee of the king himself leave old Caldwell no other options but to agree."
+
+# game/script_dlc_1.rpy:4528
+translate english alyssa_marriage_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4534
+translate english alyssa_marriage_e9f2be16:
+
+    # dn "{cps=50}{color=#A9A9A9}Ваша с Алисой свадьба становится грандиозным событием, на котором собирается весь цвет королевской аристократии, а эля и вина на свадебном пире выпивается столько, что алкогольные погреба всего юга королевства оказываются опустошены подчистую."
+    dn "{cps=50}{color=#A9A9A9}Your wedding with Alyssa becomes a grandiose event, at which the entire royal aristocracy gathers, and so much ale and wine are drunk at the wedding feast that the wine cellars of the entire south of the kingdom are completely emptied."
+
+# game/script_dlc_1.rpy:4535
+translate english alyssa_marriage_91c7ad47:
+
+    # dn "{cps=50}{color=#A9A9A9}Несмотря на своенравный нрав и манипулятивный характер, Алиса оказывается искренне любящей и преданной женой."
+    dn "{cps=50}{color=#A9A9A9}Despite her wayward character and manipulative nature, Alyssa turns out to be a sincerely loving and devoted wife."
+
+# game/script_dlc_1.rpy:4536
+translate english alyssa_marriage_05df85b7:
+
+    # dn "{cps=50}{color=#A9A9A9}Вместе с ней вы проживаете долгую и счастливую жизнь. Достойный подарок за пройденный вами нелёгкий путь. Путь от безродного пейзанина до именитого рыцаря и хранителя престола, имя которого навсегда останется в истории королевства."
+    dn "{cps=50}{color=#A9A9A9}Together with her you live a long and happy life. A worthy gift for the difficult path you have passed. The path from a nameless peasant to an eminent knight and the protector of the throne, whose name will forever remain in the history of the kingdom."
+
+# game/script_dlc_1.rpy:4537
+translate english alyssa_marriage_e5bc888d:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 8 из 11."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 8 of 11."
+
+# game/script_dlc_1.rpy:4587
+translate english lina_marriage_207c4756:
+
+    # nvl clear
+    # "{cps=50}Покинув северные земли вы отправляетесь в обратный поход. Проливные дожди и холода уступают место теплым солнечным дням, делая обратную дорогу быстрой и комфортной."
+    nvl clear
+    "{cps=50}After leaving the northern lands, you set off on a return trip. Heavy rains and cold weather give way to warm sunny days, making the return journey quick and comfortable."
+
+# game/script_dlc_1.rpy:4589
+translate english lina_marriage_8707af4a:
+
+    # nvl clear
+    # "{cps=50}Однако тепло от солнца не шло ни в какое сравнение с тем теплом, которое вам дарило присутствие Лины, возвращавшейся вместе с вами."
+    nvl clear
+    "{cps=50}However, the warmth from the sun could not be compared with the warmth that the presence of Lina, returning with you, gave you."
+
+# game/script_dlc_1.rpy:4591
+translate english lina_marriage_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4597
+translate english lina_marriage_798a4c92:
+
+    # "{cps=50}Представ в Лондоне перед королем, вы рассказываете ему о случившемся в Йорке. Несмотря на в целом не самый благоприятный исход событий, Эдвард признаёт ваши заслуги и не винит вас ни в утрате городской казны, ни в потере приграничных территорий."
+    "{cps=50}Having presented yourself in London before the king, you tell him about what happened in York. Despite the generally unfavorable outcome of events, Edward recognizes your merits and does not blame you for the loss of the city treasury or the loss of border territories."
+
+# game/script_dlc_1.rpy:4598
+translate english lina_marriage_936cbb16:
+
+    # nvl clear
+    # "{cps=50}Неудачный поход на север, не принесший славы никому из его участников, окончательно убеждает Эдварда в необходимости сконцентрироваться на решении многочисленных внутренних проблем в королевстве, что приводит к нескольким десятилетиям мира."
+    nvl clear
+    "{cps=50}An unsuccessful campaign to the north, which did not bring glory to any of its participants, finally convinces Edward of the need to concentrate on solving numerous internal problems in the kingdom, which leads to several decades of peace."
+
+# game/script_dlc_1.rpy:4600
+translate english lina_marriage_4d911885:
+
+    # nvl clear
+    # "{cps=50}Оказавшись невостребованным, человеку вроде вас, ничего не остается кроме как заняться обустройством личной жизни..."
+    nvl clear
+    "{cps=50}Finding yourself out of work, a person like you has no choice but to start arranging his personal life..."
+
+# game/script_dlc_1.rpy:4602
+translate english lina_marriage_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4608
+translate english lina_marriage_f23b4fa7:
+
+    # dn "{cps=50}{color=#A9A9A9}Ваша с Линой свадьба становится камерным событием на котором присутствует совсем немного гостей. Но, впрочем, если один из гостей на твоей свадьбе — это сам король, то нужно ли звать кого-то еще?"
+    dn "{cps=50}{color=#A9A9A9}Your and Lina’s wedding becomes an intimate event with very few guests present. However, if one of the guests at your wedding is the king himself, is it necessary to invite anyone else?"
+
+# game/script_dlc_1.rpy:4609
+translate english lina_marriage_978685cc:
+
+    # dn "{cps=50}{color=#A9A9A9}Когда, произнося клятвы любви и верности, вы смотрите Лине в глаза, то понимаете, что еще никогда не видели её такой счастливой. И такой прекрасной."
+    dn "{cps=50}{color=#A9A9A9}When, pronouncing vows of love and fidelity, you look into Lina’s eyes, you realize that you have never seen her so happy. And so beautiful."
+
+# game/script_dlc_1.rpy:4610
+translate english lina_marriage_81c3a62d:
+
+    # dn "{cps=50}{color=#A9A9A9}Совершенно неизбалованная деньгами и привыкшая усердно трудиться ради каждого куска хлеба, Лина лишь спустя много месяцев свыкается с тем, что теперь она хозяйка собственного имения и жена именитого рыцаря."
+    dn "{cps=50}{color=#A9A9A9}Completely unspoiled by money and accustomed to working hard for every piece of bread, only after many months does Lina come to terms with the fact that now she is the mistress of her own estate and the wife of a famous knight."
+
+# game/script_dlc_1.rpy:4611
+translate english lina_marriage_93c42e01:
+
+    # dn "{cps=50}{color=#A9A9A9}Но освоившись в этой новой жизни она быстро превращается в самую настоящую леди, манерам, изяществу и утонченному вкусу которой могли бы позавидовать любые рожденные графини или герцогини."
+    dn "{cps=50}{color=#A9A9A9}But having settled into this new life, she quickly turns into a real lady, whose manners, grace and refined taste could be the envy of any born countess or duchess."
+
+# game/script_dlc_1.rpy:4612
+translate english lina_marriage_05df85b7:
+
+    # dn "{cps=50}{color=#A9A9A9}Вместе с ней вы проживаете долгую и счастливую жизнь. Достойный подарок за пройденный вами нелёгкий путь. Путь от безродного пейзанина до именитого рыцаря и хранителя престола, имя которого навсегда останется в истории королевства."
+    dn "{cps=50}{color=#A9A9A9}Together with her you live a long and happy life. A worthy gift for the difficult path you have passed. The path from a nameless peasant to an eminent knight and the protector of the throne, whose name will forever remain in the history of the kingdom."
+
+# game/script_dlc_1.rpy:4613
+translate english lina_marriage_311c4d43:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 10 из 11."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 10 of 11."
+
+# game/script_dlc_1.rpy:4661
+translate english eva_marriage_46ebbf60:
+
+    # nvl clear
+    # "{cps=50}Решение приходит само собой."
+    nvl clear
+    "{cps=50}The decision comes naturally."
+
+# game/script_dlc_1.rpy:4663
+translate english eva_marriage_4e5c63d0:
+
+    # nvl clear
+    # "{cps=50}Решение, которое заставляет вас отправиться в путешествие с юга на север французского королевства, чтобы, спустя полтора месяца пути, прибыть в то самое место, с которого когда-то всё началось."
+    nvl clear
+    "{cps=50}The decision that makes you embark on a journey from the south to the north of the French kingdom, so that, after a month and a half of travel, you arrive at the very place where it all once began."
+
+# game/script_dlc_1.rpy:4665
+translate english eva_marriage_1259c619:
+
+    # nvl clear
+    # "{cps=50}В Камбрэ."
+    nvl clear
+    "{cps=50}Cambrai."
+
+# game/script_dlc_1.rpy:4667
+translate english eva_marriage_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4673
+translate english eva_marriage_6fbecdee:
+
+    # dn "{cps=50}{color=#A9A9A9}Когда двери поместья де Ламбер раскрываются перед вами, и вы вновь видете Еву, она улыбается. Так, как будто бы вы с ней никогда и не расставались."
+    dn "{cps=50}{color=#A9A9A9}When the doors of the de Lambert estate open before you and you see Eva again, she smiles. As if you had never parted with her."
+
+# game/script_dlc_1.rpy:4674
+translate english eva_marriage_3d9ed630:
+
+    # dn "{cps=50}{color=#A9A9A9}Де Рош, несмотря на специфические обстоятельства при которых вы с ним познакомились, отдаёт вам должное — и как превосходному воину, и как достойному человеку. И, конечно же, как тому, кто когда-то не стал отнимать его жизнь."
+    dn "{cps=50}{color=#A9A9A9}De Roche, despite the peculiar circumstances under which you met him, pays tribute to you - both as an excellent warrior and as a worthy person. And, of course, as someone who once did not take his life."
+
+# game/script_dlc_1.rpy:4675
+translate english eva_marriage_61700f8e:
+
+    # dn "{cps=50}{color=#A9A9A9}Получив благослование отца, Ева с радостью становится вашей женой."
+    dn "{cps=50}{color=#A9A9A9}Having received her father’s blessing, Eva happily becomes your wife."
+
+# game/script_dlc_1.rpy:4680
+translate english eva_marriage_7c6c0aa3:
+
+    # dn "{cps=50}{color=#A9A9A9}И вот, причудливым поворотом колеса судьбы, то место, куда вы однажды прибыли с огнём и мечём ради завоеваний и наживы, теперь становится вашим собственным домом."
+    dn "{cps=50}{color=#A9A9A9}And now, by a bizarre turn of the wheel of fate, the place where you once arrived with fire and sword for the sake of conquest and profit, now becomes your own home."
+
+# game/script_dlc_1.rpy:4681
+translate english eva_marriage_b8cdef57:
+
+    # dn "{cps=50}{color=#A9A9A9}Здесь, в окружении жены и многочисленных детей, вы и проведете остаток своей жизни — наслаждаясь заслуженным покоем и с ностальгией вспоминая о пережитых приключениях."
+    dn "{cps=50}{color=#A9A9A9}Here, surrounded by your wife and numerous children, you will spend the rest of your life - enjoying well-deserved peace and recalling with nostalgia the adventures you have experienced."
+
+# game/script_dlc_1.rpy:4682
+translate english eva_marriage_c6aee6a0:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 11."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 11."
+
+# game/script_dlc_1.rpy:4730
+translate english cecilia_marriage_46ebbf60:
+
+    # nvl clear
+    # "{cps=50}Решение приходит само собой."
+    nvl clear
+    "{cps=50}The decision comes naturally."
+
+# game/script_dlc_1.rpy:4732
+translate english cecilia_marriage_98e6b0b4:
+
+    # nvl clear
+    # "{cps=50}Отправляясь в Утремер вы дали обещание не просто вернуться, а вернуться к ней."
+    nvl clear
+    "{cps=50}When you went to Outremer, you made a promise not just to return, but to return to her."
+
+# game/script_dlc_1.rpy:4734
+translate english cecilia_marriage_f7a1bd14:
+
+    # nvl clear
+    # "{cps=50}Разузнав перед отъездом из имения де Шатильон о том, куда отправилась Сесилия Гримальди, вы пускаетесь по её следу."
+    nvl clear
+    "{cps=50}Before leaving the de Chatillon estate, you find out where Cecilia Grimaldi went and set off on her trail."
+
+# game/script_dlc_1.rpy:4736
+translate english cecilia_marriage_fbdc98b6:
+
+    # nvl clear
+    # "{cps=50}Живописные равнины Южной Франции уступают место горам и холмам Северной Италии. Диалекты и акценты сменяют друг друга, но изо рта каждой встречной девушки вы слышите её голос."
+    nvl clear
+    "{cps=50}The picturesque plains of Southern France give way to the mountains and hills of Northern Italy. Dialects and accents change each other, but from the mouth of every girl you meet you hear her voice."
+
+# game/script_dlc_1.rpy:4738
+translate english cecilia_marriage_75add6b7:
+
+    # nvl clear
+    # "{cps=50}В Турине, где уличные художники рисуют её портреты, вам сообщают, что она покинула город со свитой герцога Миланского и вы спешите в Милан."
+    nvl clear
+    "{cps=50}In Turin, where street artists paint her portraits, you are informed that she has left the city with the retinue of the Duke of Milan, and so you hurry to Milan."
+
+# game/script_dlc_1.rpy:4740
+translate english cecilia_marriage_53f73a30:
+
+    # nvl clear
+    # "{cps=50}В Милане вы слышите как посетители закусочных и таверн судачат о её прекрасных нарядах, поразивших город своей красотой, но её самой вновь не находите."
+    nvl clear
+    "{cps=50}In Milan, you hear people gossip about her beautiful outfits, which amazed the city with their beauty, but again you don’t find her."
+
+# game/script_dlc_1.rpy:4742
+translate english cecilia_marriage_33ed9467:
+
+    # nvl clear
+    # "{cps=50}Из слухов вы узнаёте, что за её услуги золотом заплатил венецианский дож и дорога ведёт вас в Венецию."
+    nvl clear
+    "{cps=50}From rumors you learn that the Venetian Doge paid for her services in gold, and the road leads you to Venice."
+
+# game/script_dlc_1.rpy:4744
+translate english cecilia_marriage_b7c078e6:
+
+    # nvl clear
+    # "{cps=50}В Венеции вы видите её отражение в воде каналов. Чувствуете аромат её духов на площади Сан-Марко.{w}{vspace=5}Но она опять ускользает от вас."
+    nvl clear
+    "{cps=50}In Venice you see her reflection in the water of the canals. You smell her perfume in San-Marco Square.{w}{vspace=5}But she eludes you again."
+
+# game/script_dlc_1.rpy:4746
+translate english cecilia_marriage_3d42f92d:
+
+    # nvl clear
+    # "{cps=50}Падую сменяет Парма, а Болонью — Равенна. Дни идут за днями, а месяцы за месяцами."
+    nvl clear
+    "{cps=50}Padua is followed by Parma, and Bologna by Ravenna. Days go by, and so do months."
+
+# game/script_dlc_1.rpy:4748
+translate english cecilia_marriage_66653661:
+
+    # nvl clear
+    # "{cps=50}Но вы продолжаете искать её."
+    nvl clear
+    "{cps=50}But you keep looking for her."
+
+# game/script_dlc_1.rpy:4750
+translate english cecilia_marriage_887f1a0c:
+
+    # nvl clear
+    # "{cps=50}И находите.{w}{vspace=5}Потому что иначе и быть не могло."
+    nvl clear
+    "{cps=50}And you find her.{w}{vspace=5}Because it couldn’t have been any other way."
+
+# game/script_dlc_1.rpy:4752
+translate english cecilia_marriage_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4758
+translate english cecilia_marriage_85136e12:
+
+    # dn "{cps=50}{color=#A9A9A9}Когда ваши губы касаются её губ — всё вновь становится на свои места."
+    dn "{cps=50}{color=#A9A9A9}When your lips touch hers, everything falls into place once again."
+
+# game/script_dlc_1.rpy:4759
+translate english cecilia_marriage_53ca14a9:
+
+    # dn "{cps=50}{color=#A9A9A9}Вы женитесь на ней во Флоренции — в незнакомом крае, с чужим языком и обычаями. Бесконечно далёком не только от вашего дома, но и от тех мест, где вы заработали себе имя, репутацию и славу."
+    dn "{cps=50}{color=#A9A9A9}You marry her in Florence - in an unfamiliar land, with a foreign language and customs. Infinitely far not only from your home but also from those places where you earned your name, reputation and fame."
+
+# game/script_dlc_1.rpy:4760
+translate english cecilia_marriage_c796df85:
+
+    # dn "{cps=50}{color=#A9A9A9}Но ничего из этого не имеет значения, потому что она вновь оказывается рядом с вами."
+    dn "{cps=50}{color=#A9A9A9}But none of that matters because she's right next to you again."
+
+# game/script_dlc_1.rpy:4761
+translate english cecilia_marriage_01dbff0e:
+
+    # dn "{cps=50}{color=#A9A9A9}На этот раз навсегда."
+    dn "{cps=50}{color=#A9A9A9}This time for good."
+
+# game/script_dlc_1.rpy:4762
+translate english cecilia_marriage_c6aee6a0:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 11."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 11."
+
+# game/script_dlc_1.rpy:4763
+translate english cecilia_marriage_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4812
+translate english anna_marriage_f8a46fdf:
+
+    # nvl clear
+    # "{cps=50}Мечтая о заслуженном отдыхе после всего пережитого, вы направляетесь в Париж, не спеша путешествуя от одного постоялого двора к другому."
+    nvl clear
+    "{cps=50}Dreaming of a well-deserved rest after everything you've been through, you head to Paris, leisurely traveling from one inn to another."
+
+# game/script_dlc_1.rpy:4814
+translate english anna_marriage_0c71eb7a:
+
+    # nvl clear
+    # "{cps=50}Где-то посередине этого пути она и находит вас. В своейственной ей манере появляясь абсолютно из ниоткуда."
+    nvl clear
+    "{cps=50}She finds you about halfway down the road. In her usual manner, appearing absolutely out of nowhere."
+
+# game/script_dlc_1.rpy:4816
+translate english anna_marriage_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4822
+translate english anna_marriage_dc1ac33d:
+
+    # dn "{cps=50}{color=#A9A9A9}Она выглядит так же прекрасно как и всегда: те же длинные волосы цвета воронового крыла, то же красивое лицо с вечной усмешкой в глазах и тот же серебряный медальон на изящной бледной шее."
+    dn "{cps=50}{color=#A9A9A9}She looks as beautiful as always: the same long raven hair, the same beautiful face with an eternal grin in her eyes and the same silver medallion on her graceful pale neck."
+
+# game/script_dlc_1.rpy:4823
+translate english anna_marriage_b4ee2251:
+
+    # dn "{cps=50}{color=#A9A9A9}Она заговаривает с вами так, как будто бы вы никогда и не прощались и ощущение странной пустоты, зиявшей в вашей душе с момента смерти Рено, вдруг уходит. Вы глубоко вздыхаете и вам становится легче."
+    dn "{cps=50}{color=#A9A9A9}She speaks to you as if you had never said goodbye, and the feeling of a strange emptiness that has been gaping in your soul since Reno’s death suddenly goes away. You take a deep breath and feel better."
+
+# game/script_dlc_1.rpy:4824
+translate english anna_marriage_9915fe54:
+
+    # dn "{cps=50}{color=#A9A9A9}Понимая, что это, видимо, Судьба, дальше вы отправляетесь вместе, с твердым намерением уже никогда больше не расставаться."
+    dn "{cps=50}{color=#A9A9A9}Realizing that this is apparently Fate, you then set off together, with the firm intention never to part again."
+
+# game/script_dlc_1.rpy:4825
+translate english anna_marriage_c6aee6a0:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 11."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 11."
+
+# game/script_dlc_1.rpy:4880
+translate english cecilia_anna_argument_a86bbf6a:
+
+    # nvl clear
+    # "{cps=50}На время пребывания в имении де Шатильон вы размещаетесь в гостевом крыле особняка, практически до отказа забитом более чем дюжиной иных постояльцев — всевозможными докторами, лекарями, знахарями и алхимиками, съехавшимися, судя по их акцентам и внешнему виду, со всех концов Европы."
+    nvl clear
+    "{cps=50}During your stay at the de Chatillon estate, you are accommodated in the guest wing of the mansion, which is almost filled to capacity with more than a dozen other guests - all kinds of doctors, physicians, healers and alchemists, who, judging by their accents and appearance, have come from all over Europe."
+
+# game/script_dlc_1.rpy:4882
+translate english cecilia_anna_argument_93cc211b:
+
+    # nvl clear
+    # "{cps=50}Не испытывая к их делам большого интереса вы не обращаете на этот пёстрый сброд особого внимания, предпочитая сосредоточиться на подготовке к предстоящему путешествию.{vspace=5}Пока в один из дней неожиданно не становитесь свидетелем картины, которую меньше всего ожидали здесь увидеть."
+    nvl clear
+    "{cps=50}Not having much interest in their affairs, you don’t pay much attention to this motley rabble, preferring to focus on preparing for the upcoming journey.{vspace=5}Until one day you unexpectedly witness a scene that you least expected to see here."
+
+# game/script_dlc_1.rpy:4884
+translate english cecilia_anna_argument_9539b450:
+
+    # nvl clear
+    # "{cps=50}В одном из коридоров гостевого крыла разгорается пылкий спор между двумя особами."
+    nvl clear
+    "{cps=50}In one of the corridors of the guest wing, a passionate argument breaks out between two very particular ladies."
+
+# game/script_dlc_1.rpy:4887
+translate english cecilia_anna_argument_ec25b32a:
+
+    # nvl clear
+    # "{cps=50}Очень хорошо вам знакомыми."
+    nvl clear
+    "{cps=50}Very familiar to you."
+
+# game/script_dlc_1.rpy:4889
+translate english cecilia_anna_argument_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4903
+translate english cecilia_anna_argument_b6bcfe77:
+
+    # c "{cps=50}Мы не можем так поступить с ним!"
+    c "{cps=50}We can't do this to him!"
+
+# game/script_dlc_1.rpy:4904
+translate english cecilia_anna_argument_5328ceb6:
+
+    # c "{cps=50}Не знаю насчет тебя, но я давала клятву о том, что буду до последнего бороться за жизнь каждого из своих пациентов. {w}Даже перед лицом неминуемой смерти."
+    c "{cps=50}I don't know about you, but I took an oath that I would make the final fight for the life of each of my patients. {w}Even in the face of imminent death."
+
+# game/script_dlc_1.rpy:4905
+translate english cecilia_anna_argument_8009622e:
+
+    # c "{cps=50}И я намерена стоять на пути у этой смерти до тех пор, пока у меня не закончатся силы это делать."
+    c "{cps=50}And I intend to stand in the way of this death until I run out of strength to do this."
+
+# game/script_dlc_1.rpy:4906
+translate english cecilia_anna_argument_310bb19c:
+
+    # a "{cps=50}{i}Я давала клятву, я намерена стоять, я буду бороться...{/i} Мне кажется, что тебе не мешало бы поменьше думать о себе и побольше о тех, ради кого тебя сюда позвали."
+    a "{cps=50}{i}I took an oath, I intend to stand, I will fight...{/i} It seems to me that it would not hurt you to think less about yourself and more about those for whom you were called here."
+
+# game/script_dlc_1.rpy:4913
+translate english cecilia_anna_argument_0e01dc05:
+
+    # a "{cps=50}Бедняга обречён и всё, что я предлагаю, это лишь избавить его от бремени жутких стараданий, а его отца — от яда ложных надежд."
+    a "{cps=50}The poor fellow is doomed, and all I offer is to relieve him from the burden of terrible suffering and his father - from the poison of false hopes."
+
+# game/script_dlc_1.rpy:4914
+translate english cecilia_anna_argument_3ec0e2e3:
+
+    # a "{cps=50}Каждый день, на который ты будешь продливать ему жизнь, принесёт этому несчастному лишь новую порцию бессмысленных мучений — и всё для того, чтобы его болью утолить жажду твоего эго."
+    a "{cps=50}Every day that you extend his life will bring this unfortunate man only a new portion of meaningless torment - and all in order to quench the thirst of your ego with his pain."
+
+# game/script_dlc_1.rpy:4915
+translate english cecilia_anna_argument_f4cd4846:
+
+    # a "{cps=50}Он будет мучиться ради того, чтобы ты и все эти прочие лицемерные павлины, сбежавшиеся сюда на звон монет, смогли потом довольно умыть руки и, пожав плечами, сказать, что они 'сделали всё, что смогли'."
+    a "{cps=50}He will suffer so that you and all those other hypocritical peacocks who came running here at the jingle of coins can then wash their hands of it and shrug their shoulders and say that they “did everything they could.”"
+
+# game/script_dlc_1.rpy:4916
+translate english cecilia_anna_argument_0e16753b:
+
+    # a "{cps=50}И остались верными своим бессмысленным клятвам."
+    a "{cps=50}And they remained true to their meaningless oaths."
+
+# game/script_dlc_1.rpy:4917
+translate english cecilia_anna_argument_c99f9599:
+
+    # a "{cps=50}Иногда смерть можно обмануть, но это не тот случай."
+    a "{cps=50}Sometimes death can be cheated, but this is not the case."
+
+# game/script_dlc_1.rpy:4918
+translate english cecilia_anna_argument_81b25195:
+
+    # a "{cps=50}Подчас, единственный способ по-настоящему помочь человеку, — это дать ему умереть."
+    a "{cps=50}Sometimes the only way to truly help a person is to let him die."
+
+# game/script_dlc_1.rpy:4919
+translate english cecilia_anna_argument_3d8ddfb5:
+
+    # c "{cps=50}..."
+    c "{cps=50}..."
+
+# game/script_dlc_1.rpy:4920
+translate english cecilia_anna_argument_d9113862:
+
+    # c "{cps=50}Ты не предлагаешь дать ему умереть. {w}Ты хочешь убить его. {w}Ты хочешь, чтобы я убила его."
+    c "{cps=50}You're not suggesting we let him die. {w}You want to kill him. {w}You want me to kill him."
+
+# game/script_dlc_1.rpy:4921
+translate english cecilia_anna_argument_37dac75b:
+
+    # a "{cps=50}Семантика."
+    a "{cps=50}Semantics."
+
+# game/script_dlc_1.rpy:4922
+translate english cecilia_anna_argument_28a00776:
+
+    # c "{cps=50}Я не буду помогать тебе. Я спасаю жизни, а не отнимаю их."
+    c "{cps=50}I won't help you. I save lives, not take them."
+
+# game/script_dlc_1.rpy:4923
+translate english cecilia_anna_argument_c7e8cef6:
+
+    # c "{cps=50}И я сегодня же скажу сеньору де Шатильону, чтобы тебя выставили за ворота."
+    c "{cps=50}And today I will tell Seigneur de Chatillon to put you out of the gate."
+
+# game/script_dlc_1.rpy:4924
+translate english cecilia_anna_argument_ea7d8468:
+
+    # a "{cps=50}П-ф-ф. Я и сама собиралась уезжать — в этом мире немного вещей, которые я люблю больше, чем деньги, однако наживаться на безнадежно больных не в моих правилах."
+    a "{cps=50}Pfft. I was about to leave myself - there are few things in this world that I love more than money, but profiting from hopelessly ill people is not in my nature."
+
+# game/script_dlc_1.rpy:4925
+translate english cecilia_anna_argument_c5f42c94:
+
+    # a "{cps=50}В этой сфере, я смотрю, и так серьёзная конкуренция."
+    a "{cps=50}In this area, as I see, there is already some very serious competition."
+
+# game/script_dlc_1.rpy:4926
+translate english cecilia_anna_argument_9363c5b3:
+
+    # a "{cps=50}Если мои услуги здесь не нужны, то мне всегда есть куда отправиться."
+    a "{cps=50}If my services are not needed here, then I always have somewhere to go."
+
+# game/script_dlc_1.rpy:4933
+translate english cecilia_anna_argument_11d8f3c3:
+
+    # c "{cps=50}Ну так скатертью дорога."
+    c "{cps=50}Well, good riddance."
+
+# game/script_dlc_1.rpy:4935
+translate english cecilia_anna_argument_92664207:
+
+    # dn "{cps=50}{color=#A9A9A9}Исчерпав разговор, девушки расходятся в противоположные стороны..."
+    dn "{cps=50}{color=#A9A9A9}Having exhausted the conversation, the girls disperse in opposite directions..."
+
+# game/script_dlc_1.rpy:4949
+translate english cecilia_anna_argument_a0eea4fa:
+
+    # c "{cps=50}[name]!? Вот уж кого я точно не ожидала здесь увидеть! Что ты здесь делаешь?"
+    c "{cps=50}[name]!? That's someone I definitely didn't expect to see here! What are you doing here?"
+
+# game/script_dlc_1.rpy:4950
+translate english cecilia_anna_argument_36da7d18:
+
+    # c "{cps=50}Впрочем, дай угадаю — неужели ты тот самый наёмник, которого сеньор де Шатильон дожидался из Парижа?"
+    c "{cps=50}However, let me guess - are you really the same mercenary that Seigneur de Chatillon was waiting for from Paris?"
+
+# game/script_dlc_1.rpy:4951
+translate english cecilia_anna_argument_a576945c:
+
+    # c "{cps=50}Честно говоря, мне еще под Камбрэ стало понятно, что от тебя многого можно ожидать, но... Но я все равно впечатлена."
+    c "{cps=50}Honestly speaking, even under Cambrai it became clear to me that much can be expected from you, but... But I’m still impressed."
+
+# game/script_dlc_1.rpy:4952
+translate english cecilia_anna_argument_e9f7b6a5:
+
+    # h "{cps=50}Времена, когда я безропотно слушался чьих-то приказов прошли. Теперь богачи сами выстраиваются передо мной в очереди, чтобы заплатить мне за услуги. Я сам хозяин своей судьбы."
+    h "{cps=50}The times when I meekly obeyed someone's orders are gone. Now the rich people line up in front of me to pay for my services. I am the master of my own destiny."
+
+# game/script_dlc_1.rpy:4953
+translate english cecilia_anna_argument_7f50a507:
+
+    # c "{cps=50}Я рада это видеть."
+    c "{cps=50}I'm glad to see this."
+
+# game/script_dlc_1.rpy:4954
+translate english cecilia_anna_argument_004aa756:
+
+    # c "{cps=50}И еще больше рада видеть тебя целым и невредимым."
+    c "{cps=50}And I’m even more glad to see you safe and sound."
+
+# game/script_dlc_1.rpy:4955
+translate english cecilia_anna_argument_07714ef0:
+
+    # c "{cps=50}Что ж, как ты мог догадаться, я тоже здесь по приглашению Бернара де Шатильона. Он наверняка рассказывал тебе о том, что случилось с его младшим сыном."
+    c "{cps=50}Well, as you might have guessed, I am also here at the invitation of Bernard de Chatillon. He probably told you about what happened to his youngest son."
+
+# game/script_dlc_1.rpy:4956
+translate english cecilia_anna_argument_e3dd4d70:
+
+    # h "{cps=50}Да. Он упоминал, что ситуация плачевная."
+    h "{cps=50}Yes. He mentioned that the situation is dire."
+
+# game/script_dlc_1.rpy:4957
+translate english cecilia_anna_argument_3d8ddfb5_1:
+
+    # c "{cps=50}..."
+    c "{cps=50}..."
+
+# game/script_dlc_1.rpy:4958
+translate english cecilia_anna_argument_0daf2774:
+
+    # c "{cps=50}Хотела бы сказать, что это не так, но перспектив действительно немного."
+    c "{cps=50}I would like to say that this is not so, but there really are few prospects."
+
+# game/script_dlc_1.rpy:4959
+translate english cecilia_anna_argument_c5e54e79:
+
+    # c "{cps=50}Мы перепробовали все мыслимые и немыслимые способы лечения, но успеха, как видишь, не добились. Так что теперь мы, по большей части, скорее ищем способ хоть как-то облегчить страдания Анри, нежели вылечить его."
+    c "{cps=50}We tried all imaginable and inconceivable methods of treatment, but, as you can see, we did not achieve success. So now we, for the most part, are looking for a way to somehow alleviate Henri's suffering rather than cure him."
+
+# game/script_dlc_1.rpy:4960
+translate english cecilia_anna_argument_d1f844fc:
+
+    # c "{cps=50}Есть надежда — пусть и крошечная — на то, что со временем болезнь может отступить сама. Такие случаи известны, хотя и крайне редки."
+    c "{cps=50}There is hope - albeit tiny - that over time the disease may recede on its own. Such cases are known, although extremely rare."
+
+# game/script_dlc_1.rpy:4961
+translate english cecilia_anna_argument_c4da50cd:
+
+    # c "{cps=50}Но если чуда не случится, то... То бедняге уже не выкарабкаться."
+    c "{cps=50}But if a miracle doesn’t happen, then... The poor guy's not going to make it."
+
+# game/script_dlc_1.rpy:4962
+translate english cecilia_anna_argument_314ff5a4:
+
+    # h "{cps=50}Да уж. Судя по всему, атмосфера у вас здесь не самая веселая."
+    h "{cps=50}Yeah. Apparently, the atmosphere here is not the most cheerful."
+
+# game/script_dlc_1.rpy:4963
+translate english cecilia_anna_argument_421e490f:
+
+    # c "{cps=50}Ох, даже не упоминай. Поначалу, когда я только прибыла сюда, лечением Анри занималась небольшая группа авторитетных врачей — настоящих профессионалов, в том числе и несколько мэтров, по книгам которых я сама когда-то училась."
+    c "{cps=50}Oh, don't even mention it. At first, when I just arrived here, Henri’s treatment was carried out by a small group of reputable doctors - real professionals, including several maestros, from whose books I myself once studied."
+
+# game/script_dlc_1.rpy:4964
+translate english cecilia_anna_argument_270a2872:
+
+    # c "{cps=50}Но, по мере того, как время шло, а Анри становилось всё хуже, Бернар стал понемногу терять веру в настоящую медицину и всё чаще искать помощи у..."
+    c "{cps=50}But, as time passed, and Henri got worse, Bernard began to gradually lose faith in real medicine and increasingly seek help from..."
+
+# game/script_dlc_1.rpy:4965
+translate english cecilia_anna_argument_34989e8f:
+
+    # c "{cps=50}Дьявол, как бы это помягче сказать... {w}У откровенных шарлатанов!"
+    c "{cps=50}Hell, how can I put it mildly...{w}Outright charlatans!"
+
+# game/script_dlc_1.rpy:4972
+translate english cecilia_anna_argument_6d3207b8:
+
+    # c "{cps=50}Сомнительные целители, полуграмотные травники, придурковатые кровопускатели — а теперь и вовсе алхимики-проходимцы!"
+    c "{cps=50}Dubious healers, semi-literate herbalists, idiotic bloodletters - and now rogue alchemists!"
+
+# game/script_dlc_1.rpy:4973
+translate english cecilia_anna_argument_27e8dc44:
+
+    # c "{cps=50}Неудивительно, что с таким докторами и совершенной здоровый человек может легко отбросить копыта — что уж говорить о том, кто и так еле цепляется за жизнь!"
+    c "{cps=50}It is not surprising that with such doctors even a perfectly healthy person can easily kick the bucket - let alone someone who is already barely clinging to life!"
+
+# game/script_dlc_1.rpy:4974
+translate english cecilia_anna_argument_8dd0a32d:
+
+    # c "{cps=50}Но, что еще хуже, весь этот сброд, готовый удавиться за пару лишних флоринов, немедленно переругался между собой, превратив спасение несчастного человека в какое-то извращенное соревнование, где каждый стремится посильнее втереться в доверие к сеньору де Шатильону..."
+    c "{cps=50}But, what’s even worse, all this rabble, willing to kill for a couple of extra florins, immediately quarreled among themselves, turning the rescue of poor Henri into some kind of perverted competition, where the main task is not to aid the sick but to gain the trust of Seigneur de Chatillon..."
+
+# game/script_dlc_1.rpy:4975
+translate english cecilia_anna_argument_7d14da70:
+
+    # c "{cps=50}...А всех своих 'коллег' — подставить и очернить."
+    c "{cps=50}...while making sure that all of your 'colleagues' fall out of his favor."
+
+# game/script_dlc_1.rpy:4976
+translate english cecilia_anna_argument_b905792a:
+
+    # c "{cps=50}Они подслушивают и подглядывают друг за другом в попытке присвоить любую ценную идею, а о любом неосторожно сказанном слове тут же доносят Бернару."
+    c "{cps=50}They eavesdrop and spy on each other in an attempt to appropriate any valuable idea, and any carelessly spoken word is immediately reported to Bernard."
+
+# game/script_dlc_1.rpy:4977
+translate english cecilia_anna_argument_5a1855cd:
+
+    # h "{cps=50}Похоже на настоящий кошмар."
+    h "{cps=50}Sounds like a total nightmare."
+
+# game/script_dlc_1.rpy:4984
+translate english cecilia_anna_argument_9ac4c230:
+
+    # c "{cps=50}Именно! Такое ощущение, что я нахожусь в какой-то банке с пауками и я не уверена, что у меня хватит сил долго здесь оставаться."
+    c "{cps=50}Exactly! It feels like I'm in some kind of jar with spiders and I'm not sure I have the strength to stay here for long."
+
+# game/script_dlc_1.rpy:4985
+translate english cecilia_anna_argument_3141de49:
+
+    # c "{cps=50}Единственное, что всё еще меня здесь держит — это моё обещание Бернару о том, что я изготовлю снадобье, которое поможет облегчить страдания Анри."
+    c "{cps=50}The only thing that still keeps me here is my promise to Bernard that I will make a potion that will help alleviate Henri’s suffering."
+
+# game/script_dlc_1.rpy:4989
+translate english cecilia_anna_argument_2952e771:
+
+    # h "{cps=50}Уже через пару дней я отплываю в Утремер, но если за это время я могу хоть чем-то тебе помочь, то только скажи."
+    h "{cps=50}In a couple of days I’m sailing to Outremer, but if during this time I can help you with anything, just tell me."
+
+# game/script_dlc_1.rpy:4990
+translate english cecilia_anna_argument_a00dd59c:
+
+    # h "{cps=50}Я весь к твоим услугам."
+    h "{cps=50}I am at your service."
+
+# game/script_dlc_1.rpy:4997
+translate english cecilia_anna_argument_3d8ddfb5_2:
+
+    # c "{cps=50}..."
+    c "{cps=50}..."
+
+# game/script_dlc_1.rpy:5004
+translate english cecilia_anna_argument_75fe9c84:
+
+    # c "{cps=50}Я скучала по твоей галантности, [name]."
+    c "{cps=50}I've missed your gallantry, [name]."
+
+# game/script_dlc_1.rpy:5005
+translate english cecilia_anna_argument_431f4e7f:
+
+    # c "{cps=50}Но, боюсь, помочь здесь особо нечем — для снадобья нужен шафран, а это чертовски редкая штука."
+    c "{cps=50}But I'm afraid there's not much to help with here - the potion requires saffron, and that's a damn rare thing."
+
+# game/script_dlc_1.rpy:5006
+translate english cecilia_anna_argument_4841ec7f:
+
+    # c "{cps=50}Бернар пытался, по моей просьбы, выкупить щепотку у авиньонского городского аптекая, но этот алчный пройдоха назвал какую-то совершенно разорительную даже для де Шатильона сумму."
+    c "{cps=50}Bernard tried, at my request, to buy a pinch from the Avignon city pharmacist, but this greedy scoundrel named a sum that was completely ruinous even for de Chatillon."
+
+# game/script_dlc_1.rpy:5007
+translate english cecilia_anna_argument_ccb37827:
+
+    # c "{cps=50}Я так поняла, что когда-то давно Бернар увёл у него из под носа несколько прибыльных сделок, так что теперь аптекарь пытается с ним поквитаться."
+    c "{cps=50}As I understood, once upon a time Bernard stole several profitable transactions from under his nose, so now the pharmacist is trying to get even with him."
+
+# game/script_dlc_1.rpy:5008
+translate english cecilia_anna_argument_e743b076:
+
+    # c "{cps=50}В любом случае, в результате нам пришлось заказывать шафран аж из Италии, так что теперь, всё что остаётся, это просто ждать, когда его наконец привезут."
+    c "{cps=50}Anyway, we ended up having to order saffron all the way from Italy, so now all we can do is just wait for it to finally arrive."
+
+# game/script_dlc_1.rpy:5009
+translate english cecilia_anna_argument_a25bd2d3:
+
+    # c "{cps=50}Обещали во второй половине следующего месяца."
+    c "{cps=50}They promised to deliver it in the second half of next month."
+
+# game/script_dlc_1.rpy:5010
+translate english cecilia_anna_argument_19632280:
+
+    # h "{cps=50}..."
+    h "{cps=50}..."
+
+# game/script_dlc_1.rpy:5011
+translate english cecilia_anna_argument_3d8ddfb5_3:
+
+    # c "{cps=50}..."
+    c "{cps=50}..."
+
+# game/script_dlc_1.rpy:5012
+translate english cecilia_anna_argument_19632280_1:
+
+    # h "{cps=50}..."
+    h "{cps=50}..."
+
+# game/script_dlc_1.rpy:5019
+translate english cecilia_anna_argument_2fdd2930:
+
+    # c "{cps=50}Почему ты на меня так смотришь?"
+    c "{cps=50}Why are you looking at me like that?"
+
+# game/script_dlc_1.rpy:5020
+translate english cecilia_anna_argument_b31816fb:
+
+    # h "{cps=50}Я не эксперт по торговым делам, но если ближайшее место, где можно добыть этот твой щафран это Авиньон, то почему бы нам не добыть его в Авиньоне?"
+    h "{cps=50}I'm no trade expert, but if the closest place to get this saffron of yours is Avignon, then why don't we get it in Avignon?"
+
+# game/script_dlc_1.rpy:5021
+translate english cecilia_anna_argument_932f0a12:
+
+    # c "{cps=50}Но ведь аптекарь..."
+    c "{cps=50}But the pharmacist..."
+
+# game/script_dlc_1.rpy:5022
+translate english cecilia_anna_argument_53bb8076:
+
+    # h "{cps=50}Аптекаря я беру на себя. Если золото его не интересует, то я предложу ему немного стали."
+    h "{cps=50}I'll take care of the pharmacist. If he is not interested in gold, then I will offer him some steel."
+
+# game/script_dlc_1.rpy:5023
+translate english cecilia_anna_argument_46828fc4:
+
+    # c "{cps=50}Никакой крови! Последнее, что нужно де Шатильону, это повторение истории с Рено."
+    c "{cps=50}No blood! The last thing de Chatillon needs is a repeat of the Renauld story."
+
+# game/script_dlc_1.rpy:5024
+translate english cecilia_anna_argument_58ad5310:
+
+    # c "{cps=50}У нас тут не поля под Камбрэ — я понимаю, что ты человек меча, но услуги разбойника мне не нужны."
+    c "{cps=50}We're not in the fields under Cambrai here - I understand that you are a man of the sword, but I don’t need the services of a brigand."
+
+# game/script_dlc_1.rpy:5025
+translate english cecilia_anna_argument_581a31fd:
+
+    # c "{cps=50}Я готова позволить тебе решить этот вопрос... нестандартными методами, но только при условии того, что никто из жителей Авиньона не отправится в процессе на тот свет."
+    c "{cps=50}I am ready to let you resolve this issue... using non-standard methods, but only on the condition that none of the residents of Avignon go to the other world in the process."
+
+# game/script_dlc_1.rpy:5029
+translate english cecilia_anna_argument_bf5858bf:
+
+    # h "{cps=50}Я обещаю."
+    h "{cps=50}I promise."
+
+# game/script_dlc_1.rpy:5030
+translate english cecilia_anna_argument_6babb899:
+
+    # c "{cps=50}Отлично. Тогда слушай..."
+    c "{cps=50}Great. Then listen..."
+
+# game/script_dlc_1.rpy:5035
+translate english cecilia_anna_argument_2d891450:
+
+    # nvl clear
+    # "{cps=50}Заручившись помощью Сесилии, вы разрабатываете план 'ограбления по-авиньонски' — тайного проникновения в резиденцию аптекаря на окраине города и похищения оттуда его запасов шафрана. А также, для того, чтобы замести следы, иных ценных ингридиентов и дорогостоящих лекарств."
+    nvl clear
+    "{cps=50}With the help of Cecilia, you develop a plan for the 'Avignon robbery' - secretly entering the pharmacist's residence on the outskirts of the city and stealing his saffron supplies from there. And also, in order to cover up traces, snatching other valuable ingredients and expensive medicines."
+
+# game/script_dlc_1.rpy:5037
+translate english cecilia_anna_argument_3bfd09a4:
+
+    # nvl clear
+    # "{cps=50}Обдумывая план, вы отмечаете, что успех его практически целиком будет зависеть от вашей скрытности, а поэтому от любых громоздких доспехов и оружия однозначно стоит отказаться — и отправляться на дело максимально на легке.{vspace=5}{color=#A9A9A9}Добавлено новое задание — [avignon_robbery.name!ti]"
+    nvl clear
+    "{cps=50}Contemplating the plan, you note that its success will depend almost entirely on your stealth, and therefore you should definitely leave any bulky armor and weapons behind - and go out on a job packed as light as possible.{vspace=5}{color=#A9A9A9}New task received - [avignon_robbery.name!ti]"
+
+# game/script_dlc_1.rpy:5039
+translate english cecilia_anna_argument_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5046
+translate english cecilia_anna_argument_71098e7e:
+
+    # h "{cps=50}Я не могу такого пообещать."
+    h "{cps=50}I can't promise that."
+
+# game/script_dlc_1.rpy:5053
+translate english cecilia_anna_argument_6d175da2:
+
+    # dn "{cps=50}{color=#A9A9A9}Голос Сесилии становится безапелляционно строгим."
+    dn "{cps=50}{color=#A9A9A9}Cecilia’s voice becomes categorically stern."
+
+# game/script_dlc_1.rpy:5054
+translate english cecilia_anna_argument_e0b863ca:
+
+    # c "{cps=50}Тогда мы ждем поставку из Италии."
+    c "{cps=50}Then we await the delivery from Italy."
+
+# game/script_dlc_1.rpy:5055
+translate english cecilia_anna_argument_9214a221:
+
+    # h "{cps=50}Но..."
+    h "{cps=50}But..."
+
+# game/script_dlc_1.rpy:5056
+translate english cecilia_anna_argument_817493cb:
+
+    # c "{cps=50}И никаких возражений."
+    c "{cps=50}And no objections."
+
+# game/script_dlc_1.rpy:5057
+translate english cecilia_anna_argument_edd488ff:
+
+    # c "{cps=50}Я была рада увидеть тебя, [name]. Надеюсь, что из своего путешествия ты вернешься в целости."
+    c "{cps=50}I was glad to see you, [name]. I hope that you return safely from your journey."
+
+# game/script_dlc_1.rpy:5058
+translate english cecilia_anna_argument_b210b335:
+
+    # c "{cps=50}Прощай.{vspace=5}{color=#A9A9A9}Отношения (Сесилия) ухудшены на 15!"
+    c "{cps=50}Farewell.{vspace=5}{color=#A9A9A9}Relationship (Cecilia) lowered by 15!"
+
+# game/script_dlc_1.rpy:5068
+translate english cecilia_anna_argument_3c51f047:
+
+    # h "{cps=50}Не сочти мои слова бестактными, но если Анри и так на волосок от смерти, а каждый новый день приносит ему лишь всё новые страдания без единой перспективы излечения, то зачем продлевать его мучения?"
+    h "{cps=50}Don’t consider my words tactless, but if Henri is already on the verge of death, and every new day brings him only more and more suffering without any prospect of recovery, then why prolong his torment?"
+
+# game/script_dlc_1.rpy:5069
+translate english cecilia_anna_argument_8b9be068:
+
+    # h "{cps=50}Разве не гуманнее было бы...?"
+    h "{cps=50}Wouldn't it be more humane...?"
+
+# game/script_dlc_1.rpy:5076
+translate english cecilia_anna_argument_1df23b23:
+
+    # c "{cps=50}Разве не гуманнее было бы что?"
+    c "{cps=50}What wouldn't be more humane?"
+
+# game/script_dlc_1.rpy:5077
+translate english cecilia_anna_argument_6a2e035c:
+
+    # c "{cps=50}Убить его?"
+    c "{cps=50}Killing him?"
+
+# game/script_dlc_1.rpy:5078
+translate english cecilia_anna_argument_a5f7f82d:
+
+    # c "{cps=50}Черт побери, да что с вами всеми не так!?"
+    c "{cps=50}Damn it, what's wrong with you all!?"
+
+# game/script_dlc_1.rpy:5079
+translate english cecilia_anna_argument_8ecccab9:
+
+    # c "{cps=50}Кто даёт вам право вот так просто решать судьбу попавшего в беду человека, как никогда нуждающегося в помощи и сочувствии?"
+    c "{cps=50}Who gives you the right to so simply decide the fate of a person in trouble who needs help and sympathy more than ever?"
+
+# game/script_dlc_1.rpy:5080
+translate english cecilia_anna_argument_de9f97f9:
+
+    # h "{cps=50}Я не..."
+    h "{cps=50}It's not what I..."
+
+# game/script_dlc_1.rpy:5081
+translate english cecilia_anna_argument_25766ab6:
+
+    # c "{cps=50}Не надо. Ничего не говори. {w}{vspace=5}Я услышала достаточно."
+    c "{cps=50}No need. Do not say anything. {w}{vspace=5}I've heard enough."
+
+# game/script_dlc_1.rpy:5082
+translate english cecilia_anna_argument_58d4c89b:
+
+    # c "{cps=50}У меня полно дел и нет времени болтать."
+    c "{cps=50}I have a lot to do and no time to chat."
+
+# game/script_dlc_1.rpy:5083
+translate english cecilia_anna_argument_edd488ff_1:
+
+    # c "{cps=50}Я была рада увидеть тебя, [name]. Надеюсь, что из своего путешествия ты вернешься в целости."
+    c "{cps=50}I was glad to see you, [name]. I hope that you return safely from your journey."
+
+# game/script_dlc_1.rpy:5084
+translate english cecilia_anna_argument_7d4c7f86:
+
+    # c "{cps=50}Прощай.{vspace=5}{color=#A9A9A9}Отношения (Сесилия) ухудшены на 50!"
+    c "{cps=50}Farewell.{vspace=5}{color=#A9A9A9}Relationship (Cecilia) lowered by 50!"
+
+# game/script_dlc_1.rpy:5099
+translate english cecilia_anna_argument_a28988fa:
+
+    # dn "{cps=50}{color=#A9A9A9}Ваше появление вызывает на лице у Анны довольную улыбку. Интонации её голоса, впрочем, в свойственной ей манере, звучат так же, как и всегда — будто бы вы никогда с ней и не расставались."
+    dn "{cps=50}{color=#A9A9A9}Your appearance brings a satisfied smile to Anna’s face. The intonations of her voice, however, in her characteristic manner, sound the same as always - as if you had never parted with her."
+
+# game/script_dlc_1.rpy:5101
+translate english cecilia_anna_argument_7bac04ce:
+
+    # a "{cps=50}Привет, [name]. Я же говорила, что мы снова встретимся."
+    a "{cps=50}Hello, [name]. I told you we would meet again."
+
+# game/script_dlc_1.rpy:5102
+translate english cecilia_anna_argument_9b74e1f6:
+
+    # a "{cps=50}Как там дела в Ренне?"
+    a "{cps=50}How are things in Rennes?"
+
+# game/script_dlc_1.rpy:5103
+translate english cecilia_anna_argument_6a41f040:
+
+    # dn "{cps=50}{color=#A9A9A9}Вы кратко пересказываете ей события разделяющие её отъезд и ваше отправление в Париж."
+    dn "{cps=50}{color=#A9A9A9}You briefly retell to her the events separating her departure and your departure to Paris."
+
+# game/script_dlc_1.rpy:5104
+translate english cecilia_anna_argument_59a53c72:
+
+    # a "{cps=50}Потрясающая история. Даже немного жаль, что я уехала оттуда в самый интересный момент. {w}Всё веселье пропустила."
+    a "{cps=50}What an amazing story. It’s even a little sad that I left there at the most interesting moment. {w}I missed all the fun."
+
+# game/script_dlc_1.rpy:5105
+translate english cecilia_anna_argument_13508cb3:
+
+    # a "{cps=50}Впрочем, это не так уж важно."
+    a "{cps=50}However, this is not so important."
+
+# game/script_dlc_1.rpy:5106
+translate english cecilia_anna_argument_0f6e4dc0:
+
+    # a "{cps=50}Сказать по правде, я и здесь не собираюсь особо задерживаться — меня, как и многих других докторов и алхимиков, привлекло щедрое предложение Бернара де Шатильона, но, видят Боги, излечить его сына вне моих сил."
+    a "{cps=50}To tell the truth, I’m not going to linger too long here either - I, like many other doctors and alchemists, was attracted by the generous offer of Bernard de Chatillon, but, by the Gods, healing his son is beyond my power."
+
+# game/script_dlc_1.rpy:5107
+translate english cecilia_anna_argument_6b9f8f1d:
+
+    # a "{cps=50}Так что, наживаться на его горе, месяцами выдумывая новые способы лечения, я не собираюсь."
+    a "{cps=50}So, I'm not going to profit from his grief by spending months inventing new methods of treatment."
+
+# game/script_dlc_1.rpy:5108
+translate english cecilia_anna_argument_2e61c08c:
+
+    # a "{cps=50}Но, хоть вылечить Анри мне и не под силу, кое-что сделать для него я всё-таки могу."
+    a "{cps=50}But, although I cannot cure Henri, I can still do something for him."
+
+# game/script_dlc_1.rpy:5109
+translate english cecilia_anna_argument_73c0b758:
+
+    # a "{cps=50}Подозреваю, что ты слышал мой разговор с той рыжей красоткой, притворяющейся добрым доктором, так что повторять одно и то же не буду."
+    a "{cps=50}I suspect that you heard my conversation with that redhead beauty pretending to be a good doctor, so I won’t repeat the same thing."
+
+# game/script_dlc_1.rpy:5110
+translate english cecilia_anna_argument_d98ec7fa:
+
+    # a "{cps=50}Парень не жилец и единственный способ прервать его страдания — это прервать его жизнь."
+    a "{cps=50}The guy is as good as dead, and the only way to end his suffering is to end his life."
+
+# game/script_dlc_1.rpy:5111
+translate english cecilia_anna_argument_7ed2f7b6:
+
+    # a "{cps=50}Его отец слишком слаб, что принять эту реальность, а собранная им когорта врачей ежемесячно получает увесистые кошели с флоринами за лечение Анри. Так что никто из них не решится убивать курицу, несущую золотые яйца."
+    a "{cps=50}His father is too weak to accept this reality, and the cohort of doctors he assembled receives hefty purses of florins every month for treating Henri. So none of them will dare to kill the goose that lays the golden eggs."
+
+# game/script_dlc_1.rpy:5112
+translate english cecilia_anna_argument_ec92d4e4:
+
+    # a "{cps=50}Я слышала, ради чего ты здесь. Понимаю, что тоже не альтруизма ради, но если мы не поможем ему — то никто не поможет."
+    a "{cps=50}I heard why you are here. I understand that it is also not for the sake of altruism, but if we don’t help him - no one will."
+
+# game/script_dlc_1.rpy:5118
+translate english cecilia_anna_argument_7dd297ef:
+
+    # h "{cps=50}Скажи мне, что нужно сделать."
+    h "{cps=50}Tell me what needs to be done."
+
+# game/script_dlc_1.rpy:5119
+translate english cecilia_anna_argument_e909e2b4:
+
+    # a "{cps=50}Ни секунды не сомневалась в тебе."
+    a "{cps=50}I didn’t doubt you for a second."
+
+# game/script_dlc_1.rpy:5120
+translate english cecilia_anna_argument_293cf130:
+
+    # a "{cps=50}Я уже приготовила снадобье — безболезненный яд, от которого бедняга уснёт навсегда."
+    a "{cps=50}I have already prepared a potion - a painless poison that will make the poor fellow fall asleep forever."
+
+# game/script_dlc_1.rpy:5121
+translate english cecilia_anna_argument_b49a7d0c:
+
+    # a "{cps=50}Проблема в том, что все лекарства и снадобья, которые дают Анри сначала проходят через одного из придворных врачей Бернара, который следит за тем, чтобы больному не стало хуже."
+    a "{cps=50}The problem is that all the medicines and potions that are given to Henri first go through one of Bernard's court doctors, who makes sure that the patient does not get worse."
+
+# game/script_dlc_1.rpy:5122
+translate english cecilia_anna_argument_ffad09a4:
+
+    # a "{cps=50}Я надеялась, что рыженькая как-то поможет мне решить эту проблему, так как она здесь на особо хорошем счету, но этот вариант, как видишь не сработал."
+    a "{cps=50}I hoped that the redhead would somehow help me solve this problem since she is in particularly good standing here, but this option, as you can see, did not work."
+
+# game/script_dlc_1.rpy:5123
+translate english cecilia_anna_argument_3c90b253:
+
+    # a "{cps=50}Поэтому остаётся старое и доброе скрытное проникновение. Покои Анри охраняются, но, судя по тому что ты демонстрировал в Ренне, для тебя это станет большой преградой."
+    a "{cps=50}So that leaves us with the good old stealthy infiltration. Henri's chambers are guarded, but judging by what you showed in Rennes, this shouldn't be much of an obstacle for you."
+
+# game/script_dlc_1.rpy:5124
+translate english cecilia_anna_argument_ddcb00a8:
+
+    # a "{cps=50}Лучше всего будет сделать это накануне твоего отплытия в Утремер, чтобы ты сам не успел попасть под подозрение."
+    a "{cps=50}It would be best to do this on the eve of your sailing to Outremer, so that you do not fall under suspicion."
+
+# game/script_dlc_1.rpy:5125
+translate english cecilia_anna_argument_970e9de6:
+
+    # a "{cps=50}..."
+    a "{cps=50}..."
+
+# game/script_dlc_1.rpy:5126
+translate english cecilia_anna_argument_7b077d6c:
+
+    # a "{cps=50}Кстати, по поводу Утремера, я бы не советовала тебе туда отправляться, но думаю, что это будет честно по отношению к Бернару. Если мы забираем у него одного сына, то должны хотя бы попытаться вернуть другого."
+    a "{cps=50}By the way, regarding Outremer, I wouldn’t advise you to go there, but I think it would be fair to Bernard. If we take one son away from him, we must at least try to get the other one back."
+
+# game/script_dlc_1.rpy:5127
+translate english cecilia_anna_argument_ec090140:
+
+    # h "{cps=50}Мы? На что ты намекаешь?"
+    h "{cps=50}We? What are you implying?"
+
+# game/script_dlc_1.rpy:5134
+translate english cecilia_anna_argument_e076f046:
+
+    # a "{cps=50}Ну уж точно не на то, что отправлюсь с тобой. {w}Я плохо переношу жару."
+    a "{cps=50}Well, it's certainly not like I'm going with you. {w}I can't stand the heat well."
+
+# game/script_dlc_1.rpy:5135
+translate english cecilia_anna_argument_b51ee455:
+
+    # h "{cps=50}Жаль. Мне бы не помешала хорошая компания."
+    h "{cps=50}Too bad. I could use some good company."
+
+# game/script_dlc_1.rpy:5142
+translate english cecilia_anna_argument_b507e743:
+
+    # a "{cps=50}Ну тогда возвращайся оттуда целым."
+    a "{cps=50}Well then, come back from there in one piece."
+
+# game/script_dlc_1.rpy:5143
+translate english cecilia_anna_argument_7f54f31d:
+
+    # a "{cps=50}Говорят, что Бог любит троицу. Вполне может быть, наша третья встреча обернется чем-то большим, чем первые две."
+    a "{cps=50}They say that God loves a trinity. Our third meeting may well turn out to be something more than the first two."
+
+# game/script_dlc_1.rpy:5150
+translate english cecilia_anna_argument_b67b70f9:
+
+    # h "{cps=50}Я понимаю твоё желание избавить его от страданий, но не тебе принимать это решение."
+    h "{cps=50}I understand your desire to put him out of his misery, but that decision is not yours to make."
+
+# game/script_dlc_1.rpy:5151
+translate english cecilia_anna_argument_61a1a76a:
+
+    # h "{cps=50}Ты не можешь убить его просто потому, что тебе его жаль или потому что тебе не кажется, что его можно вылечить."
+    h "{cps=50}You can't kill him just because you feel sorry for him or because you don't think he can be cured."
+
+# game/script_dlc_1.rpy:5152
+translate english cecilia_anna_argument_8affed0d:
+
+    # h "{cps=50}Ты не..."
+    h "{cps=50}You don't..."
+
+# game/script_dlc_1.rpy:5159
+translate english cecilia_anna_argument_2894209e:
+
+    # a "{cps=50}Не продолжай. Этого достаточно. {w}Похоже, что я всё-таки тебя переоценила.{vspace=5}{color=#A9A9A9}Отношения (Анна) ухудшены на 50!"
+    a "{cps=50}Don't continue. That's enough. {w}It looks like I overestimated you after all.{vspace=5}{color=#A9A9A9}Relationship (Anna) lowered by 50!"
+
+# game/script_dlc_1.rpy:5161
+translate english cecilia_anna_argument_9a6f1518:
+
+    # a "{cps=50}Что же, когда мы расставались в Ренне, я обещала, что мы еще встретимся — и мы встретились."
+    a "{cps=50}Well, when we parted in Rennes, I promised that we would meet again - and we did."
+
+# game/script_dlc_1.rpy:5162
+translate english cecilia_anna_argument_1aa7c3ba:
+
+    # a "{cps=50}Теперь снова пришла пора расставаться. {w}На этот раз навсегда."
+    a "{cps=50}Now it’s time to part again. {w}This time for good."
+
+# game/script_dlc_1.rpy:5163
+translate english cecilia_anna_argument_268c837d:
+
+    # a "{cps=50}Всего хорошего, [name]. {w}Беги скорее за рыженькой, быть может еще успеешь её догнать."
+    a "{cps=50}Good luck, [name]. {w}Now go run after the redhead girl, maybe you’ll catch up with her in time."
+
+# game/script_dlc_1.rpy:5170
+translate english cecilia_anna_argument_62fdb6df:
+
+    # dn "{cps=50}{color=#A9A9A9}Вы предпочитаете не вмешиваться."
+    dn "{cps=50}{color=#A9A9A9}You prefer not to interfere."
+
+# game/script_dlc_1.rpy:5171
+translate english cecilia_anna_argument_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5208
+translate english avignon_robbery_itemcheck_63cf074d:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}Ваше снаряжение слишком тяжелое и громоздное для скрытного проникновения!"
+    nvl clear
+    "{cps=50}{color=#A9A9A9}Your armor is too heavy and bulky for a stealthy infiltration!"
+
+# game/script_dlc_1.rpy:5210
+translate english avignon_robbery_itemcheck_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5214
+translate english avignon_robbery_itemcheck_733c4a1e:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}Габариты вашего оружия могут вызвать трудности и помешать скрытному проникновению!"
+    nvl clear
+    "{cps=50}{color=#A9A9A9}The size of your weapon can cause difficulties and hinder your actions!"
+
+# game/script_dlc_1.rpy:5216
+translate english avignon_robbery_itemcheck_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5219
+translate english avignon_robbery_itemcheck_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5223
+translate english avignon_robbery_itemcheck_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5227
+translate english avignon_robbery_itemcheck_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5230
+translate english avignon_robbery_intro_cc645854:
+
+    # nvl clear
+    # "{cps=50}Вы отправляетесь в Авиньон..."
+    nvl clear
+    "{cps=50}You head towards Avignon..."
+
+# game/script_dlc_1.rpy:5234
+translate english avignon_robbery_intro_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5267
+translate english avignon_robbery_itemcheck2_63cf074d:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}Ваше снаряжение слишком тяжелое и громоздное для скрытного проникновения!"
+    nvl clear
+    "{cps=50}{color=#A9A9A9}Your armor is too heavy and bulky for a stealthy infiltration!"
+
+# game/script_dlc_1.rpy:5269
+translate english avignon_robbery_itemcheck2_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5273
+translate english avignon_robbery_itemcheck2_733c4a1e:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}Габариты вашего оружия могут вызвать трудности и помешать скрытному проникновению!"
+    nvl clear
+    "{cps=50}{color=#A9A9A9}The size of your weapon can cause difficulties and hinder your actions!"
+
+# game/script_dlc_1.rpy:5275
+translate english avignon_robbery_itemcheck2_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5278
+translate english avignon_robbery_itemcheck2_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5282
+translate english avignon_robbery_itemcheck2_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5286
+translate english avignon_robbery_itemcheck2_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5295
+translate english avignon_robbery_action_0503be98:
+
+    # nvl clear
+    # "{cps=50}Добравшись до Авиньона, вы обустраиваете себе наблюдательную позицию неподалёку от резиденции аптекаря и проводите некоторое время за наблюдением, запоминая маршруты патрулирования немногочисленной охраны и повадки прислуги.{vspace=5}{color=#A9A9A9}Уровень усталости увеличен!{vspace=5}Время потеряно: 3!"
+    nvl clear
+    "{cps=50}Having reached Avignon, you set up an observation position not far from the pharmacist's residence and spend some time watching, memorizing the patrol routes of the few guards and the habits of the servants.{vspace=5}{color=#A9A9A9}Fatigue level increased!{vspace=5}Time lost: 3!"
+
+# game/script_dlc_1.rpy:5297
+translate english avignon_robbery_action_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5305
+translate english avignon_robbery_action_f28d4419:
+
+    # nvl clear
+    # "{cps=50}Дождавшись полуночи, вы скрытно подбираетесь к резиденции и успешно проникаете внутрь."
+    nvl clear
+    "{cps=50}After waiting until midnight, you secretly approach the residence and successfully get inside."
+
+# game/script_dlc_1.rpy:5307
+translate english avignon_robbery_action_ae1cbb5a:
+
+    # nvl clear
+    # "{cps=50}После непродолжительных поисков, вам удаётся найти шафран, а также доверху набить сумку прочими ценными ингредиентами и всевозможными ценностями, обставив всё, как обычное ограбление."
+    nvl clear
+    "{cps=50}After a short search, you manage to find saffron and also fill your bag to the top with other valuable ingredients and all kinds of valuables, making it look like a regular robbery."
+
+# game/script_dlc_1.rpy:5309
+translate english avignon_robbery_action_4a5c2b4e:
+
+    # nvl clear
+    # "{cps=50}Всё проходит как по маслу."
+    nvl clear
+    "{cps=50}Everything goes like clockwork."
+
+# game/script_dlc_1.rpy:5311
+translate english avignon_robbery_action_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5319
+translate english avignon_robbery_action_1b3783de:
+
+    # nvl clear
+    # "{cps=50}Но в самый последний момент, удача вас всё-таки подводит и вы случайно задеваете оружием какую-то крупную декоративную вазу, которая тут же с грохотом падает на пол и разбивается вдребезги.{vspace=5}{color=#A9A9A9}Габариты оружия, Удача — провал!"
+    nvl clear
+    "{cps=50}But at the very last moment, luck fails you and you accidentally hit some large decorative vase with your weapon, which immediately falls to the floor with a loud thud and shatters into pieces.{vspace=5}{color=#A9A9A9}Weapon size, Luck - fail!"
+
+# game/script_dlc_1.rpy:5321
+translate english avignon_robbery_action_bb60af91:
+
+    # nvl clear
+    # "{cps=50}Вся резиденция начинает стремительно просыпаться и, вместо того, чтобы спокойно и неспешно выбираться, вам приходится бежать так, как вы никогда не бегали в жизни — со всех ног и сломя голову."
+    nvl clear
+    "{cps=50}The entire residence begins to quickly wake up and, instead of getting out calmly and leisurely, you have to run as you have never run in your life - as fast as you can and headlong."
+
+# game/script_dlc_1.rpy:5323
+translate english avignon_robbery_action_c351c0fa:
+
+    # nvl clear
+    # "{cps=50}В результате, благополучно выбраться вам всё-таки удаётся, но этот безумный спринт расходует все ваши силы.{vspace=5}{color=#A9A9A9}Уровень усталости увеличен!"
+    nvl clear
+    "{cps=50}As a result, you still manage to get out safely, but this crazy sprint consumes all your strength.{vspace=5}{color=#A9A9A9}Fatigue level increased!"
+
+# game/script_dlc_1.rpy:5326
+translate english avignon_robbery_action_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5332
+translate english avignon_robbery_action_d25c0053:
+
+    # nvl clear
+    # "{cps=50}Не спеша двигаясь обратной дорогой, вы застаёте рассвет уже чуть ли не на полпути к имению де Шатильон."
+    nvl clear
+    "{cps=50}As you leisurely make your way back, you catch the dawn almost halfway to the de Chatillon estate."
+
+# game/script_dlc_1.rpy:5334
+translate english avignon_robbery_action_fdfad5ca:
+
+    # nvl clear
+    # "{cps=50}Наслаждаясь погодой и насвистывая песенку, вы размышляете о том, как поступить с полным 'награбленного' мешком..."
+    nvl clear
+    "{cps=50}Enjoying the weather and whistling a song, you are thinking about what to do with your bag full of 'loot'..."
+
+# game/script_dlc_1.rpy:5336
+translate english avignon_robbery_action_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5340
+translate english avignon_robbery_action_b8611453:
+
+    # nvl clear
+    # "{cps=50}Несмотря на противоречивость предпринятого вами рейда на резиденцию аптекаря, вы решаете сохранить хоть какие-то остатки чести и избавиться от награбленного, выбросив мешок в ближайшую канаву, где его наверняка подберёт какой-нибудь путник или местный пейзанин."
+    nvl clear
+    "{cps=50}Despite the controversy of your raid on the pharmacist's residence, you decide to preserve at least some remnants of honor and get rid of the loot by throwing the bag into the nearest ditch, where it will probably be picked up by some traveler or local peasant."
+
+# game/script_dlc_1.rpy:5343
+translate english avignon_robbery_action_0119e5e7:
+
+    # nvl clear
+    # "{cps=50}Почесав голову, вы приходите к резонному выводу о том, что хоть содержимое мешка и было добыто далеко не самым честным путём — просто так выбрасывать его в канаву глупо."
+    nvl clear
+    "{cps=50}Scratching your head, you come to the reasonable conclusion that even though the bag's contents were not obtained in the most honest way, it’s stupid to just throw it into a ditch."
+
+# game/script_dlc_1.rpy:5345
+translate english avignon_robbery_action_2b8002db:
+
+    # nvl clear
+    # "{cps=50}Гораздо резоннее оставить деньги себе и пустить их на какие-нибудь добрые, полезные и важные дела. Которых у вас всегда немало.{vspace=5}{color=#A9A9A9}Благочестие уменьшено на 40!{vspace=5}Получено 500 флоринов!"
+    nvl clear
+    "{cps=50}It makes much more sense to keep the money for yourself and use it for some good, useful and important endeavours. Of which you always have a lot.{vspace=5}{color=#A9A9A9}Virtue lowered by 40!{vspace=5}500 florins received!"
+
+# game/script_dlc_1.rpy:5350
+translate english avignon_robbery_action_7eb01219:
+
+    # nvl clear
+    # "{cps=50}Всё складывается отлично и обратный путь проходит без приключений. {w}Ровно до тех пор, пока путь вам вдруг не преграждает, появившаяся из придорожных кустов, группа бандитского вида оборванцев, которые требуют от вас не просто денег..."
+    nvl clear
+    "{cps=50}Everything is going well, and the return journey goes without incident. {w}Exactly until your path is suddenly blocked by a group of gangster-looking ragamuffins who appear from the roadside bushes and demand something very specific from you..."
+
+# game/script_dlc_1.rpy:5352
+translate english avignon_robbery_action_1dc2e6cb:
+
+    # nvl clear
+    # "{cps=50}А вынесенный вами из Авиньона мешок с награбленным."
+    nvl clear
+    "{cps=50}The bag of loot you brought from Avignon."
+
+# game/script_dlc_1.rpy:5354
+translate english avignon_robbery_action_d1c03dc2:
+
+    # nvl clear
+    # "{cps=50}Пока вы пытаетесь понять откуда у бандитов настолько конкретная информация о том, как вы провели эту ночь, они не дожидаясь вашего ответа, начинают брать вас в окружение и поудобнее перехватывать оружие..."
+    nvl clear
+    "{cps=50}As you try to understand where the bandits got such concrete information about how you spent last night, they, without waiting for your answer, begin to surround you while getting a better grip on their weapons..."
+
+# game/script_dlc_1.rpy:5356
+translate english avignon_robbery_action_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5716
+translate english avignon_robbery_fight_5e73e3fe:
+
+    # nvl clear
+    # "{cps=50}Разделавшись с бандитами, вы присаживаетесь у обочины тракта, чтобы перевести дух и обшарить их карманы на предмет чего-нибудь интересного..."
+    nvl clear
+    "{cps=50}Having dealt with the bandits, you sit down at the side of the road to take a breath and search their pockets for something interesting..."
+
+# game/script_dlc_1.rpy:5718
+translate english avignon_robbery_fight_12269fa0:
+
+    # nvl clear
+    # "{cps=50}Однако буквально несколько минут спустя оказываетесь грубо прерваны окриком от очередного неизвестного, неуклюже выбирающегося из тех же самых придорожных кустов."
+    nvl clear
+    "{cps=50}However, just a few minutes later you find yourself rudely interrupted by a shout coming from another unknown person, clumsily emerging from the same roadside bushes."
+
+# game/script_dlc_1.rpy:5720
+translate english avignon_robbery_fight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5722
+translate english avignon_robbery_fight_b8363176:
+
+    # nvl clear
+    # "{cps=50}Разделавшись с бандитами, вы присаживаетесь у обочины тракта, чтобы перевести дух..."
+    nvl clear
+    "{cps=50}Having dealt with the bandits, you sit down at the side of the road to catch your breath..."
+
+# game/script_dlc_1.rpy:5724
+translate english avignon_robbery_fight_12269fa0_1:
+
+    # nvl clear
+    # "{cps=50}Однако буквально несколько минут спустя оказываетесь грубо прерваны окриком от очередного неизвестного, неуклюже выбирающегося из тех же самых придорожных кустов."
+    nvl clear
+    "{cps=50}However, just a few minutes later you find yourself rudely interrupted by a shout coming from another unknown person, clumsily emerging from the same roadside bushes."
+
+# game/script_dlc_1.rpy:5726
+translate english avignon_robbery_fight_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5728
+translate english avignon_robbery_fight_d4baf80b:
+
+    # "{cps=50}На этот раз перед вами предстает коренастый детина, облаченный в немного немало полный латный доспех и с огромным двуручным молотом наперевес."
+    "{cps=50}This time a stocky fellow appears before you, dressed in nothing less of a full plate armor and with a huge two-handed hammer at the ready."
+
+# game/script_dlc_1.rpy:5729
+translate english avignon_robbery_fight_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5737
+translate english avignon_robbery_fight_d0a28f07:
+
+    # lfl "{cps=50}Чё-то я это... {w}Малость заплутал."
+    lfl "{cps=50}Thank God you're still here! {w}I kind of lost my way in the woods and was afraid I was going to miss you."
+
+# game/script_dlc_1.rpy:5738
+translate english avignon_robbery_fight_ab57a937:
+
+    # lfl "{cps=50}Я вообще не местный сам. {w}Я - Леон из Лиона."
+    lfl "{cps=50}Hardly my fault, honestly. I'm not even remotely from around here, you see.{w} I'm Leon from the city of Lyon."
+
+# game/script_dlc_1.rpy:5739
+translate english avignon_robbery_fight_50ecd54b:
+
+    # lfl "{cps=50}Мы здесь с братцем это... {w}Как называется-то — на контракте у сеньора одного!"
+    lfl "{cps=50}We're with a company here, me and my brother. Getting some stuff done for the local landowners."
+
+# game/script_dlc_1.rpy:5740
+translate english avignon_robbery_fight_6480a4d0:
+
+    # lfl "{cps=50}Но работа не всегда есть, так что я вот это... {w}Подрабатываю, значит, по-маленьку."
+    lfl "{cps=50}There hasn't been that much work lately, to be frank, so...{w} Gotta make some coin on the side, y'know."
+
+# game/script_dlc_1.rpy:5741
+translate english avignon_robbery_fight_bbbc4b01:
+
+    # lfl "{cps=50}Жарища, ужас."
+    lfl "{cps=50}By the way, it's a goddamn scorcher out here today. Christ!"
+
+# game/script_dlc_1.rpy:5742
+translate english avignon_robbery_fight_e01e4828:
+
+    # lfl "{cps=50}Воды у тя нет случайно?"
+    lfl "{cps=50}You don't have a sip of water, do you, friend?"
+
+# game/script_dlc_1.rpy:5748
+translate english avignon_robbery_fight_e78c8c7e:
+
+    # dn "{cps=50}{color=#A9A9A9}Вы отрицательно качаете головой."
+    dn "{cps=50}{color=#A9A9A9}You shake your head."
+
+# game/script_dlc_1.rpy:5749
+translate english avignon_robbery_fight_3fe60153:
+
+    # dn "{cps=50}{color=#A9A9A9}Детина огорченно вздыхает."
+    dn "{cps=50}{color=#A9A9A9}He sighs disappointedly."
+
+# game/script_dlc_1.rpy:5762
+translate english avignon_robbery_fight_bbe566e5:
+
+    # lfl "{cps=50}Ага! От души, браток.{vspace=5}{color=#A9A9A9}Предмет потерян — Фляга!{vspace=5}Благочестие увеличено на 10!"
+    lfl "{cps=50}Good Heavens! Thanks a lot!{vspace=5}{color=#A9A9A9}Item lost — Canteen!{vspace=5}Virtue increased by 10!"
+
+# game/script_dlc_1.rpy:5763
+translate english avignon_robbery_fight_5e7aeebd:
+
+    # dn "{cps=50}{color=#A9A9A9}Разом опустошив флягу, детина вытирает рот тыльной стороной перчатки и делает глубокий довольный вдох.{vspace=5}Усталость противника снижена!"
+    dn "{cps=50}{color=#A9A9A9}Having emptied the canteen in one chug, the man wipes his mouth with the back of his glove and takes a deep, satisfied breath.{vspace=5}Enemy fatigue level lowered!"
+
+# game/script_dlc_1.rpy:5775
+translate english avignon_robbery_fight_921e3fc6:
+
+    # lfl "{cps=50}Ага! От души, браток.{vspace=5}{color=#A9A9A9}Предмет потерян — Бурдюк!{vspace=5}Благочестие увеличено на 10!"
+    lfl "{cps=50}Good Heavens! Thanks a lot, brother!{vspace=5}{color=#A9A9A9}Item lost — Waterskin!{vspace=5}Virtue increased by 10!"
+
+# game/script_dlc_1.rpy:5776
+translate english avignon_robbery_fight_5e7aeebd_1:
+
+    # dn "{cps=50}{color=#A9A9A9}Разом опустошив флягу, детина вытирает рот тыльной стороной перчатки и делает глубокий довольный вдох.{vspace=5}Усталость противника снижена!"
+    dn "{cps=50}{color=#A9A9A9}Having emptied the canteen in one chug, the man wipes his mouth with the back of his glove and takes a deep, satisfied breath.{vspace=5}Enemy fatigue level lowered!"
+
+# game/script_dlc_1.rpy:5778
+translate english avignon_robbery_fight_bb33d36b:
+
+    # lfl "{cps=50}Так, короче, чё там, это самое... {w}Давай мне, значит, мешок из этого... {w}Из Авинионина."
+    lfl "{cps=50}So yeah... What was I saying?{w} Oh yes.{w} The bag.{w} Hand it over."
+
+# game/script_dlc_1.rpy:5779
+translate english avignon_robbery_fight_e52ad7da:
+
+    # lfl "{cps=50}И этот на ша... {w}Как его мать-то? {w}Шалфей. {w}Шалопай. {w}Шам... {w}Шар... {w}Ша..."
+    lfl "{cps=50}And also that alchemical s-thingy. Goddamit, what's its name?{w} Oh yeah, saffron, right? I'll need that too, if you don't mind."
+
+# game/script_dlc_1.rpy:5780
+translate english avignon_robbery_fight_7518de05:
+
+    # dn "{cps=50}{color=#A9A9A9}Еще немного пошипев он оставляет попытки вспомнить и выговорить сложное слово и недовольно сплёвывает себе под ноги."
+    h "{cps=50}That's quite a long list. The bag, the saffron... Perhaps you would also like some florins out of my pocket too?"
+
+# game/script_dlc_1.rpy:5781
+translate english avignon_robbery_fight_bd6ec424:
+
+    # lfl "{cps=50}Тьфу. {w}Ну ты понял, короче! {w}Давай сюда его и топай восвояси."
+    lfl "{cps=50}Well, if you've got any, then I definitely wouldn't mind grabbing them for myself."
+
+# game/script_dlc_1.rpy:5782
+translate english avignon_robbery_fight_0237e68a:
+
+    # lfl "{cps=50}Не обижу."
+    lfl "{cps=50}In other words...{w}{vspace=5}I'll take everything, thanks."
+
+# game/script_dlc_1.rpy:5783
+translate english avignon_robbery_fight_08b15e28:
+
+    # dn "{cps=50}{color=#A9A9A9}..."
+    dn "{cps=50}{color=#A9A9A9}..."
+
+# game/script_dlc_1.rpy:5784
+translate english avignon_robbery_fight_9b76224d:
+
+    # dn "{cps=50}{color=#A9A9A9}Перспектива драться с этим персонажем вас самую малость удручает и вы, стараясь избегать длинных слов и запутанных грамматических конструкций, пробуете подступиться к нему с другой стороны."
+    dn "{cps=50}{color=#A9A9A9}The prospect of fighting the man does not really entice you, and you make the last attempt to talk your way out."
+
+# game/script_dlc_1.rpy:5785
+translate english avignon_robbery_fight_c31cd787:
+
+    # h "{cps=50}Слушай, дружище, может как-нибудь договоримся?"
+    h "{cps=50}Listen, pal, how about we make a deal?"
+
+# game/script_dlc_1.rpy:5786
+translate english avignon_robbery_fight_7dad8993:
+
+    # dn "{cps=50}{color=#A9A9A9}Детина хумурится и на добрых полминуты погружается в молчаливое размышление."
+    dn "{cps=50}{color=#A9A9A9}Surprisingly enough, instead of turning you down straight away, the man seems to be open to the idea of negotiations."
+
+# game/script_dlc_1.rpy:5787
+translate english avignon_robbery_fight_f4c15871:
+
+    # dn "{cps=50}{color=#A9A9A9}Которое прерывается также резко как и наступает."
+    dn "{cps=50}{color=#A9A9A9}At least to a certain extent."
+
+# game/script_dlc_1.rpy:5788
+translate english avignon_robbery_fight_f119a5b7:
+
+    # lfl "{cps=50}О! Вспомнил, эт самое!"
+    lfl "{cps=50}Can we strike a deal, you ask?{w}{vspace=5}Well, we most certainly can."
+
+# game/script_dlc_1.rpy:5789
+translate english avignon_robbery_fight_6c1ebb18:
+
+    # lfl "{cps=50}Это, значит, братец мой так говорит..."
+    lfl "{cps=50}There's only one little problem.{w}{vspace=5}I'm kind of a tough customer when it comes to negotiations."
+
+# game/script_dlc_1.rpy:5790
+translate english avignon_robbery_fight_aaacf54a:
+
+    # lfl "{cps=50}Когда всё, что у тебя есть это — молот...{vspace=5}{color=#A9A9A9}Он потрясает своим увесистым двуручным молотом.{w}{vspace=5}{/color=#A9A9A9}Любая проблема начинает выглядеть как гвоздь!"
+    lfl "{cps=50}You see...{w} When all you've got is a hammer — everything starts looking like a nail."
+
+# game/script_dlc_1.rpy:5791
+translate english avignon_robbery_fight_c07df6c8:
+
+    # lfl "{cps=50}Вот!"
+    lfl "{cps=50}And all I've got is a hammer..."
+
+# game/script_dlc_1.rpy:5792
+translate english avignon_robbery_fight_98fcc70d:
+
+    # dn "{cps=50}{color=#A9A9A9}Он выглядит настолько довольным, что вам почему-то становится смешно."
+    dn "{cps=50}{color=#A9A9A9}The phrase, preceded by a dramatic pause, is too well-delivered to be a sudden improvisation."
+
+# game/script_dlc_1.rpy:5793
+translate english avignon_robbery_fight_81c02a10:
+
+    # dn "{cps=50}{color=#A9A9A9}Видя ваш смех, детина тоже начинает довольно улыбаться."
+    dn "{cps=50}{color=#A9A9A9}This obviously was not his first time saying that."
+
+# game/script_dlc_1.rpy:5794
+translate english avignon_robbery_fight_a11bdc21:
+
+    # lfl "{cps=50}Голова мой братец!"
+    dn "{cps=50}{color=#A9A9A9}And, judging by the wide smile on his face, he is very much enjoying it."
+
+# game/script_dlc_1.rpy:5795
+translate english avignon_robbery_fight_b8d23db4:
+
+    # h "{cps=50}Голова и правда.{vspace=5}{w}Шафран не отдам."
+    h "{cps=50}No deal then?"
+
+# game/script_dlc_1.rpy:5796
+translate english avignon_robbery_fight_63eb01a6:
+
+    # dn "{cps=50}{color=#A9A9A9}Детина понимающе кивает и снова нахмурившись захлопывает забрало шлема."
+    lfl "{cps=50}No, Mr. Talking Nail.{vspace=5}No deal."
+
+# game/script_dlc_1.rpy:5817
+translate english avignon_robbery_fight_76b2fe88_3:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5878
+translate english avignon_robbery_postfight_9ed020b6:
+
+    # nvl clear
+    # "{cps=50}Когда, вернувшись назад в имение де Шатильон, вы замечаете на себе крайне подозрительные и, одновременно с этим, недоумевающие взгляды некоторых лекарей, почему-то ошивающихся возле ворот, — ситуация понемногу начинает проясняться."
+    nvl clear
+    "{cps=50}As you return to the de Chatillon estate, you notice the extremely suspicious and, at the same time, perplexed glances of some doctors who for some reason hang around the gate - and the situation gradually begins to clear up."
+
+# game/script_dlc_1.rpy:5880
+translate english avignon_robbery_postfight_13428839:
+
+    # nvl clear
+    # "{cps=50}Ваши подозрения подкрепляет и Сесилия, которая, с открытым ртом выслушав рассказ о ваших приключениях, приходит к выводу, что кто-то из её 'коллег', по всей видимости, подслушал ваш разговор и попытался организовать перехват 'ценного груза', с которым вы будете возвращаться."
+    nvl clear
+    "{cps=50}Your suspicions are also reinforced by Cecilia, who, after listening to the story of your adventures with an open mouth, comes to the conclusion that one of her 'colleagues', apparently, overheard your conversation and tried to organize the interception of 'valuable cargo' with which you would return."
+
+# game/script_dlc_1.rpy:5882
+translate english avignon_robbery_postfight_055c134e:
+
+    # nvl clear
+    # "{cps=50}Поначалу вы хотите немедленно устроить расправу, однако Сесилия, со своей ственным ей хладнокровием, останавливает вас, призывая не портить отношения с Бернаром де Шатильоном, проливая кровь в его доме. А также, закономерно указывая на то, что разобраться в том, кто именно из здешних змеёнышей организовал засады, вряд ли представляется возможным."
+    nvl clear
+    "{cps=50}At first you want to perpetrate a reprisal immediately, but Cecilia, with her characteristic composure, stops you, urging you not to spoil relations with Bernard de Chatillon by shedding blood in his house. She also points out that it is hardly possible to figure out which of these snakes organized the ambushes."
+
+# game/script_dlc_1.rpy:5884
+translate english avignon_robbery_postfight_b870c334:
+
+    # nvl clear
+    # "{cps=50}На этом, впрочем, ваши невзгоды как будто бы заканчиваются, так как, изготовленное Сесилией с помощью шафрана лекарство, действительно помогает немного облегчить страдания Анри — к большой радости его отца."
+    nvl clear
+    "{cps=50}This, however, seems to be the end of your troubles, since the medicine Cecilia has made with saffron does help to alleviate Henri's suffering a little - much to his father's delight."
+
+# game/script_dlc_1.rpy:5886
+translate english avignon_robbery_postfight_d140d40a:
+
+    # nvl clear
+    # "{cps=50}Проворачивая все эти махинации и наблюдая затем как Сесилия, сверяясь с рецептами из ветких фолиантов, сосредоточенно готовит лекарства, вы будто бы вновь переноситесь в лагерь под стенами Камбрэ — туда, где вы впервые с ней познакомились."
+    nvl clear
+    "{cps=50}Performing all these machinations and then watching how Cecilia intently prepares medicines while consulting recipes from time-worn tomes, you feel as if you were transported back to the camp under the walls of Cambrai - to where you first met her."
+
+# game/script_dlc_1.rpy:5888
+translate english avignon_robbery_postfight_7cca8f7a:
+
+    # nvl clear
+    # "{cps=50}Наслаждаясь изяществом её движений, вы вдруг остро понимаете, как вам не хватало её всё это время."
+    nvl clear
+    "{cps=50}As you enjoy the grace of her movements, you suddenly become acutely aware of how much you have missed her all this time."
+
+# game/script_dlc_1.rpy:5890
+translate english avignon_robbery_postfight_59eba560:
+
+    # nvl clear
+    # "{cps=50}Ирония того, что, спустя столько времени вы вновь встретили её лишь для того, чтобы уже завтра отплыть к далёким берегам Утремера, заставляет вас усмехнуться."
+    nvl clear
+    "{cps=50}The irony that, after all this time, you met her again only to sail tomorrow to the distant shores of Outremer makes you chuckle."
+
+# game/script_dlc_1.rpy:5892
+translate english avignon_robbery_postfight_e0720651:
+
+    # nvl clear
+    # "{cps=50}Когда приходит время прощаться Сесилия, глядя вам прямо в глаза, заставляет пообещать, что вы не просто вернётесь обратно живым..."
+    nvl clear
+    "{cps=50}When it's time to say goodbye, Cecilia, looking you straight in the eyes, makes you promise that you won't just return alive..."
+
+# game/script_dlc_1.rpy:5894
+translate english avignon_robbery_postfight_a82e1fbc:
+
+    # nvl clear
+    # "{cps=50}А вернетесь обратно живым к ней."
+    nvl clear
+    "{cps=50}But return alive to her."
+
+# game/script_dlc_1.rpy:5896
+translate english avignon_robbery_postfight_76b2fe88:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5901
+translate english avignon_robbery_postfight_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5927
+translate english give_power2_8ed52b62:
+
+    # "{cps=50}You rush out of your tent just in time to see Fearless John collapse to the ground, choking on his own blood and holding his slit throat.{vspace=5}{color=#A9A9A9}Fearless John has died!"
+    "{cps=50}You rush out of your tent just in time to see Fearless John collapse to the ground, choking on his own blood and holding his slit throat.{vspace=5}{color=#A9A9A9}Fearless John has died!"
+
+translate english strings:
+
+    # game/script_dlc_1.rpy:156
+    old "Guardian of Damanhur"
+    new "Guardian of Damanhur"
+
+    # game/script_dlc_1.rpy:158
+    old "Omar the Furious"
+    new "Omar the Furious"
+
+    # game/script_dlc_1.rpy:159
+    old "Al-Amin the Stalwart"
+    new "Al-Amin the Stalwart"
+
+    # game/script_dlc_1.rpy:160
+    old "Abdallah the Snake"
+    new "Abdallah the Snake"
+
+    # game/script_dlc_1.rpy:161
+    old "Malik the Hawkeye"
+    new "Malik the Hawkeye"
+
+    # game/script_dlc_1.rpy:185
+    old "Постараться уснуть и отдохнуть"
+    new "Try to sleep and get some rest"
+
+    # game/script_dlc_1.rpy:185
+    old "Игнорировать усталость и быть настороже"
+    new "Ignore the fatigue and stay on your guard"
+
+    # game/script_dlc_1.rpy:439
+    old "Road to Damanhur. Ambush"
+    new "Road to Damanhur. Ambush"
+
+    # game/script_dlc_1.rpy:453
+    old "{color=#000000}Beibars retreats!{/color}"
+    new "{color=#000000}Beibars retreats!{/color}"
+
+    # game/script_dlc_1.rpy:1107
+    old "Самовольно атаковать лучников и отогнать их"
+    new "Ignore orders and attack"
+
+    # game/script_dlc_1.rpy:1107
+    old "Держать позицию"
+    new "Hold the position"
+
+    # game/script_dlc_1.rpy:1250
+    old "March to Damanhur"
+    new "March to Damanhur"
+
+    # game/script_dlc_1.rpy:2252
+    old "Siege of Damanhur"
+    new "Siege of Damanhur"
+
+    # game/script_dlc_1.rpy:2589
+    old "Атаковать Северный бастион"
+    new "Assault the Northern bastion"
+
+    # game/script_dlc_1.rpy:2589
+    old "Атаковать Западный бастион"
+    new "Assault the Western bastion"
+
+    # game/script_dlc_1.rpy:2589
+    old "Атаковать Восточный бастион"
+    new "Assault the Eastern bastion"
+
+    # game/script_dlc_1.rpy:2589
+    old "Атаковать Южный бастион"
+    new "Assault the Southern bastion"
+
+    # game/script_dlc_1.rpy:4412
+    old "Вернуться в дамиетту для женитьбы на Эмме"
+    new "Return to Damietta to marry Emma"
+
+    # game/script_dlc_1.rpy:4941
+    old "Заговорить с Сесилией"
+    new "Talk to Cecilia"
+
+    # game/script_dlc_1.rpy:4941
+    old "Заговорить с Анной"
+    new "Talk to Anna"
+
+    # game/script_dlc_1.rpy:4941
+    old "Не вмешиваться"
+    new "Stay out of it"
+
+    # game/script_dlc_1.rpy:4987
+    old "Зачем продлевать страдания Анри?"
+    new "Why prolong Henri's suffering?"
+
+    # game/script_dlc_1.rpy:5027
+    old "Обещаю"
+    new "I promise"
+
+    # game/script_dlc_1.rpy:5027
+    old "Не обещаю"
+    new "No promises"
+
+    # game/script_dlc_1.rpy:5114
+    old "Я не буду в этом участвовать"
+    new "I will not participate in this"
+
+    # game/script_dlc_1.rpy:5217
+    old "Всё равно отправиться"
+    new "Go anyway"
+
+    # game/script_dlc_1.rpy:5338
+    old "Выбросить в кусты"
+    new "Throw it into the bushes"
+
+    # game/script_dlc_1.rpy:5338
+    old "Оставить себе"
+    new "Keep it for yourself"
+
+    # game/script_dlc_1.rpy:5485
+    old "Outskirts of Avignon"
+    new "Outskirts of Avignon"
+
+    # game/script_dlc_1.rpy:5746
+    old "Дать флягу"
+    new "Give canteen"
+
+    # game/script_dlc_1.rpy:5746
+    old "Дать бурдюк"
+    new "Give waterskin"
+# TODO: Translation updated at 2023-12-28 17:40
+
+# game/script_dlc_1.rpy:5823
+translate english avignon_robbery_fight_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5840
+translate english avignon_robbery_fight_41c3e463:
+
+    # nvl clear
+    # "{cps=50}Понимая, что на кону стоит ваша собственная жизнь, вы бросаете шафран и поспешно отступаете.{vspace=5}{color=#A9A9A9}Престиж снижен на 1!{vspace=5}Благочестие снижено на 25!"
+    nvl clear
+    "{cps=50}With your own life being on the line you decide to take no chances — and hastily retreat, leaving saffron behind.{vspace=5}{color=#A9A9A9}Prestige lowered by 1!{vspace=5}Virtue lowered by 25!"
+
+# game/script_dlc_1.rpy:5844
+translate english avignon_robbery_fight_e7653490:
+
+    # nvl clear
+    # "{cps=50}Враг, как и следовало ожидать, не преследует вас, позволяя спокойно убраться восвояси."
+    nvl clear
+    "{cps=50}As expected, the enemy is not interested in pursuing you."
+
+# game/script_dlc_1.rpy:5846
+translate english avignon_robbery_fight_76b2fe88_5:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5853
+translate english avignon_robbery_fight_d5d7aece:
+
+    # "{cps=50}Известия о провале вашей миссии крайне разочаровывают Сесилию.{vspace=5}{color=#A9A9A9}Отношения (Сесилия) ухудшены на 15!"
+    "{cps=50}The failure of your mission leaves Cecilia highly disappointed.{vspace=5}{color=#A9A9A9}Relationship (Cecilia) lowered by 15!"
+
+# game/script_dlc_1.rpy:5855
+translate english avignon_robbery_fight_76b2fe88_6:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5862
+translate english avignon_robbery_fight_76b2fe88_7:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:5867
+translate english avignon_robbery_fight_76b2fe88_8:
+
+    # nvl clear
+    nvl clear
+
+translate english strings:
+
+    # game/script_dlc_1.rpy:5825
+    old "{cps=50}Спустя четверть часа напряженного боя, противник серьезно выдыхается, открывая вам возможность для отступления. Если вы бросите шафран и попытаетесь бежать — он вряд ли станет вас преследовать..."
+    new "{cps=50}After a quarter of an hour of intensive combat your enemy seems to have lost quite an amount of energy — which opens up the opportunity for retreat. Should you drop saffron and run away — he definitely won't chase you..."
+
+    # game/script_dlc_1.rpy:5825
+    old "Бросить шафран и бежать"
+    new "Drop the saffron and run"
+# TODO: Translation updated at 2024-01-04 14:29
+
+translate english strings:
+
+    # game/script_dlc_1.rpy:4412
+    old "Вернуться в Дамиетту для женитьбы на Эмме"
+    new "Return to Damietta to marry Emma"
+# TODO: Translation updated at 2024-05-23 15:34
+
+# game/script_dlc_1.rpy:33
+translate english olivia_marriage_8c8e0804:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 1 из 18."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 1 out of 18."
+
+# game/script_dlc_1.rpy:108
+translate english emma_marriage_quickjump_1840774b:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 4 из 18."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 4 out of 18."
+
+# game/script_dlc_1.rpy:4512
+translate english damanhur_siege_success_76c2b634:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 11 из 18."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 11 out of 18."
+
+# game/script_dlc_1.rpy:4568
+translate english damanhur_text_death_fdc944e7:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 5 из 18."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 5 out of 18."
+
+# game/script_dlc_1.rpy:4625
+translate english alyssa_marriage_8b57d68c:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 8 из 18."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 8 out of 18."
+
+# game/script_dlc_1.rpy:4701
+translate english lina_marriage_904045b4:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 10 из 18."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 10 out of 18."
+
+# game/script_dlc_1.rpy:4770
+translate english eva_marriage_fc276b73:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 18."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 out of 18."
+
+# game/script_dlc_1.rpy:4850
+translate english cecilia_marriage_fc276b73:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 18."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 out of 18."
+
+# game/script_dlc_1.rpy:4913
+translate english anna_marriage_fc276b73:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 18."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 out of 18."
+# TODO: Translation updated at 2024-05-29 12:32
+
+# game/script_dlc_1.rpy:33
+translate english olivia_marriage_6b4d6087:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 1 из 19."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 1 of 19."
+
+# game/script_dlc_1.rpy:108
+translate english emma_marriage_quickjump_5962d43f:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 4 из 19."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 4 of 19."
+
+# game/script_dlc_1.rpy:4512
+translate english damanhur_siege_success_1c2686c3:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 11 из 19."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 11 of 19."
+
+# game/script_dlc_1.rpy:4568
+translate english damanhur_text_death_9fc51262:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 5 из 19."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 5 of 19."
+
+# game/script_dlc_1.rpy:4625
+translate english alyssa_marriage_28723f88:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 8 из 19."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 8 of 19."
+
+# game/script_dlc_1.rpy:4701
+translate english lina_marriage_bed8c0ab:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 10 из 19."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 10 of 19."
+
+# game/script_dlc_1.rpy:4770
+translate english eva_marriage_7c264b34:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 19."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 19."
+
+# game/script_dlc_1.rpy:4850
+translate english cecilia_marriage_7c264b34:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 19."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 19."
+
+# game/script_dlc_1.rpy:4913
+translate english anna_marriage_7c264b34:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 19."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 19."
+# TODO: Translation updated at 2024-10-16 16:52
+
+# game/script_dlc_1.rpy:6375
+translate english avignon_robbery_postfight_88141a15:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}Опыт за завершение задания: +[temp_experience_number]"
+    nvl clear
+    "{cps=50}{color=#A9A9A9}EXP for completing the quest: +[temp_experience_number]"
+
+# game/script_dlc_1.rpy:6381
+translate english avignon_robbery_postfight_76b2fe88_2:
+
+    # nvl clear
+    nvl clear
+
+# TODO: Translation updated at 2024-12-19 15:31
+
+# game/script_dlc_1.rpy:33
+translate english olivia_marriage_1283d588:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 1 из 31."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 1 of 31."
+
+# game/script_dlc_1.rpy:126
+translate english emma_marriage_quickjump_650c7b33:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 4 из 31."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 4 of 31."
+
+# game/script_dlc_1.rpy:4701
+translate english damanhur_siege_success_c00aadd6:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 11 из 31."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 11 of 31."
+
+# game/script_dlc_1.rpy:4775
+translate english damanhur_text_death_e202d251:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 5 из 31."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 5 of 31."
+
+# game/script_dlc_1.rpy:4850
+translate english alyssa_marriage_5239f4d1:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 8 из 31."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 8 of 31."
+
+# game/script_dlc_1.rpy:4944
+translate english lina_marriage_e2915aac:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 10 из 31."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 10 of 31."
+
+# game/script_dlc_1.rpy:5031
+translate english eva_marriage_25636607:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 31."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 31."
+
+# game/script_dlc_1.rpy:5129
+translate english cecilia_marriage_25636607:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 31."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 31."
+
+# game/script_dlc_1.rpy:5210
+translate english anna_marriage_25636607:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из 31."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of 31."
+# TODO: Translation updated at 2024-12-29 22:36
+
+# game/script_dlc_1.rpy:6201
+translate english avignon_robbery_fight_f8ab4924:
+
+    # nvl clear
+    # "{cps=50}Однако буквально несколько минут спустя оказываетесь грубо прерваны окриком от очередного неизвестного, неуклюже выбирающегося из тех же самых придорожных кустов.{color=#A9A9A9}{vspace=5}Отдых прерван!"
+    nvl clear
+    "{cps=50}However, just a few minutes later you find yourself rudely interrupted by a shout coming from another unknown person, clumsily emerging from the same roadside bushes.{color=#A9A9A9}{vspace=5}Rest failed!"
+# TODO: Translation updated at 2025-03-04 17:08
+
+# game/script_dlc_1.rpy:33
+translate english olivia_marriage_dbb16044:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 1 из [game_total_endings_number]."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 1 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:135
+translate english emma_marriage_quickjump_785e286e:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 4 из [game_total_endings_number]."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 4 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:4744
+translate english damanhur_siege_success_c8b8fae4:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 11 из [game_total_endings_number]."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 11 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:4836
+translate english damanhur_text_death_4b83c01f:
+
+    # nvl clear
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 5 из [game_total_endings_number]."
+    nvl clear
+    "{cps=50}{color=#A9A9A9}{i}Ending 5 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:4920
+translate english alyssa_marriage_6e697915:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 8 из [game_total_endings_number]."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 8 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:5023
+translate english lina_marriage_e174ebfa:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 10 из [game_total_endings_number]."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 10 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:5128
+translate english eva_marriage_96085f2c:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из [game_total_endings_number]."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:5244
+translate english cecilia_marriage_96085f2c:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из [game_total_endings_number]."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:5334
+translate english anna_marriage_96085f2c:
+
+    # dn "{cps=50}{color=#A9A9A9}{i}Концовка 6 из [game_total_endings_number]."
+    dn "{cps=50}{color=#A9A9A9}{i}Ending 6 of [game_total_endings_number]."
+
+# TODO: Translation updated at 2025-03-08 21:13
+
+# game/script_dlc_1.rpy:4764
+translate english damanhur_siege_success_76b2fe88_4:
+
+    # nvl clear
+    nvl clear
+
+# game/script_dlc_1.rpy:4780
+translate english damanhur_siege_success_ae551c35:
+
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 11 из [game_total_endings_number]."
+    "{cps=50}{color=#A9A9A9}{i}Ending 11 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:4873
+translate english damanhur_text_death_d182dfa9:
+
+    # "{cps=50}{color=#A9A9A9}{i}Концовка 5 из [game_total_endings_number]."
+    "{cps=50}{color=#A9A9A9}{i}Ending 5 of [game_total_endings_number]."
+
+# game/script_dlc_1.rpy:4874
+translate english damanhur_text_death_76b2fe88_1:
+
+    # nvl clear
+    nvl clear
+

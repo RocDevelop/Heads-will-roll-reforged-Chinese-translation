@@ -1,0 +1,294 @@
+Self-voicing disabled.
+Clipboard voicing enabled. 
+Self-voicing enabled. 
+bar
+selected
+viewport
+horizontal scroll
+vertical scroll
+activate
+deactivate
+increase
+decrease
+Font Override
+Default
+DejaVu Sans
+Opendyslexic
+Text Size Scaling
+Reset
+Line Spacing Scaling
+Self-Voicing
+Off
+Text-to-speech
+Clipboard
+Debug
+The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was.
+{#weekday}Monday
+{#weekday}Tuesday
+{#weekday}Wednesday
+{#weekday}Thursday
+{#weekday}Friday
+{#weekday}Saturday
+{#weekday}Sunday
+{#weekday_short}Mon
+{#weekday_short}Tue
+{#weekday_short}Wed
+{#weekday_short}Thu
+{#weekday_short}Fri
+{#weekday_short}Sat
+{#weekday_short}Sun
+{#month}January
+{#month}February
+{#month}March
+{#month}April
+{#month}May
+{#month}June
+{#month}July
+{#month}August
+{#month}September
+{#month}October
+{#month}November
+{#month}December
+{#month_short}Jan
+{#month_short}Feb
+{#month_short}Mar
+{#month_short}Apr
+{#month_short}May
+{#month_short}Jun
+{#month_short}Jul
+{#month_short}Aug
+{#month_short}Sep
+{#month_short}Oct
+{#month_short}Nov
+{#month_short}Dec
+%b %d, %H:%M
+Save slot %s: [text]
+Load slot %s: [text]
+Delete slot [text]
+File page auto
+File page quick
+File page [text]
+Next file page.
+Previous file page.
+Quick save complete.
+Quick save.
+Quick load.
+Language [text]
+The interactive director is not enabled here.
+Done
+(statement)
+(tag)
+(attributes)
+(transform)
+(transition)
+(channel)
+(filename)
+Change
+Add
+Cancel
+Remove
+Statement:
+Tag:
+Attributes:
+Transforms:
+Behind:
+Transition:
+Channel:
+Audio Filename:
+Are you sure?
+Are you sure you want to delete this save?
+Are you sure you want to overwrite your save?
+Loading will lose unsaved progress.\nAre you sure you want to do this?
+Are you sure you want to quit?
+Are you sure you want to return to the main menu?\nThis will lose unsaved progress.
+Are you sure you want to end the replay?
+Are you sure you want to begin skipping?
+Are you sure you want to skip to the next choice?
+Are you sure you want to skip unseen dialogue to the next choice?
+Failed to save screenshot as %s.
+Saved screenshot as %s.
+Skip Mode
+This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}.
+display
+transitions
+skip transitions
+video sprites
+show empty window
+text speed
+joystick
+joystick...
+skip
+skip unseen [text]
+skip unseen text
+begin skipping
+after choices
+skip after choices
+auto-forward time
+auto-forward
+Auto forward
+auto-forward after click
+automatic move
+wait for voice
+voice sustain
+self voicing
+clipboard voicing
+debug voicing
+emphasize audio
+rollback side
+gl powersave
+gl framerate
+gl tearing
+font transform
+font size
+font line spacing
+music volume
+sound volume
+voice volume
+mute music
+mute sound
+mute voice
+mute all
+Clipboard voicing enabled. Press 'shift+C' to disable.
+Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable.
+Self-voicing enabled. Press 'v' to disable.
+Empty Slot.
+Previous
+Next
+Joystick Mapping
+Developer Menu
+Interactive Director (D)
+Reload Game (Shift+R)
+Console (Shift+O)
+Variable Viewer
+Image Location Picker
+Filename List
+Show Image Load Log (F4)
+Hide Image Load Log (F4)
+Image Attributes
+[name] [attributes] (hidden)
+[name] [attributes]
+Nothing to inspect.
+Hide deleted
+Show deleted
+Return to the developer menu
+Rectangle: %r
+Mouse position: %r
+Right-click or escape to quit.
+Rectangle copied to clipboard.
+Position copied to clipboard.
+Type to filter: 
+Textures: [tex_count] ([tex_size_mb:.1f] MB)
+Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)
+\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}
+Displayable Inspector
+Size
+Style
+Location
+Inspecting Styles of [displayable_name!q]
+displayable:
+        (no properties affect the displayable)
+        (default properties omitted)
+<repr() failed>
+Contacting App Store\nPlease Wait...
+The Ren'Py Updater is not supported on mobile devices.
+An error is being simulated.
+Either this project does not support updating, or the update status file was deleted.
+This account does not have permission to perform an update.
+This account does not have permission to write the update log.
+Could not verify update signature.
+The update file was not downloaded.
+The update file does not have the correct digest - it may have been corrupted.
+While unpacking {}, unknown type {}.
+Updater
+An error has occured:
+Checking for updates.
+This program is up to date.
+[u.version] is available. Do you want to install it?
+Preparing to download the updates.
+Downloading the updates.
+Unpacking the updates.
+Finishing up.
+The updates have been installed. The program will restart.
+The updates have been installed.
+The updates were cancelled.
+Proceed
+Image [index] of [count] locked.
+prev
+next
+slideshow
+return
+Renderer
+Automatically Choose
+Force Angle/DirectX Renderer
+Force OpenGL Renderer
+Force Software Renderer
+NPOT
+Enable
+Powersave
+Framerate
+Screen
+60
+30
+Tearing
+Changes will take effect the next time this program is run.
+Performance Warning
+This computer is using software rendering.
+This computer is not using shaders.
+This computer is displaying graphics slowly.
+This computer has a problem displaying graphics: [problem].
+Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem.
+Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display.
+Update DirectX
+Continue, Show this warning again
+Continue, Don't show warning again
+Updating DirectX.
+DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX.
+{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box.
+When setup finishes, please click below to restart this program.
+Restart
+Select Gamepad to Calibrate
+No Gamepads Available
+Calibrating [name] ([i]/[total])
+Press or move the [control!r] [kind].
+Skip (A)
+Back (B)
+Open
+Opens the traceback.txt file in a text editor.
+Copy BBCode
+Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/.
+Copy Markdown
+Copies the traceback.txt file to the clipboard as Markdown for Discord.
+An exception has occurred.
+Rollback
+Attempts a roll back to a prior time, allowing you to save or choose a different choice.
+Ignore
+Ignores the exception, allowing you to continue.
+Ignores the exception, allowing you to continue. This often leads to additional errors.
+Reload
+Reloads the game from disk, saving and restoring game state if possible.
+Console
+Opens a console to allow debugging the problem.
+Quits the game.
+Parsing the script failed.
+Opens the errors.txt file in a text editor.
+Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/.
+Copies the errors.txt file to the clipboard as Markdown for Discord.
+High Contrast Text
+Self-Voicing Volume Drop
+self voicing volume drop
+system cursor
+renderer menu
+accessibility menu
+high contrast text
+Force GL Renderer
+Force ANGLE Renderer
+Force GLES Renderer
+Force GL2 Renderer
+Force ANGLE2 Renderer
+Force GLES2 Renderer
+Enable (No Blocklist)
+This game requires use of GL2 that can't be initialised.
+The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer.
+More details on how to fix this can be found in the {a=[url]}documentation{/a}.
+Change render options
+Press or move the '[control!s]' [kind].

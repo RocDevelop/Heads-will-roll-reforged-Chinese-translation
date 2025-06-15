@@ -1,0 +1,2131 @@
+﻿# TODO: Translation updated at 2021-06-27 23:39
+
+translate english strings:
+
+    # game/screens.rpy:263
+    old "Back"
+    new "Back"
+
+    # game/screens.rpy:264
+    old "Skip"
+    new "Skip"
+
+    # game/screens.rpy:265
+    old "Save"
+    new "Save"
+
+    # game/screens.rpy:266
+    old "Prefs"
+    new "Prefs"
+
+    # game/screens.rpy:307
+    old "Start"
+    new "Start"
+
+    # game/screens.rpy:311
+    old "History"
+    new "History"
+
+    # game/screens.rpy:315
+    old "Load"
+    new "Load"
+
+    # game/screens.rpy:317
+    old "Preferences"
+    new "Preferences"
+
+    # game/screens.rpy:321
+    old "End Replay"
+    new "End Replay"
+
+    # game/screens.rpy:325
+    old "Main Menu"
+    new "Main Menu"
+
+    # game/screens.rpy:327
+    old "About"
+    new "About"
+
+    # game/screens.rpy:332
+    old "Help"
+    new "Help"
+
+    # game/screens.rpy:338
+    old "Quit"
+    new "Quit"
+
+    # game/screens.rpy:479
+    old "Return"
+    new "Return"
+
+    # game/screens.rpy:563
+    old "Version [config.version!t]\n"
+    new "Version [config.version!t]\n"
+
+    # game/screens.rpy:569
+    old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+    # game/screens.rpy:609
+    old "Page {}"
+    new "Page {}"
+
+    # game/screens.rpy:609
+    old "Automatic saves"
+    new "Automatic saves"
+
+    # game/screens.rpy:609
+    old "Quick saves"
+    new "Quick saves"
+
+    # game/screens.rpy:651
+    old "{#file_time}%A, %B %d %Y, %H:%M"
+    new "{#file_time}%A, %B %d %Y, %H:%M"
+
+    # game/screens.rpy:651
+    old "empty slot"
+    new "empty slot"
+
+    # game/screens.rpy:668
+    old "<"
+    new "<"
+
+    # game/screens.rpy:671
+    old "{#auto_page}A"
+    new "{#auto_page}A"
+
+    # game/screens.rpy:674
+    old "{#quick_page}Q"
+    new "{#quick_page}Q"
+
+    # game/screens.rpy:680
+    old ">"
+    new ">"
+
+    # game/screens.rpy:737
+    old "Display"
+    new "Display"
+
+    # game/screens.rpy:738
+    old "Window"
+    new "Window"
+
+    # game/screens.rpy:739
+    old "Fullscreen"
+    new "Fullscreen"
+
+    # game/screens.rpy:743
+    old "Rollback Side"
+    new "Rollback Side"
+
+    # game/screens.rpy:744
+    old "Disable"
+    new "Disable"
+
+    # game/screens.rpy:745
+    old "Left"
+    new "Left"
+
+    # game/screens.rpy:746
+    old "Right"
+    new "Right"
+
+    # game/screens.rpy:751
+    old "Unseen Text"
+    new "Unseen Text"
+
+    # game/screens.rpy:752
+    old "After Choices"
+    new "After Choices"
+
+    # game/screens.rpy:753
+    old "Transitions"
+    new "Transitions"
+
+    # game/screens.rpy:766
+    old "Text Speed"
+    new "Text Speed"
+
+    # game/screens.rpy:770
+    old "Auto-Forward Time"
+    new "Auto-Forward Time"
+
+    # game/screens.rpy:777
+    old "Music Volume"
+    new "Music Volume"
+
+    # game/screens.rpy:784
+    old "Sound Volume"
+    new "Sound Volume"
+
+    # game/screens.rpy:790
+    old "Test"
+    new "Test"
+
+    # game/screens.rpy:794
+    old "Voice Volume"
+    new "Voice Volume"
+
+    # game/screens.rpy:805
+    old "Mute All"
+    new "Mute All"
+
+    # game/screens.rpy:924
+    old "The dialogue history is empty."
+    new "The dialogue history is empty."
+
+    # game/screens.rpy:994
+    old "Keyboard"
+    new "Keyboard"
+
+    # game/screens.rpy:995
+    old "Mouse"
+    new "Mouse"
+
+    # game/screens.rpy:998
+    old "Gamepad"
+    new "Gamepad"
+
+    # game/screens.rpy:1011
+    old "Enter"
+    new "Enter"
+
+    # game/screens.rpy:1012
+    old "Advances dialogue and activates the interface."
+    new "Advances dialogue and activates the interface."
+
+    # game/screens.rpy:1015
+    old "Space"
+    new "Space"
+
+    # game/screens.rpy:1016
+    old "Advances dialogue without selecting choices."
+    new "Advances dialogue without selecting choices."
+
+    # game/screens.rpy:1019
+    old "Arrow Keys"
+    new "Arrow Keys"
+
+    # game/screens.rpy:1020
+    old "Navigate the interface."
+    new "Navigate the interface."
+
+    # game/screens.rpy:1023
+    old "Escape"
+    new "Escape"
+
+    # game/screens.rpy:1024
+    old "Accesses the game menu."
+    new "Accesses the game menu."
+
+    # game/screens.rpy:1027
+    old "Ctrl"
+    new "Ctrl"
+
+    # game/screens.rpy:1028
+    old "Skips dialogue while held down."
+    new "Skips dialogue while held down."
+
+    # game/screens.rpy:1031
+    old "Tab"
+    new "Tab"
+
+    # game/screens.rpy:1032
+    old "Toggles dialogue skipping."
+    new "Toggles dialogue skipping."
+
+    # game/screens.rpy:1035
+    old "Page Up"
+    new "Page Up"
+
+    # game/screens.rpy:1036
+    old "Rolls back to earlier dialogue."
+    new "Rolls back to earlier dialogue."
+
+    # game/screens.rpy:1039
+    old "Page Down"
+    new "Page Down"
+
+    # game/screens.rpy:1040
+    old "Rolls forward to later dialogue."
+    new "Rolls forward to later dialogue."
+
+    # game/screens.rpy:1044
+    old "Hides the user interface."
+    new "Hides the user interface."
+
+    # game/screens.rpy:1048
+    old "Takes a screenshot."
+    new "Takes a screenshot."
+
+    # game/screens.rpy:1052
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+
+    # game/screens.rpy:1058
+    old "Left Click"
+    new "Left Click"
+
+    # game/screens.rpy:1062
+    old "Middle Click"
+    new "Middle Click"
+
+    # game/screens.rpy:1066
+    old "Right Click"
+    new "Right Click"
+
+    # game/screens.rpy:1070
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Mouse Wheel Up\nClick Rollback Side"
+
+    # game/screens.rpy:1074
+    old "Mouse Wheel Down"
+    new "Mouse Wheel Down"
+
+    # game/screens.rpy:1081
+    old "Right Trigger\nA/Bottom Button"
+    new "Right Trigger\nA/Bottom Button"
+
+    # game/screens.rpy:1085
+    old "Left Trigger\nLeft Shoulder"
+    new "Left Trigger\nLeft Shoulder"
+
+    # game/screens.rpy:1089
+    old "Right Shoulder"
+    new "Right Shoulder"
+
+    # game/screens.rpy:1094
+    old "D-Pad, Sticks"
+    new "D-Pad, Sticks"
+
+    # game/screens.rpy:1098
+    old "Start, Guide"
+    new "Start, Guide"
+
+    # game/screens.rpy:1102
+    old "Y/Top Button"
+    new "Y/Top Button"
+
+    # game/screens.rpy:1105
+    old "Calibrate"
+    new "Calibrate"
+
+    # game/screens.rpy:1217
+    old "Skipping"
+    new "Skipping"
+
+    # game/screens.rpy:1439
+    old "Auto"
+    new "Auto"
+
+    # game/screens.rpy:1440
+    old "Menu"
+    new "Menu"
+
+# TODO: Translation updated at 2021-06-28 14:36
+
+translate english strings:
+
+    # game/screens.rpy:267
+    old "Languuuuuuuuuuuuuuuuuuuuage"
+    new "Language2"
+
+    # game/screens.rpy:320
+    old "Language"
+    new "Language"
+
+    # game/screens.rpy:762
+    old "Englisg"
+    new "Englisg"
+# TODO: Translation updated at 2021-08-06 22:56
+
+translate english strings:
+
+    # game/screens.rpy:755
+    old "Mature Content"
+    new "Mature Content"
+
+    # game/screens.rpy:756
+    old "On"
+    new "On"
+# TODO: Translation updated at 2021-08-27 09:36
+
+translate english strings:
+
+    # game/screens.rpy:334
+    old "Credits"
+    new "Credits"
+# TODO: Translation updated at 2021-10-27 22:48
+
+translate english strings:
+
+    # game/screens.rpy:637
+    old "Нardcore Saves"
+    new "Нardcore Saves"
+
+    # game/screens.rpy:702
+    old "{#quick_page}Нardcore"
+    new "{#quick_page}Нardcore"
+
+# TODO: Translation updated at 2021-11-09 13:06
+
+translate english strings:
+
+    # game/screens.rpy:408
+    old "Нigh Scores"
+    new "Нigh Scores"
+
+    # game/screens.rpy:709
+    old "Quick Saves"
+    new "Quick Saves"
+# TODO: Translation updated at 2022-07-28 06:43
+
+translate english strings:
+
+    # game/screens.rpy:549
+    old "Continue"
+    new "Continue"
+
+    # game/screens.rpy:551
+    old "New Game"
+    new "New Game"
+# TODO: Translation updated at 2023-03-31 09:55
+
+translate english strings:
+
+    # game/screens.rpy:579
+    old "{size=+10}Continue"
+    new "{size=+10}Continue"
+
+    # game/screens.rpy:581
+    old "{size=+10}New Game"
+    new "{size=+10}New Game"
+
+    # game/screens.rpy:583
+    old "Survival Mode"
+    new "Survival Mode"
+
+    # game/screens.rpy:585
+    old "Proving Grounds"
+    new "Proving Grounds"
+
+    # game/screens.rpy:589
+    old "Redeem a code"
+    new "Redeem a code"
+
+    # game/screens.rpy:643
+    old "The game was just updated to a version 1.8!{vspace=20}The full changelog can be viewed in our{vspace=5}Community Hub on Steam or on our Discord.{vspace=20}Saves should still be compatible but it is generally{vspace=5}suggested to start a new playthrough."
+    new "The game was just updated to a version 1.8!{vspace=20}The full changelog can be viewed in our{vspace=5}Community Hub on Steam or on our Discord.{vspace=20}Saves should still be compatible but it is generally{vspace=5}suggested to start a new playthrough."
+# TODO: Translation updated at 2023-06-20 19:55
+
+translate english strings:
+
+    # game/screens.rpy:911
+    old "Created by {a=https://boosty.to/1917studios/}1917 Studios{/a}."
+    new "Created by {a=https://boosty.to/1917studios/}1917 Studios{/a}."
+
+    # game/screens.rpy:913
+    old "{vspace=20}Watch full credits."
+    new "{vspace=20}Watch full credits."
+
+    # game/screens.rpy:920
+    old "{vspace=200}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "{vspace=200}Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+
+    # game/screens.rpy:1097
+    old "{size=-5}{color=#A9A9A9}{vspace=10}  Нold 'Ctrl' to Skip"
+    new "{size=-5}{color=#A9A9A9}{vspace=10}  Нold 'Ctrl' to Skip"
+# TODO: Translation updated at 2023-06-29 19:07
+
+translate english strings:
+
+    # game/screens.rpy:646
+    old "Redeem code"
+    new "Redeem code"
+
+    # game/screens.rpy:652
+    old "Settings"
+    new "Settings"
+
+    # game/screens.rpy:702
+    old "Survival mode"
+    new "Survival mode"
+
+    # game/screens.rpy:703
+    old "unlocked!"
+    new "unlocked!"
+# TODO: Translation updated at 2023-09-21 20:42
+
+translate english strings:
+
+    # game/screens.rpy:926
+    old "Created by 1917 Studios."
+    new "Created by 1917 Studios."
+# TODO: Translation updated at 2023-12-22 18:27
+
+translate english strings:
+
+    # game/screens.rpy:211
+    old "surcoat"
+    new "surcoat"
+
+    # game/screens.rpy:220
+    old "Leon from Lyon"
+    new "Leon from Lyon"
+
+    # game/screens.rpy:221
+    old "Ограбление по-авиньонски"
+    new "The Avignon Job"
+
+    # game/screens.rpy:221
+    old "{color=#A9A9A9}Отправиться в Авиньон и выкрасть шафран из резиденции местного аптекаря."
+    new "{color=#A9A9A9}Travel to Avignon and steal some saffron from the residence of the local pharmacist."
+
+    # game/screens.rpy:817
+    old "{size=-10}{i}{color=#A9A9A9}'Нappily Ever After' DLC is installed"
+    new "{size=-10}{i}{color=#A9A9A9}'Нappily Ever After' DLC is installed"
+
+    # game/screens.rpy:819
+    old "{size=-10}{i}{color=#A9A9A9}'Happily Ever After' DLC is NOT installed"
+    new "{size=-10}{i}{color=#A9A9A9}'Нappily Ever After' DLC is NOT installed"
+# TODO: Translation updated at 2023-12-24 04:31
+
+translate english strings:
+
+    # game/screens.rpy:211
+    old "Surcoat"
+    new "Surcoat"
+
+    # game/screens.rpy:211
+    old "A loose robe worn over armor.{vspace=5}*Decreases fatigue gain from heat by 33%{vspace=5}*VItality: +6{vspace=5}*Endurance: +3"
+    new "A loose robe worn over armor.{vspace=5}*Decreases fatigue gain from heat by 33%{vspace=5}*VItality: +6{vspace=5}*Endurance: +3"
+
+    # game/screens.rpy:211
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}urcoat"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}urcoat"
+# TODO: Translation updated at 2024-01-16 14:18
+
+translate english strings:
+
+    # game/screens.rpy:211
+    old "A loose robe worn over armor.{vspace=5}*Decreases fatigue gain from heat by 33%{vspace=5}*Vitality: +6{vspace=5}*Endurance: +3"
+    new "A loose robe worn over armor.{vspace=5}*Decreases fatigue gain from heat by 33%{vspace=5}*Vitality: +6{vspace=5}*Endurance: +3"
+
+    # game/screens.rpy:212
+    old "Lion Нead Medallion"
+    new "Lion Нead Medallion"
+
+    # game/screens.rpy:212
+    old "A pendant with a lion's head made in the ancient Byzantine style.{vspace=5}*Strength and Agility: +1{vspace=5}*Prestige: +5{vspace=5}*Improves your hit chance with melee weapons{vspace=5}*The more aggressive you are in combat — the bigger the increase."
+    new "A pendant with a lion's head made in the ancient Byzantine style.{vspace=5}*Strength and Agility: +1{vspace=5}*Prestige: +5{vspace=5}*Improves your hit chance with melee weapons{vspace=5}*The more aggressive you are in combat — the bigger the increase."
+
+    # game/screens.rpy:212
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}L{/size}{/color}{/font}ion Нead Medallion"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}L{/size}{/color}{/font}ion Нead Medallion"
+
+    # game/screens.rpy:213
+    old "Sharp Thorned Rose"
+    new "Sharp Thorned Rose"
+
+    # game/screens.rpy:213
+    old "A beautiful rose with razor-sharp thorns.{vspace=5}*Every 1 point of НP lost due to bleeding recovers 3 points of Stamina{vspace=5}*Every 1 point of НP lost due to bleeding recovers 3 points of Fatigue{vspace=5}*Can be used to manually self inflict a 6-turn bleeding"
+    new "A beautiful rose with razor-sharp thorns.{vspace=5}*Every 1 point of НP lost due to bleeding recovers 3 points of Stamina{vspace=5}*Every 1 point of НP lost due to bleeding recovers 3 points of Fatigue{vspace=5}*Can be used to manually self inflict a 6-turn bleeding"
+
+    # game/screens.rpy:213
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}harp Thorned Rose"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}harp Thorned Rose"
+# TODO: Translation updated at 2024-05-16 21:20
+
+translate english strings:
+
+    # game/screens.rpy:220
+    old "Snake skin belt"
+    new "Snake skin belt"
+
+    # game/screens.rpy:220
+    old "An elegant snake skin belt. Very sturdy but almost weightless.{vspace=5}*Reduces Нeat fatigue gain from scale armor to 0{vspace=5}*Reduces Нeat fatigue gain from scale gorget to 0{vspace=5}*Agility: +1{vspace=5}*Endurance: +1{vspace=5}*Coordination: +1{vspace=5}*Prestige: +7"
+    new "An elegant snake skin belt. Very sturdy but almost weightless.{vspace=5}*Reduces Нeat fatigue gain from scale armor to 0{vspace=5}*Reduces Нeat fatigue gain from scale gorget to 0{vspace=5}*Agility: +1{vspace=5}*Endurance: +1{vspace=5}*Coordination: +1{vspace=5}*Prestige: +7"
+
+    # game/screens.rpy:220
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}nake skin belt"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}nake skin belt"
+
+    # game/screens.rpy:221
+    old "Raider's hood"
+    new "Raider's hood"
+
+    # game/screens.rpy:221
+    old "A well-sewn hood from a sturdy cloth — can both conceal the face and{vspace=5}protect against bad weather. Common piece of attire of various outlaws{vspace=5}and assassins.{vspace=5}*Improves hit and dodge chance by 10{vspace=5}*Only works if the character wields a one-handed weapon with no shield"
+    new "A well-sewn hood from a sturdy cloth — can both conceal the face and{vspace=5}protect against bad weather. Common piece of attire of various outlaws{vspace=5}and assassins.{vspace=5}*Improves hit and dodge chance by 10{vspace=5}*Only works if the character wields a one-handed weapon with no shield"
+
+    # game/screens.rpy:221
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}aider's hood"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}aider's hood"
+
+    # game/screens.rpy:222
+    old "Sling"
+    new "Sling"
+
+    # game/screens.rpy:222
+    old "A commoner's ranged weapon. Old as time but not exactly obsolete{vspace=5}quite yet.{vspace=5}*Injury chance: +1{vspace=5}*Injury stats debuff (enemy): +1{vspace=5}*Coordination: +2"
+    new "A commoner's ranged weapon. Old as time but not exactly obsolete{vspace=5}quite yet.{vspace=5}*Injury chance: +1{vspace=5}*Injury stats debuff (enemy): +1{vspace=5}*Coordination: +2"
+
+    # game/screens.rpy:222
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}ling"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}ling"
+
+    # game/screens.rpy:223
+    old "Throwing dagger pendant"
+    new "Throwing dagger pendant"
+
+    # game/screens.rpy:223
+    old "A tiny pendant with a throwing dagger.{vspace=5}*Improves throwing daggers' hit chance by 10{vspace=5}*Improves throwing daggers' armor bypass chance by a quarter of your agility"
+    new "A tiny pendant with a throwing dagger.{vspace=5}*Improves throwing daggers' hit chance by 10{vspace=5}*Improves throwing daggers' armor bypass chance by a quarter of your agility"
+
+    # game/screens.rpy:223
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}hrowing dagger pendant"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}hrowing dagger pendant"
+
+    # game/screens.rpy:224
+    old "Bronze ring"
+    new "Bronze ring"
+
+    # game/screens.rpy:224
+    old "An old bronze ring with a tint of rust. Typical peasant's jewelry.{vspace=5}*Strength: +1{vspace=5}*Agility: +1{vspace=5}*Prestige: +3"
+    new "An old bronze ring with a tint of rust. Typical peasant's jewelry.{vspace=5}*Strength: +1{vspace=5}*Agility: +1{vspace=5}*Prestige: +3"
+
+    # game/screens.rpy:224
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}ronze ring"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}ronze ring"
+
+    # game/screens.rpy:226
+    old "Bear paw"
+    new "Bear paw"
+
+    # game/screens.rpy:226
+    old "A severed paw of a rabid bear of a colossal size.{vspace=5}*Overhead strikes' damage is additionally increased by a quarter of{vspace=5}your strength"
+    new "A severed paw of a rabid bear of a colossal size.{vspace=5}*Overhead strikes' damage is additionally increased by a quarter of{vspace=5}your strength"
+
+    # game/screens.rpy:226
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}ear paw"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}ear paw"
+
+    # game/screens.rpy:228
+    old "Snake Talisman"
+    new "Snake Talisman"
+
+    # game/screens.rpy:228
+    old "A small talisman with an image of a snake — coiled and ready to strike.{vspace=5}*Improves short swords' hit chance by 10 + a third of your agility"
+    new "A small talisman with an image of a snake — coiled and ready to strike.{vspace=5}*Improves short swords' hit chance by 10 + a third of your agility"
+
+    # game/screens.rpy:228
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}nake Talisman"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}nake Talisman"
+
+    # game/screens.rpy:230
+    old "Falconry Glove"
+    new "Falconry Glove"
+
+    # game/screens.rpy:230
+    old "A padded gauntlet worn by falconers.{vspace=5}*Agility: +4{vspace=5}*Prestige: +2"
+    new "A padded gauntlet worn by falconers.{vspace=5}*Agility: +4{vspace=5}*Prestige: +2"
+
+    # game/screens.rpy:230
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}F{/size}{/color}{/font}alconry Glove"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}F{/size}{/color}{/font}alconry Glove"
+
+    # game/screens.rpy:232
+    old "Fair Maiden's Portrait"
+    new "Fair Maiden's Portrait"
+
+    # game/screens.rpy:232
+    old "A tiny locket with a hand-drawn portrait of a beautiful lady.{vspace=5}*Instantly removes all active poisonings and bleedings{vspace=5}*Instantly recovers one level of fatigue{vspace=5}*Requires a perfect relationship with one girl and no relationships with{vspace=5}other girls to use{vspace=5}*Requires 90 or more Virtue to use"
+    new "A tiny locket with a hand-drawn portrait of a beautiful lady.{vspace=5}*Instantly removes all active poisonings and bleedings{vspace=5}*Instantly recovers one level of fatigue{vspace=5}*Requires a perfect relationship with one girl and no relationships with{vspace=5}other girls to use{vspace=5}*Requires 90 or more Virtue to use"
+
+    # game/screens.rpy:232
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}F{/size}{/color}{/font}air Maiden's Portrait"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}F{/size}{/color}{/font}air Maiden's Portrait"
+
+    # game/screens.rpy:341
+    old "Servant"
+    new "Servant"
+
+    # game/screens.rpy:356
+    old "Broken shortsword"
+    new "Broken shortsword"
+
+    # game/screens.rpy:356
+    old "Sword with a broken blade."
+    new "Sword with a broken blade."
+
+    # game/screens.rpy:356
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}roken shortsword"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}roken shortsword"
+
+    # game/screens.rpy:364
+    old "{size=-7}{color=#A9A9A9}Doubles the chance of miracles occuring{vspace=5}when performing religious actions{vspace=5}(praying, mortifying flesh)."
+    new "{size=-7}{color=#A9A9A9}Doubles the chance of miracles occuring{vspace=5}when performing religious actions{vspace=5}(praying, mortifying flesh)."
+
+    # game/screens.rpy:370
+    old "{size=-7}{color=#A9A9A9}Allows to craft items without a sewing{vspace=5}kit or alchemist's tools."
+    new "{size=-7}{color=#A9A9A9}Allows to craft items without a sewing{vspace=5}kit or alchemist's tools."
+
+    # game/screens.rpy:373
+    old "{size=-7}{color=#A9A9A9}Increases the number of poisonous{vspace=5}ingredients provided by Empty Vial during{vspace=5}scavenging. An additional poison bottle{vspace=5}received during crafting would always be{vspace=5}full instead of half-empty."
+    new "{size=-7}{color=#A9A9A9}Increases the number of poisonous{vspace=5}ingredients provided by Empty Vial during{vspace=5}scavenging. An additional poison bottle{vspace=5}received during crafting would always be{vspace=5}full instead of half-empty."
+
+    # game/screens.rpy:376
+    old "{size=-7}{color=#A9A9A9}Considerably boosts your luck."
+    new "{size=-7}{color=#A9A9A9}Considerably boosts your luck."
+
+    # game/screens.rpy:380
+    old "{size=-7}{color=#A9A9A9}Allows you to visit a brothel for free{vspace=5}three times each chapter."
+    new "{size=-7}{color=#A9A9A9}Allows you to visit a brothel for free{vspace=5}three times each chapter."
+
+    # game/screens.rpy:383
+    old "{size=-7}{color=#A9A9A9}Chance to receive an additional item{vspace=5}during crafting is increased by 5%."
+    new "{size=-7}{color=#A9A9A9}Chance to receive an additional item{vspace=5}during crafting is increased by 5%."
+
+    # game/screens.rpy:386
+    old "{size=-7}{color=#A9A9A9}Provides 2 more leather pieces and{vspace=5}some additional money from scavenging."
+    new "{size=-7}{color=#A9A9A9}Provides 2 more leather pieces and{vspace=5}some additional money from scavenging."
+
+    # game/screens.rpy:389
+    old "{size=-7}{color=#A9A9A9}Provides 2 more alchemical ingredients{vspace=5}from scavenging."
+    new "{size=-7}{color=#A9A9A9}Provides 2 more alchemical ingredients{vspace=5}from scavenging."
+
+    # game/screens.rpy:392
+    old "{size=-7}{color=#A9A9A9}Provides an additional loot item{vspace=5}after each battle."
+    new "{size=-7}{color=#A9A9A9}Provides an additional loot item{vspace=5}after each battle."
+
+    # game/screens.rpy:395
+    old "{size=-7}{color=#A9A9A9}Unlocks all crafting recipes."
+    new "{size=-7}{color=#A9A9A9}Unlocks all crafting recipes."
+
+    # game/screens.rpy:398
+    old "{size=-7}{color=#A9A9A9}Lowers squad members' upgrade cost{vspace=5}by 20% if your reputation with soldiers{vspace=5}is 90 or more."
+    new "{size=-7}{color=#A9A9A9}Lowers squad members' upgrade cost{vspace=5}by 20% if your reputation with soldiers{vspace=5}is 90 or more."
+
+    # game/screens.rpy:401
+    old "{size=-7}{color=#A9A9A9}Boosts your win chance when gambling in{vspace=5}camp based on how low your virtue is. The{vspace=5}maximum bet sum (won or lost) is also{vspace=5}increased in the same manner."
+    new "{size=-7}{color=#A9A9A9}Boosts your win chance when gambling in{vspace=5}camp based on how low your virtue is. The{vspace=5}maximum bet sum (won or lost) is also{vspace=5}increased in the same manner."
+
+    # game/screens.rpy:404
+    old "{size=-7}{color=#A9A9A9}Increases the amount of fatigue recovered{vspace=5}by playing lute. Using lute in combat{vspace=5}would additionally lower your fatigue by{vspace=5}the number equal to your Coodrination."
+    new "{size=-7}{color=#A9A9A9}Increases the amount of fatigue recovered{vspace=5}by playing lute. Using lute in combat{vspace=5}would additionally lower your fatigue by{vspace=5}the number equal to your Coodrination."
+
+    # game/screens.rpy:408
+    old "{size=-7}{color=#A9A9A9}Every 3rd time you train Vitality you{vspace=5}would also receive an additional point in{vspace=5}Strength. At the beginning of each{vspace=5}chapter your Vitality and Strength would{vspace=5}be increased by 1."
+    new "{size=-7}{color=#A9A9A9}Every 3rd time you train Vitality, you{vspace=5}would also receive an additional point in{vspace=5}Strength. At the beginning of each{vspace=5}chapter your Vitality and Strength would{vspace=5}be increased by 1."
+
+    # game/screens.rpy:414
+    old "{size=-7}{color=#A9A9A9}Boosts gold rewards for killing enemies.{vspace=5}The lower your Virtue is — the higher{vspace=5}the reward."
+    new "{size=-7}{color=#A9A9A9}Boosts gold rewards for killing enemies.{vspace=5}The lower your Virtue is — the higher{vspace=5}the reward."
+
+    # game/screens.rpy:420
+    old "{size=-7}{color=#A9A9A9}Personal participation in heists and{vspace=5}robberies would yield an additional sum{vspace=5}of money. Нeists and robberies are easier{vspace=5}to pull off."
+    new "{size=-7}{color=#A9A9A9}Personal participation in heists and{vspace=5}robberies would yield an additional sum{vspace=5}of money. Нeists and robberies are easier{vspace=5}to pull off."
+
+    # game/screens.rpy:423
+    old "{size=-7}{color=#A9A9A9}Increases the quality of manually crafted{vspace=5}armor. Removes craftsmanship skill{vspace=5}requirement for armor crafting."
+    new "{size=-7}{color=#A9A9A9}Increases the quality of manually crafted{vspace=5}armor. Removes craftsmanship skill{vspace=5}requirement for armor crafting."
+
+    # game/screens.rpy:426
+    old "{size=-7}{color=#A9A9A9}Allows to sell items for their base cost{vspace=5}without a penalty.{vspace=5}Incompatible with Lucky coin."
+    new "{size=-7}{color=#A9A9A9}Allows to sell items for their base cost{vspace=5}without a penalty.{vspace=5}Incompatible with Lucky coin."
+
+    # game/screens.rpy:628
+    old "Rent"
+    new "Rent"
+
+    # game/screens.rpy:628
+    old "{color=#A9A9A9}Разжиться деньгами для оплаты аренды жилья.{vspace=5}Требуемая сумма: [player_house_rent_payment!ti]."
+    new "{color=#A9A9A9}Earn enough money to pay for the rent of your house.{vspace=5}Required sum: [player_house_rent_payment!ti]."
+
+    # game/screens.rpy:628
+    old "{i}{size=-7}(Мэйдстоуна)"
+    new "{i}{size=-7}(Maidstone)"
+
+    # game/screens.rpy:629
+    old "Debt"
+    new "Debt"
+
+    # game/screens.rpy:629
+    old "{color=#A9A9A9}Расплатиться с кредиторами. Текущая сумма долга: [player_debt!ti]."
+    new "{color=#A9A9A9}Pay back to the people who lended you money.{vspace=5}Current debt amount: [player_debt!ti]."
+
+    # game/screens.rpy:630
+    old "Grateful Son"
+    new "Grateful Son"
+
+    # game/screens.rpy:630
+    old "{color=#A9A9A9}Возместить семье расходы, потраченные на пир в честь вашего возвращения."
+    new "{color=#A9A9A9}Cover your family's expanses for your welcome back party."
+
+    # game/screens.rpy:630
+    old "{i}{size=-7}(Мэйдстоун)"
+    new "{i}{size=-7}(Maidstone)"
+
+    # game/screens.rpy:631
+    old "The Boy Who Cried Wolves"
+    new "The Boy Who Cried Wolves"
+
+    # game/screens.rpy:631
+    old "{color=#A9A9A9}Разобраться с волками, терроризирующими скот местного фермера."
+    new "{color=#A9A9A9}Get rid of the wolves that terrorize the cattle of a local farmer."
+
+    # game/screens.rpy:632
+    old "Personal Trainer"
+    new "Personal Trainer"
+
+    # game/screens.rpy:632
+    old "{color=#A9A9A9}Прибыть ко двору торговца, ищущего тренера по фехтованию для своего сына,{vspace=5}и постараться получить работу."
+    new "{color=#A9A9A9}Visit the local trader who's looking for a fencing teacher for his son,{vspace=5}and try to get the job."
+
+    # game/screens.rpy:633
+    old "Roadhouse"
+    new "Roadhouse"
+
+    # game/screens.rpy:633
+    old "{color=#A9A9A9}Хозяин одной из мэйдстоунских таверн предложил вам работу в качестве вышибалы."
+    new "{color=#A9A9A9}The owner of one of the Maidstone's taverns offered you a job as a bouncer."
+
+    # game/screens.rpy:634
+    old "Нunting Monsters"
+    new "Нunting Monsters"
+
+    # game/screens.rpy:634
+    old "{color=#A9A9A9}Разыскать и убить лесное чудовище."
+    new "{color=#A9A9A9}Find and kill the monster from the woods."
+
+    # game/screens.rpy:636
+    old "Recon"
+    new "Recon"
+
+    # game/screens.rpy:636
+    old "{color=#A9A9A9}Разведать обстановку в окрестностях Виндзора."
+    new "{color=#A9A9A9}Conduct a reconnaissance around Windsor."
+
+    # game/screens.rpy:636
+    old "{i}{size=-7}(Роже)"
+    new "{i}{size=-7}(Roger)"
+
+    # game/screens.rpy:637
+    old "Amateur Assassin"
+    new "Amateur Assassin"
+
+    # game/screens.rpy:637
+    old "{color=#A9A9A9}Разыскать и убить преступника, скрывающегося в лагере."
+    new "{color=#A9A9A9}Find and kill the criminal that is hiding in the camp."
+
+    # game/screens.rpy:637
+    old "{i}{size=-7}(???)"
+    new "{i}{size=-7}(???)"
+
+    # game/screens.rpy:638
+    old "A Guest From Scotland"
+    new "A Guest From Scotland"
+
+    # game/screens.rpy:638
+    old "{color=#A9A9A9}Обеспечить сохранность груза следующего в Оксфорд."
+    new "{color=#A9A9A9}Ensure the security of the cargo that is travelling to Oxford."
+
+    # game/screens.rpy:638
+    old "{i}{size=-7}(Торговец из Оксфорда)"
+    new "{i}{size=-7}(Trader from Oxford)"
+
+    # game/screens.rpy:640
+    old "Drillmaster"
+    new "Drillmaster"
+
+    # game/screens.rpy:640
+    old "{color=#A9A9A9}Помочь Джонсу в тренировке новобранцев.{vspace=15}{color=#A9A9A9}Тренировки будут влиять на показатели ваших союзников в бою.{vspace=5}Качество подготовки: [drillmaster.completed!ti]/100"
+    new "{color=#A9A9A9}Help Jones to train the new recruits.{vspace=15}{color=#A9A9A9}Each training session will improve the stats of your allies in combat.{vspace=5}Current allies' training level: [drillmaster.completed!ti]/100"
+
+    # game/screens.rpy:641
+    old "Arming the Rebellion"
+    new "Arming the Rebellion"
+
+    # game/screens.rpy:641
+    old "{color=#A9A9A9}Помочь Джонсу снабдить членов отряда оружием и снаряжением.{vspace=15}{color=#A9A9A9}Объемы помощи будут влиять на снаряжение ваших союзников в бою.{vspace=5}Гибель союзников будет приводить к потере части вложенных ресурсов.{vspace=5}Текущая стоимость снаряжения союзников: [drillmaster.timed_out!ti]"
+    new "{color=#A9A9A9}Aid Jones in providing Duncan's men with weapons and equipment.{vspace=15}{color=#A9A9A9}The size of your aid will determine the gear of your allies in combat.{vspace=5}Each ally's death with result in the loss of some of your investments.{vspace=5}Current allies' equipment budget: [drillmaster.timed_out!ti]"
+
+    # game/screens.rpy:642
+    old "{color=#A9A9A9}Передать Джонсу 400 флоринов для оплаты услуг лекаря."
+    new "{color=#A9A9A9}Give Jones 400 florins to pay for the physician's services."
+
+    # game/screens.rpy:643
+    old "Recruitment"
+    new "Recruitment"
+
+    # game/screens.rpy:643
+    old "{color=#A9A9A9}Помочь Родольфо с рекрутированием новых членов отряда, передав ему{vspace=5}сильнодействующее лекарство, а также шлем и горжет."
+    new "{color=#A9A9A9}Aid Rodolfo in recruiting new members of the rebellion by handing{vspace=5}him a potent medicine, a helmet and a gorget."
+
+    # game/screens.rpy:643
+    old "{i}{size=-7}(Родольфо)"
+    new "{i}{size=-7}(Rodolfo)"
+
+    # game/screens.rpy:644
+    old "Fall of the Нouse of Caldwell"
+    new "Fall of the Нouse of Caldwell"
+
+    # game/screens.rpy:644
+    old "{color=#A9A9A9}Подготовиться к нападению на имение графа Колдвелла."
+    new "{color=#A9A9A9}Prepare for the assault on the Caldwell estate."
+
+    # game/screens.rpy:644
+    old "{i}{size=-7}(Дункан)"
+    new "{i}{size=-7}(Duncan)"
+
+    # game/screens.rpy:646
+    old "For A Good Cause"
+    new "For A Good Cause"
+
+    # game/screens.rpy:646
+    old "{color=#A9A9A9}Объехать бывшие владения графа Колдвелла и собрать небольшой налог с их{vspace=5}обитателей."
+    new "{color=#A9A9A9}Travel around the realms that used to belong to the Caldwells and collect{vspace=5}a small tax from their inhabitants."
+
+    # game/screens.rpy:647
+    old "Secret Ingredient"
+    new "Secret Ingredient"
+
+    # game/screens.rpy:647
+    old "{color=#A9A9A9}Отправиться в резиденцию Шерифа Гринвича и передать ему деньги от{vspace=5}Дункана."
+    new "{color=#A9A9A9}Travel to the residence of the Sheriff of Greenwich and hand him{vspace=5}over the money from Duncan."
+
+    # game/screens.rpy:648
+    old "Paths Diverge"
+    new "Paths Diverge"
+
+    # game/screens.rpy:648
+    old "{color=#A9A9A9}Встретиться с Родольфо вдали от посторонних ушей и обсудить его планы."
+    new "{color=#A9A9A9}Meet Rodolfo some place away from prying ears and discuss his plans. "
+
+    # game/screens.rpy:649
+    old "Surviving Windsor"
+    new "Surviving Windsor"
+
+    # game/screens.rpy:649
+    old "{color=#A9A9A9}Подготовиться к отправке под Виндзор для участия в осаде города."
+    new "{color=#A9A9A9}Prepare for the march towards Windsor and participation in the siege of the city."
+
+    # game/screens.rpy:651
+    old "Кузнец: Закрытый шлем"
+    new "Blacksmith: Fullcover helmet"
+
+    # game/screens.rpy:651
+    old "{color=#A9A9A9}Смастерить на заказ шлем с заданными параметрами.{vspace=5}Защита головы: не ниже 16; Покрытие головы: не ниже 100"
+    new "{color=#A9A9A9}Produce a custom helmet with the following properties:{vspace=5}Helmet armor not lower than 16; Head cover not lower than 100."
+
+    # game/screens.rpy:652
+    old "Кузнец: Облегченный шлем"
+    new "Blacksmith: Lightened helmet"
+
+    # game/screens.rpy:652
+    old "{color=#A9A9A9}Смастерить на заказ шлем с заданными параметрами.{vspace=5}Покрытие головы: не ниже 80; Сумма штрафов: не больше 1"
+    new "{color=#A9A9A9}Produce a custom helmet with the following properties:{vspace=5}Head cover not lower than 80; Sum of all stat debuffs not higher than 1."
+
+    # game/screens.rpy:653
+    old "Кузнец: Украшенный шлем"
+    new "Blacksmith: Decorated helmet"
+
+    # game/screens.rpy:653
+    old "{color=#A9A9A9}Смастерить на заказ шлем с заданными параметрами.{vspace=5}Престиж: не ниже 20"
+    new "{color=#A9A9A9}Produce a custom helmet with the following properties:{vspace=5}Prestige not lower than 20."
+
+    # game/screens.rpy:655
+    old "Кузнец: Боевой доспех"
+    new "Blacksmith: Combat armor"
+
+    # game/screens.rpy:655
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Защита корпуса: не ниже 15; Покрытие корпуса: не ниже 100{vspace=5}Защита конечн.: не ниже 9; Покр. конечн.: не ниже 55{vspace=5}Сумма штрафов: не больше 6"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Torso armor not lower than 15; Torso cover not lower than 100{vspace=5}Limbs armor not lower than 9; Limbs cover not lower than 55{vspace=5}Sum of all stat debuffs not higher than 6."
+
+    # game/screens.rpy:656
+    old "Кузнец: Уязвимый доспех"
+    new "Blacksmith: Armor with a weak spot"
+
+    # game/screens.rpy:656
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Защита корпуса: не ниже 12; Покрытие корпуса: не ниже 95, не выше 100"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Torso armor not lower than 12; Torso cover higher than 94 but lower than 100."
+
+    # game/screens.rpy:657
+    old "Кузнец: Декоративный доспех"
+    new "Blacksmith: Decorated armor"
+
+    # game/screens.rpy:657
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Престиж: не ниже 35"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Prestige not lower than 35."
+
+    # game/screens.rpy:658
+    old "Кузнец: Облегченный доспех"
+    new "Blacksmith: Lightened armor"
+
+    # game/screens.rpy:658
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Сумма штрафов: не больше 2; Престиж: не ниже 20"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Sum of all stat debuffs lower than 3; Prestige not lower than 20."
+
+    # game/screens.rpy:659
+    old "Кузнец: Утяжеленный доспех"
+    new "Blacksmith: Weighted armor"
+
+    # game/screens.rpy:659
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Сумма штрафов: не ниже 14"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Sum of all stat debuffs not lower than 14."
+
+    # game/screens.rpy:661
+    old "Ремесленник: Башмаки, ножны и фляга"
+    new "Craftsman: Boots, sheath and canteen"
+
+    # game/screens.rpy:661
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Башмаки, ножны, фляга."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Boots, sheath, canteen."
+
+    # game/screens.rpy:662
+    old "Ремесленник: Ножны"
+    new "Craftsman: Sheath"
+
+    # game/screens.rpy:662
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Ножны."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Sheath."
+
+    # game/screens.rpy:663
+    old "Ремесленник: Поясная сумка"
+    new "Craftsman: Belt pouch"
+
+    # game/screens.rpy:663
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Поясная сумка."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Belt pouch."
+
+    # game/screens.rpy:664
+    old "Ремесленник: Мешки"
+    new "Craftsman: Sacks"
+
+    # game/screens.rpy:664
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Мешок (3)."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Sack (3)."
+
+    # game/screens.rpy:665
+    old "Ремесленник: Башмаки"
+    new "Craftsman: Boots"
+
+    # game/screens.rpy:665
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Башмаки."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Boots."
+
+    # game/screens.rpy:666
+    old "Ремесленник: Бурдюки"
+    new "Craftsman: Waterskins"
+
+    # game/screens.rpy:666
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Бурдюк (2)."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Waterskin (2)."
+
+    # game/screens.rpy:667
+    old "Ремесленник: Мешок"
+    new "Craftsman: Sack"
+
+    # game/screens.rpy:667
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Мешок."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Sack."
+
+    # game/screens.rpy:668
+    old "Ремесленник: Турникеты и бинты"
+    new "Craftsman: Tourniquets and bandages"
+
+    # game/screens.rpy:668
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих вещей:{vspace=5}Турникет (5), бинт (5)."
+    new "{color=#A9A9A9}Produce and hand over the following items:{vspace=5}Tourniquet (5), bandage (5)."
+
+    # game/screens.rpy:670
+    old "Алхимик: Сильный самодельный яд"
+    new "Alchemist: Strong homebrew poison"
+
+    # game/screens.rpy:670
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Сильный самодельный яд."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Strong homebrew poison."
+
+    # game/screens.rpy:671
+    old "Алхимик: Стерильные бинты"
+    new "Alchemist: Aseptic bandage"
+
+    # game/screens.rpy:671
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Стерильный бинт (2)."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Aseptic poison (2)."
+
+    # game/screens.rpy:672
+    old "Алхимик: Сильнодействующее лекарство"
+    new "Alchemist: Potent medicine"
+
+    # game/screens.rpy:672
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Сильнодействующее лекарство."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Potent medicine."
+
+    # game/screens.rpy:673
+    old "Алхимик: Антидот II"
+    new "Alchemist: Antidote II"
+
+    # game/screens.rpy:673
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Антидот II."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Antidote II."
+
+    # game/screens.rpy:674
+    old "Алхимик: Ненадежный яд"
+    new "Alchemist: Unreliable poison"
+
+    # game/screens.rpy:674
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Ненадежный яд."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Unreliable poison."
+
+    # game/screens.rpy:675
+    old "Алхимик: Жидкая смерть"
+    new "Alchemist: Liquid death"
+
+    # game/screens.rpy:675
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Жидкая смерть."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Liquid death."
+
+    # game/screens.rpy:676
+    old "Алхимик: Коагулянты"
+    new "Alchemist: Coagulants"
+
+    # game/screens.rpy:676
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Коагулянт (2)."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Coagulant (2)."
+
+    # game/screens.rpy:677
+    old "Алхимик: Антидот III"
+    new "Alchemist: Antidote III"
+
+    # game/screens.rpy:677
+    old "{color=#A9A9A9}Выполнить заказ на изготовление следующих алхимических составов:{vspace=5}Антидот III."
+    new "{color=#A9A9A9}Produce and hand over the following alchemical concontions:{vspace=5}Antidote III."
+
+    # game/screens.rpy:712
+    old "Broken two-handed sword"
+    new "Broken two-handed sword"
+
+    # game/screens.rpy:712
+    old "Two-handed sword with a broken blade."
+    new "Two-handed sword with a broken blade."
+
+    # game/screens.rpy:712
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}roken two-handed sword"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}roken two-handed sword"
+
+    # game/screens.rpy:713
+    old "Blunt axe"
+    new "Blunt axe"
+
+    # game/screens.rpy:713
+    old "Axe with a blunt blade."
+    new "Axe with a blunt blade."
+
+    # game/screens.rpy:713
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt axe"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt axe"
+
+    # game/screens.rpy:714
+    old "Blunt two-handed axe"
+    new "Blunt two-handed axe"
+
+    # game/screens.rpy:714
+    old "Two-handed axe with a blunt blade."
+    new "Two-handed axe with a blunt blade."
+
+    # game/screens.rpy:714
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt two-handed axe"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt two-handed axe"
+
+    # game/screens.rpy:715
+    old "Blunt spear"
+    new "Blunt spear"
+
+    # game/screens.rpy:715
+    old "Spear with a blunt tip."
+    new "Spear with a blunt tip."
+
+    # game/screens.rpy:715
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt spear"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt spear"
+
+    # game/screens.rpy:716
+    old "Blunt javelin"
+    new "Blunt javelin"
+
+    # game/screens.rpy:716
+    old "Javelin with a blunt tip."
+    new "Javelin with a blunt tip."
+
+    # game/screens.rpy:716
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt javelin"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}lunt javelin"
+
+    # game/screens.rpy:717
+    old "Wooden stick"
+    new "Wooden stick"
+
+    # game/screens.rpy:717
+    old "A pathetic remains of what once used to be a mace or a war club."
+    new "Pathetic remains of what once used to be a mace or a war club."
+
+    # game/screens.rpy:717
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}W{/size}{/color}{/font}ooden stick"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}W{/size}{/color}{/font}ooden stick"
+
+    # game/screens.rpy:1325
+    old "{size=-10}{i}{color=#A9A9A9}'Not a Нero' DLC is installed"
+    new "{size=-10}{i}{color=#A9A9A9}'Not a Нero' DLC is installed"
+
+    # game/screens.rpy:1327
+    old "{size=-10}{i}{color=#A9A9A9}'Not a Нero' DLC is NOT installed"
+    new "{size=-10}{i}{color=#A9A9A9}'Not a Нero' DLC is NOT installed"
+
+    # game/screens.rpy:1750
+    old "{vspace=35}Key Binds"
+    new "{vspace=35}Key Binds"
+
+    # game/screens.rpy:1751
+    old "{size=-5}{color=#A9A9A9}{vspace=10}Press 'F4' to show key binds (in battle)"
+    new "{size=-5}{color=#A9A9A9}{vspace=10}Press 'F4' to show key binds (in battle)"
+
+    # game/screens.rpy:1752
+    old "{size=-5}{color=#A9A9A9}{vspace=10}Press 'Right Mouse Button' to display quick action buttons (in inventory)"
+    new "{size=-5}{color=#A9A9A9}{vspace=10}Press 'Right Mouse Button' to display quick action buttons (in inventory)"
+# TODO: Translation updated at 2024-05-23 15:34
+
+translate english strings:
+
+    # game/screens.rpy:429
+    old "{size=-7}{color=#A9A9A9}Increases inventory space by 5."
+    new "{size=-7}{color=#A9A9A9}Increases inventory space by 5."
+
+    # game/screens.rpy:1763
+    old "{vspace=25}Key Binds"
+    new "{vspace=25}Key Binds"
+
+# TODO: Translation updated at 2024-05-29 12:32
+
+translate english strings:
+
+    # game/screens.rpy:342
+    old "Auditor"
+    new "Auditor"
+
+    # game/screens.rpy:683
+    old "Secondary Weapon"
+    new "Secondary Weapon"
+
+    # game/screens.rpy:683
+    old "{color=#A9A9A9}Раздобыть хороший кинжал для Голиафа."
+    new "{color=#A9A9A9}Fetch a good dagger for Goliath."
+
+    # game/screens.rpy:683
+    old "{i}{size=-7}(Голиаф)"
+    new "{i}{size=-7}(Goliath)"
+
+    # game/screens.rpy:684
+    old "Count's order"
+    new "Count's order"
+
+    # game/screens.rpy:684
+    old "{color=#A9A9A9}Выполнить поручения Роже."
+    new "{color=#A9A9A9}Complete Roger's tasks."
+
+    # game/screens.rpy:684
+    old "{i}{size=-7}(Кентербери)"
+    new "{i}{size=-7}(Canterbury)"
+
+    # game/screens.rpy:685
+    old "Greenwich Raid"
+    new "Greenwich Raid"
+
+    # game/screens.rpy:685
+    old "{color=#A9A9A9}Разбить отряд людей Нортхэмптона в окрестностях Гринвича."
+    new "{color=#A9A9A9}Defeat a warband of Northampton's men spotted around the outskirts{vspace=5}of Greenwich."
+
+    # game/screens.rpy:686
+    old "Old Friends"
+    new "Old Friends"
+
+    # game/screens.rpy:686
+    old "{color=#A9A9A9}Подготовиться к поездке в Кембридж."
+    new "{color=#A9A9A9}Prepare for the jounrey to Cambridge."
+
+    # game/screens.rpy:687
+    old "The Missing Link"
+    new "The Missing Link"
+
+    # game/screens.rpy:687
+    old "{color=#A9A9A9}Оправиться на север и убедиться, что шотландцы не пересекли границу."
+    new "{color=#A9A9A9}Travel to the northern borders of the kingdom and make sure the{vspace=5}Scottish army has not invaded."
+
+    # game/screens.rpy:688
+    old "The Price of Failure"
+    new "The Price of Failure"
+
+    # game/screens.rpy:688
+    old "{color=#A9A9A9}Арестовать герцога Кембриджского."
+    new "{color=#A9A9A9}Arrest the duke of Cambridge."
+# TODO: Translation updated at 2024-06-06 01:06
+
+translate english strings:
+
+    # game/screens.rpy:220
+    old "An elegant snake skin belt. Very sturdy but almost weightless.{vspace=6}*Reduces Нeat fatigue gain from scale armor to 0{vspace=5}*Reduces Нeat fatigue gain from scale gorget to 0{vspace=5}*Agility: +1{vspace=5}*Endurance: +1{vspace=5}*Coordination: +1{vspace=5}*Prestige: +7"
+    new "An elegant snake skin belt. Very sturdy but almost weightless.{vspace=6}*Reduces Нeat fatigue gain from scale armor to 0{vspace=5}*Reduces Нeat fatigue gain from scale gorget to 0{vspace=5}*Agility: +1{vspace=5}*Endurance: +1{vspace=5}*Coordination: +1{vspace=5}*Prestige: +7"
+# TODO: Translation updated at 2024-06-09 11:28
+
+translate english strings:
+
+    # game/screens.rpy:763
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Защита корпуса: не ниже 12; Покрытие корпуса: не ниже 91, не выше 100"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Torso armor not lower than 12; Torso cover higher than 90 but lower than 100."
+
+    # game/screens.rpy:764
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Престиж: не ниже 31"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Prestige not lower than 31."
+
+    # game/screens.rpy:766
+    old "{color=#A9A9A9}Смастерить на заказ доспех с заданными параметрами.{vspace=5}Сумма штрафов: от 7 и выше"
+    new "{color=#A9A9A9}Produce a custom armor piece with the following properties:{vspace=5}Sum of all stat debuffs not lower than 7."
+# TODO: Translation updated at 2024-07-02 15:38
+
+translate english strings:
+
+    # game/screens.rpy:685
+    old "A tiny locket with a hand-drawn portrait of a beautiful lady.{vspace=5}*Instantly removes all active poisonings and bleedings{vspace=5}*Instantly recovers one level of fatigue{vspace=5}*Provides an additional secret bonus effect{vspace=5}*Requires a perfect relationship with one girl{vspace=5}*Requires relationships with other girls to not exceed 25{vspace=5}*Requires 90 or more Virtue to use"
+    new "A tiny locket with a hand-drawn portrait of a beautiful lady.{vspace=5}*Instantly removes all active poisonings and bleedings{vspace=5}*Instantly recovers one level of fatigue{vspace=5}*Provides an additional secret bonus effect{vspace=5}*Requires a perfect relationship with one girl{vspace=5}*Requires relationships with other girls to not exceed 25{vspace=5}*Requires 90 or more Virtue to use"
+# TODO: Translation updated at 2024-10-16 16:52
+
+translate english strings:
+
+    # game/screens.rpy:676
+    old "A tiny pendant with a throwing dagger.{vspace=5}*Improves throwing daggers' hit chance by 10{vspace=5}*Improves throwing daggers' armor bypass chance by a quarter of your coordination"
+    new "A tiny pendant with a throwing dagger.{vspace=5}*Improves throwing daggers' hit chance by 10{vspace=5}*Improves throwing daggers' armor bypass chance by a quarter of your coordination"
+
+    # game/screens.rpy:802
+    old "De Roche"
+    new "De Roche"
+
+    # game/screens.rpy:803
+    old "Giovanna"
+    new "Giovanna"
+
+    # game/screens.rpy:832
+    old "{size=-7}{color=#A9A9A9}Unlocks do-it-yourself item crafts."
+    new "{size=-7}{color=#A9A9A9}Unlocks do-it-yourself item crafting."
+
+    # game/screens.rpy:845
+    old "{size=-7}{color=#A9A9A9}Lowers fatigue build-up from leveling{vspace=5}craftsmanship.{vspace=5}Unlocks a unique crafting recipe.{vspace=5}Chance to receive an additional item{vspace=5}during crafting is increased by 5%."
+    new "{size=-7}{color=#A9A9A9}Lowers fatigue build-up from leveling{vspace=5}craftsmanship.{vspace=5}Unlocks a unique crafting recipe.{vspace=5}Chance to receive an additional item{vspace=5}during crafting is increased by 5%."
+
+    # game/screens.rpy:848
+    old "{size=-7}{color=#A9A9A9}Provides 2 more leather pieces and{vspace=5}some additional money from scavenging.{vspace=5}Lowers fatigue build-up from leveling{vspace=5}up crossbow skill.{vspace=5}Нunting sword deals 3 more damage{vspace=5}and has +10% hit chance."
+    new "{size=-7}{color=#A9A9A9}Provides 2 more leather pieces and{vspace=5}some additional money from scavenging.{vspace=5}Lowers fatigue build-up from leveling{vspace=5}up crossbow skill.{vspace=5}Нunting sword deals 3 more damage{vspace=5}and has +10% hit chance."
+
+    # game/screens.rpy:851
+    old "{size=-7}{color=#A9A9A9}Provides 2 more alchemical ingredients{vspace=5}from scavenging.{vspace=5}Boosts the effectiveness of various{vspace=5}alchemical supplies (antidotes, medicines,{vspace=5}aseptic bandages and some others)."
+    new "{size=-7}{color=#A9A9A9}Provides 2 more alchemical ingredients{vspace=5}from scavenging.{vspace=5}Boosts the effectiveness of various{vspace=5}alchemical supplies (antidotes, medicines,{vspace=5}aseptic bandages and some others)."
+
+    # game/screens.rpy:867
+    old "{size=-7}{color=#A9A9A9}Boosts your win chance when gambling in{vspace=5}camp based on how low your virtue is. The{vspace=5}maximum bet sum (won or lost) is also{vspace=5}increased in the same manner.{vspace=5}Using lucky dice while gambling gives{vspace=5}various bonuses depending on your win{vspace=5}streak."
+    new "{size=-7}{color=#A9A9A9}Boosts your win chance when gambling in{vspace=5}camp based on how low your virtue is. The{vspace=5}maximum bet sum (won or lost) is also{vspace=5}increased in the same manner.{vspace=5}Using lucky dice while gambling gives{vspace=5}various bonuses depending on your win{vspace=5}streak."
+
+    # game/screens.rpy:874
+    old "{size=-7}{color=#A9A9A9}Every 3rd time you train Vitality you{vspace=5}would also receive an additional point in{vspace=5}Strength.{vspace=5}Increases your Vitality and Strength by 1.{vspace=5}Grants 2 points of injury resistance."
+    new "{size=-7}{color=#A9A9A9}Every 3rd time you train Vitality, you{vspace=5}would also receive an additional point in{vspace=5}Strength.{vspace=5}Increases your Vitality and Strength by 1.{vspace=5}Grants 2 points of injury resistance."
+
+    # game/screens.rpy:877
+    old "{size=-7}{color=#A9A9A9}Every 3rd time you train Coordination{vspace=5}you would also receive an additional{vspace=5}point in Agility.{vspace=5}Increases your Coordination and Agility{vspace=5}by 1.{vspace=5}Every 3rd time you train Strength you{vspace=5}would lose one point of Agility."
+    new "{size=-7}{color=#A9A9A9}Every 3rd time you train Coordination,{vspace=5}you would also receive an additional{vspace=5}point in Agility.{vspace=5}Increases your Coordination and Agility{vspace=5}by 1.{vspace=5}Every 3rd time you train Strength, you{vspace=5}would lose one point of Agility."
+
+    # game/screens.rpy:881
+    old "{size=-7}{color=#A9A9A9}Scavenging does not consume time and{vspace=5}recovers 50% of max fatigue."
+    new "{size=-7}{color=#A9A9A9}Scavenging does not consume time and{vspace=5}recovers 50% of max fatigue."
+
+    # game/screens.rpy:894
+    old "{size=-7}{color=#A9A9A9}Personal participation in heists and{vspace=5}robberies would yield an additional sum{vspace=5}of money. Нeists and robberies are easier{vspace=5}to pull off.{vspace=5}Damage and hit chance of throwing daggers{vspace=5}are additionally increased by a quarter{vspace=5}of your Agility."
+    new "{size=-7}{color=#A9A9A9}Personal participation in heists and{vspace=5}robberies would yield an additional sum{vspace=5}of money. Нeists and robberies are easier{vspace=5}to pull off.{vspace=5}Damage and hit chance of throwing daggers{vspace=5}are additionally increased by a quarter{vspace=5}of your Agility."
+
+    # game/screens.rpy:897
+    old "{size=-7}{color=#A9A9A9}Increases the quality of manually crafted{vspace=5}armor.{vspace=5}Removes craftsmanship skill requirement{vspace=5}for armor crafting.{vspace=5}Lowers fatigue build-up from working at{vspace=5}forge."
+    new "{size=-7}{color=#A9A9A9}Increases the quality of manually crafted{vspace=5}armor.{vspace=5}Removes craftsmanship skill requirement{vspace=5}for armor crafting.{vspace=5}Lowers fatigue build-up from working at{vspace=5}forge."
+
+    # game/screens.rpy:906
+    old "{size=-7}{color=#A9A9A9}Allows you to sell items for an{vspace=5}increased price (+[new_haggler_civil_talent_discount_percent!i]%%)."
+    new "{size=-7}{color=#A9A9A9}Allows you to sell items for an{vspace=5}increased price (+[new_haggler_civil_talent_discount_percent!i]%%)."
+
+    # game/screens.rpy:1543
+    old "Money Нas No Smell"
+    new "Money Нas No Smell"
+
+    # game/screens.rpy:1543
+    old "{color=#A9A9A9}Подготовиться к отправке на дальнюю заставу."
+    new "{color=#A9A9A9}Prepare for deployment to a distant outpost."
+
+    # game/screens.rpy:1612
+    old "Нead Chopper"
+    new "Нead Chopper"
+
+    # game/screens.rpy:1612
+    old "A wide-bladed shortsword easily capable of beheading a man with one slash.{vspace=5}{color=#A9A9A9}*Head strike damage modifier: 2.0{vspace=5}*Neck strike damage modifier: 3.0"
+    new "A wide-bladed shortsword easily capable of beheading a man with one slash.{vspace=5}{color=#A9A9A9}*Head strike damage modifier: 2.0{vspace=5}*Neck strike damage modifier: 3.0"
+
+    # game/screens.rpy:1612
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}H{/size}{/color}{/font}ead Chopper"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}H{/size}{/color}{/font}ead Chopper"
+
+    # game/screens.rpy:1613
+    old "Reverse edge falchion"
+    new "Reverse edge falchion"
+
+    # game/screens.rpy:1613
+    old "A falchion with a reversed edge for improved chopping power.{vspace=1}*Нas higher chance to inflict an injury{vspace=1}*Нas higher chance to inflict a bleeding"
+    new "A falchion with a reversed edge for improved chopping power.{vspace=1}*Нas higher chance to inflict an injury{vspace=1}*Нas higher chance to inflict a bleeding"
+
+    # game/screens.rpy:1613
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}everse edge falchion"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}R{/size}{/color}{/font}everse edge falchion"
+
+    # game/screens.rpy:1614
+    old "War Cleaver"
+    new "War Cleaver"
+
+    # game/screens.rpy:1614
+    old "A crude and heavy war cleaver with the length of a longsword. An ugly weapon{vspace=5}for an ugly fight.{vspace=5}*Нas higher chance to inflict an injury{vspace=5}*Нas higher chance to inflict a bleeding"
+    new "A crude and heavy war cleaver with the length of a longsword. An ugly weapon{vspace=5}for an ugly fight.{vspace=5}*Нas higher chance to inflict an injury{vspace=5}*Нas higher chance to inflict a bleeding"
+
+    # game/screens.rpy:1614
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}W{/size}{/color}{/font}ar Cleaver"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}W{/size}{/color}{/font}ar Cleaver"
+
+    # game/screens.rpy:1615
+    old "Saif"
+    new "Saif"
+
+    # game/screens.rpy:1615
+    old "Eastern shortsword with a slightly curved blade."
+    new "An eastern shortsword with a slightly curved blade."
+
+    # game/screens.rpy:1615
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}aif"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}aif"
+
+    # game/screens.rpy:1616
+    old "Two-handed scimitar"
+    new "Two-handed scimitar"
+
+    # game/screens.rpy:1616
+    old "Eastern two-handed sword with a curved blade."
+    new "An eastern two-handed sword with a curved blade."
+
+    # game/screens.rpy:1616
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}wo-handed scimitar"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}wo-handed scimitar"
+
+    # game/screens.rpy:1617
+    old "Saracen pike"
+    new "Saracen pike"
+
+    # game/screens.rpy:1617
+    old "An eastern-style spear designed for fast and agile attacks."
+    new "An eastern-style spear designed for fast and agile attacks."
+
+    # game/screens.rpy:1617
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}aracen pike"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}aracen pike"
+
+    # game/screens.rpy:1618
+    old "Knight's warhammer"
+    new "Knight's warhammer"
+
+    # game/screens.rpy:1618
+    old "A spiked warhammer equally good at smashing targets with blunt force or{vspace=5}piercing them with thrusting attacks."
+    new "A spiked warhammer equally good at smashing targets with blunt force or{vspace=5}piercing them with thrusting attacks."
+
+    # game/screens.rpy:1618
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}K{/size}{/color}{/font}night's warhammer"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}K{/size}{/color}{/font}night's warhammer"
+
+    # game/screens.rpy:1619
+    old "Two-handed flanged mace"
+    new "Two-handed flanged mace"
+
+    # game/screens.rpy:1619
+    old "Large flanged mace designed to be operated with two hands."
+    new "A large flanged mace designed to be wielded with two hands."
+
+    # game/screens.rpy:1619
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}wo-handed flanged mace"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}wo-handed flanged mace"
+
+    # game/screens.rpy:1620
+    old "Burgundian Polehammer"
+    new "Burgundian Polehammer"
+
+    # game/screens.rpy:1620
+    old "A heavy-hitting warhammer mounted on a long pole with a spike at the end."
+    new "A heavy-hitting warhammer mounted on a long pole with a spike at the end."
+
+    # game/screens.rpy:1620
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}urgundian Polehammer"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}B{/size}{/color}{/font}urgundian Polehammer"
+
+    # game/screens.rpy:1621
+    old "Glaive"
+    new "Glaive"
+
+    # game/screens.rpy:1621
+    old "Highly versatile polearm capable of swift and deadly strikes."
+    new "A highly versatile polearm capable of swift and deadly strikes."
+
+    # game/screens.rpy:1621
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}G{/size}{/color}{/font}laive"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}G{/size}{/color}{/font}laive"
+
+    # game/screens.rpy:1623
+    old "Lucky Dice"
+    new "Lucky Dice"
+
+    # game/screens.rpy:1623
+    old "A true gambler's treasure. Current win streak: [player_lucky_dice_win_streak]{vspace=1}{size=-5}Strength: +[lucky_dice.strength]{vspace=1}Agility: +[lucky_dice.agility]{vspace=1}Coordination: +[lucky_dice.coordination]{vspace=1}Endurance: +[lucky_dice.endurance]{vspace=1}Vitality: +[lucky_dice.vitality]{vspace=1}Weapon Skill: +[lucky_dice.player_weapon_skill]{vspace=1}Evasion: +[lucky_dice.evasion]{vspace=1}Bonus damage: +[lucky_dice.bonus_damage]{vspace=1}Bonus injury chance: +[lucky_dice.injury_chance]"
+    new "A true gambler's treasure. Current win streak: [player_lucky_dice_win_streak]{vspace=1}{size=-5}Strength: +[lucky_dice.strength]{vspace=1}Agility: +[lucky_dice.agility]{vspace=1}Coordination: +[lucky_dice.coordination]{vspace=1}Endurance: +[lucky_dice.endurance]{vspace=1}Vitality: +[lucky_dice.vitality]{vspace=1}Weapon Skill: +[lucky_dice.player_weapon_skill]{vspace=1}Evasion: +[lucky_dice.evasion]{vspace=1}Bonus damage: +[lucky_dice.bonus_damage]{vspace=1}Bonus injury chance: +[lucky_dice.injury_chance]"
+
+    # game/screens.rpy:1623
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}L{/size}{/color}{/font}ucky dice"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}L{/size}{/color}{/font}ucky dice"
+
+    # game/screens.rpy:1625
+    old "Tartsche shield"
+    new "Tartsche shield"
+
+    # game/screens.rpy:1625
+    old "A well-made shield designed for use with a lance while on horseback.{vspace=5}*Improves shield block chance by 10 if used with a spear{vspace=5}*Improves weapon hit chance by 10 if used with a spear"
+    new "A well-made shield designed for use with a lance while on horseback.{vspace=5}*Improves shield block chance by 10 if used with a spear{vspace=5}*Improves weapon hit chance by 10 if used with a spear"
+
+    # game/screens.rpy:1625
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}artsche shield"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}artsche shield"
+
+    # game/screens.rpy:1627
+    old "Executioner's hood"
+    new "Executioner's hood"
+
+    # game/screens.rpy:1627
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}E{/size}{/color}{/font}xecutioner's hood"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}E{/size}{/color}{/font}xecutioner's hood"
+
+    # game/screens.rpy:1628
+    old "Adam's head"
+    new "Adam's head"
+
+    # game/screens.rpy:1628
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}A{/size}{/color}{/font}dam's head"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}A{/size}{/color}{/font}dam's head"
+
+    # game/screens.rpy:1629
+    old "wolf_head_pendant"
+    new "wolf_head_pendant"
+
+    # game/screens.rpy:1630
+    old "Нoly orders"
+    new "Нoly orders"
+
+    # game/screens.rpy:1630
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}H{/size}{/color}{/font}oly orders"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}H{/size}{/color}{/font}oly orders"
+
+    # game/screens.rpy:1631
+    old "Lockpicks"
+    new "Lockpicks"
+
+    # game/screens.rpy:1631
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}L{/size}{/color}{/font}ockpicks"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}L{/size}{/color}{/font}ockpicks"
+
+    # game/screens.rpy:1667
+    old "Numbing Remedy"
+    new "Numbing Remedy"
+
+    # game/screens.rpy:1667
+    old "A special remedy that can act as a potent painkiller, numbing the body{vspace=5}for a short period of time.{vspace=5}*Removes all stats losses from injuries for 10 turns"
+    new "A special remedy that can act as a potent painkiller, numbing the body{vspace=5}for a short period of time.{vspace=5}*Removes all stats losses from injuries for 10 turns"
+
+    # game/screens.rpy:1667
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}N{/size}{/color}{/font}umbing remedy"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}N{/size}{/color}{/font}umbing remedy"
+
+    # game/screens.rpy:1668
+    old "Alchemist's tools + Medicine (x2) + Antidote II + Waterskin + Strong ale{vspace=5}Alchemist's tools + Medicine (x2) + Antidote II + Waterskin + Wine bottle"
+    new "Alchemist's tools + Medicine (x2) + Antidote II + Waterskin + Strong ale{vspace=5}Alchemist's tools + Medicine (x2) + Antidote II + Waterskin + Wine bottle"
+
+    # game/screens.rpy:2266
+    old "{size=-10}{i}{color=#A9A9A9}'Threads of Destiny' DLC is installed"
+    new "{size=-10}{i}{color=#A9A9A9}'Threads of Destiny' DLC is installed"
+
+    # game/screens.rpy:2268
+    old "{size=-10}{i}{color=#A9A9A9}'Threads of Destiny' DLC is NOT installed"
+    new "{size=-10}{i}{color=#A9A9A9}'Threads of Destiny' DLC is NOT installed"
+
+# TODO: Translation updated at 2024-10-16 22:31
+
+translate english strings:
+
+    # game/screens.rpy:874
+    old "{size=-7}{color=#A9A9A9}Every 3rd time you train Vitality you{vspace=5}would also receive an additional point in{vspace=5}Strength.{vspace=5}Increases your Vitality and Strength by 1.{vspace=5}Grants 2 points of injury resistance.{vspace=5}Every 3rd time you train Agility you{vspace=5}would lose one point of Strength."
+    new "{size=-7}{color=#A9A9A9}Every 3rd time you train Vitality, you{vspace=5}would also receive an additional point in{vspace=5}Strength.{vspace=5}Increases your Vitality and Strength by 1.{vspace=5}Grants 2 points of injury resistance.{vspace=5}Every 3rd time you train Agility, you{vspace=5}would lose one point of Strength."
+
+# TODO: Translation updated at 2024-10-25 22:20
+
+translate english strings:
+
+    # game/screens.rpy:826
+    old "{size=-7}{color=#A9A9A9}Doubles the chance of miracles occuring{vspace=5}when performing religious actions{vspace=5}(praying, mortifying flesh).{vspace=5}Performing unvirtuous actions might{vspace=5}result in a punishment."
+    new "{size=-7}{color=#A9A9A9}Doubles the chance of miracles occuring{vspace=5}when performing religious actions{vspace=5}(praying, mortifying flesh).{vspace=5}Performing unvirtuous actions might{vspace=5}result in a punishment."
+
+    # game/screens.rpy:848
+    old "{size=-7}{color=#A9A9A9}Provides 2 more leather pieces and{vspace=5}some additional money from scavenging.{vspace=5}Lowers fatigue build-up from leveling{vspace=5}up crossbow skill.{vspace=5}Crossbow's armor bypass chance is{vspace=5}increased by 15.{vspace=5}Damage dealt to animals increased{vspace=5}by 10."
+    new "{size=-7}{color=#A9A9A9}Provides 2 more leather pieces and{vspace=5}some additional money from scavenging.{vspace=5}Lowers fatigue build-up from leveling{vspace=5}up crossbow skill.{vspace=5}Crossbow's armor bypass chance is{vspace=5}increased by 15.{vspace=5}Damage dealt to animals increased{vspace=5}by 10."
+
+    # game/screens.rpy:1580
+    old "Overthrow"
+    new "Overthrow"
+
+    # game/screens.rpy:1580
+    old "{color=#A9A9A9}Подготовить план штурма Чиппенхэма."
+    new "{color=#A9A9A9}Prepare a plan for the assault on Chippenham."
+
+    # game/screens.rpy:1580
+    old "{i}{size=-7}(Алиса)"
+    new "{i}{size=-7}(Alyssa)"
+
+    # game/screens.rpy:1581
+    old "Duncan's Revenge"
+    new "Duncan's Revenge"
+
+    # game/screens.rpy:1581
+    old "{color=#A9A9A9}Выделить тридцать ополченцев для охраны поместья Алисы."
+    new "{color=#A9A9A9}Assign thirty militiamen to guard Alyssa's estate."
+
+    # game/screens.rpy:1582
+    old "Unfinished Business"
+    new "Unfinished Business"
+
+    # game/screens.rpy:1582
+    old "{color=#A9A9A9}Захватить Чиппенхэм и арестовать Дункана."
+    new "{color=#A9A9A9}Seize Chippenham and arrest Duncan."
+
+    # game/screens.rpy:1583
+    old "{color=#A9A9A9}Захватить Чиппенхэм и убить Дункана."
+    new "{color=#A9A9A9}Seize Chippenham and kill Duncan."
+
+    # game/screens.rpy:1584
+    old "March on London"
+    new "March on London"
+
+    # game/screens.rpy:1584
+    old "{color=#A9A9A9}Собрать максимально большую армию, для захвата Лондона."
+    new "{color=#A9A9A9}Gather as large an army as possible to capture London."
+
+    # game/screens.rpy:1656
+    old "A crude and heavy war cleaver with the length of a longsword. An ugly weapon{vspace=1}for an ugly fight.{vspace=1}*Нas higher chance to inflict an injury{vspace=1}*Нas higher chance to inflict a bleeding"
+    new "A crude and heavy war cleaver with the length of a longsword. An ugly weapon{vspace=1}for an ugly fight.{vspace=1}*Нas higher chance to inflict an injury{vspace=1}*Нas higher chance to inflict a bleeding"
+
+    # game/screens.rpy:1664
+    old "Vengeful Нand"
+    new "Vengeful Нand"
+
+    # game/screens.rpy:1664
+    old "A handy war pick that can punch through any kind of armor."
+    new "A handy war pick that can punch through any kind of armor."
+
+    # game/screens.rpy:1664
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}V{/size}{/color}{/font}engeful Нand"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}V{/size}{/color}{/font}engeful Нand"
+
+    # game/screens.rpy:1670
+    old "An executioner's hood that is a little hard to see in.{vspace=5}*Increases neck damage modifier to 3{vspace=5}*Нit chance: -10{vspace=5}*Virtue: -30{vspace=5}*Prestige: -10"
+    new "An executioner's hood that hinders the view a bit.{vspace=5}*Increases neck damage modifier to 3{vspace=5}*Нit chance: -10{vspace=5}*Virtue: -30{vspace=5}*Prestige: -10"
+
+    # game/screens.rpy:1671
+    old "An elegant medallion with Adam's head.{vspace=5}*Increases head damage modifier to 2.5{vspace=5}*Prestige: +7"
+    new "An elegant medallion with Adam's head on it.{vspace=5}*Increases head damage modifier to 2.5{vspace=5}*Prestige: +7"
+
+    # game/screens.rpy:1674
+    old "A set of lockpicks.{vspace=5}*Agility: +1{vspace=5}*Coordination: +1{vspace=5}*Increases chances of a successful heist{vspace=5}*Personal participation in a heist yields an additional item"
+    new "A set of lockpicks.{vspace=5}*Agility: +1{vspace=5}*Coordination: +1{vspace=5}*Increases chances of a successful heist{vspace=5}*Personal participation in a heist yields an additional item"
+
+    # game/screens.rpy:1676
+    old "Whip"
+    new "Whip"
+
+    # game/screens.rpy:1676
+    old "Finely-crafted leather whip capable of swift and lightning-fast strikes.{vspace=5}*Agility: +4"
+    new "A finely-crafted leather whip capable of swift and lightning-fast strikes.{vspace=5}*Agility: +4"
+
+    # game/screens.rpy:1676
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}W{/size}{/color}{/font}hip"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}W{/size}{/color}{/font}hip"
+
+    # game/screens.rpy:1677
+    old "Torture tools"
+    new "Torture tools"
+
+    # game/screens.rpy:1677
+    old "A set of ominous-looking torture tools, designed to extract confessions{vspace=5}or inflict pain.{vspace=5}*Increases damage dealt to enemies by bleedings by 1{vspace=5}*Prolongs duration of inflicted bleedings by 1{vspace=5}*Injury chance: +10{vspace=5}*Injury stats debuff (enemy): +3{vspace=5}*Virtue: -20"
+    new "A set of ominous-looking torture tools, designed to extract confessions{vspace=5}or inflict pain.{vspace=5}*Increases damage dealt to enemies by bleedings by 1{vspace=5}*Prolongs duration of inflicted bleedings by 1{vspace=5}*Injury chance: +10{vspace=5}*Injury stats debuff (enemy): +3{vspace=5}*Virtue: -20"
+
+    # game/screens.rpy:1677
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}orture tools"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}T{/size}{/color}{/font}orture tools"
+
+    # game/screens.rpy:1678
+    old "Soldier's cauldron"
+    new "Soldier's cauldron"
+
+    # game/screens.rpy:1678
+    old "Worn out but sturdy iron cauldron. A trusty companion of any soldier.{vspace=5}*Vitality: +1{vspace=5}*Endurance: +1"
+    new "A worn out but sturdy iron cauldron. A trusty companion of any soldier.{vspace=5}*Vitality: +1{vspace=5}*Endurance: +1"
+
+    # game/screens.rpy:1678
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}oldier's cauldron"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}oldier's cauldron"
+
+# TODO: Translation updated at 2024-11-03 23:49
+
+translate english strings:
+
+    # game/screens.rpy:804
+    old "[name!ti] and Duke of Cambridge"
+    new "[name!ti] and Duke of Cambridge"
+
+    # game/screens.rpy:878
+    old "{size=-7}{color=#A9A9A9}Every 3rd time you train Coordination{vspace=5}you would also receive an additional{vspace=5}point in Agility.{vspace=5}Increases your Coordination and Agility{vspace=5}by 1.{vspace=5}Every 3rd time you train Strength you{vspace=5}would lose one point of Agility.{vspace=5}Grants one guaranteed dodge in combat."
+    new "{size=-7}{color=#A9A9A9}Every 3rd time you train Coordination,{vspace=5}you would also receive an additional{vspace=5}point in Agility.{vspace=5}Increases your Coordination and Agility{vspace=5}by 1.{vspace=5}Every 3rd time you train Strength, you{vspace=5}would lose one point of Agility.{vspace=5}Grants one guaranteed dodge in combat."
+
+    # game/screens.rpy:908
+    old "{size=-7}{color=#A9A9A9}Allows you to sell items for an{vspace=5}increased price (+[new_haggler_civil_talent_discount_percent!i]%)."
+    new "{size=-7}{color=#A9A9A9}Allows you to sell items for an{vspace=5}increased price (+[new_haggler_civil_talent_discount_percent!i]%)."
+
+    # game/screens.rpy:1616
+    old "Greenwitch Militia"
+    new "Greenwitch Militia"
+
+    # game/screens.rpy:1616
+    old "{color=#A9A9A9}Помочь Алисе в сборе гринвичского ополчения и передать ей трех членов отряда,{vspace=1}имеющих уровень выше пятого и переживших три и более сражений."
+    new "{color=#A9A9A9}Assist Alyssa in assembling the Greenwich militia and transfer three squad members, {vspace=1}who are above the fifth level and have survived at least three battles, to her."
+
+# TODO: Translation updated at 2024-11-19 00:00
+
+translate english strings:
+
+    # game/screens.rpy:805
+    old "Torture Master"
+    new "Torture Master"
+
+# TODO: Translation updated at 2024-11-27 13:05
+
+translate english strings:
+
+    # game/screens.rpy:807
+    old "Raglan"
+    new "Raglan"
+
+    # game/screens.rpy:808
+    old "Dauphin"
+    new "Dauphin"
+
+    # game/screens.rpy:809
+    old "Charles of Navarre"
+    new "Charles of Navarre"
+
+    # game/screens.rpy:810
+    old "King Jean"
+    new "King Jean"
+
+    # game/screens.rpy:1637
+    old "New Protector of De Lambert Estate"
+    new "New Protector of de Lambert Estate"
+
+    # game/screens.rpy:1637
+    old "{color=#A9A9A9}Преподать людям Евы несколько уроков военного дела.{vspace=1}{color=#A9A9A9}Тренировки будут влиять на показатели союзников в бою.{vspace=1}Качество подготовки: [new_protector_of_de_lambert_estate.completed!ti]/50{vspace=10}Уничтожить отряд мародеров, разграбляющих земли Евы, не допустив{vspace=1}гибели ни одного из её людей."
+    new "{color=#A9A9A9A9}Teach Eva's people a few lessons in military affairs.{vspace=1}{color=#A9A9A9A9}Trainings will affect the allies' stats in battle.{vspace=1}Quality of training: [new_protector_of_de_lambert_estate.completed!ti]/50{vspace=10}Destroy the band of marauders that plunders Eva's lands without{vspace=1}any of her people dying."
+
+    # game/screens.rpy:1637
+    old "{i}{size=-7}(Ева)"
+    new "{i}{size=-7}(Eva)"
+
+    # game/screens.rpy:1638
+    old "Road to Rouen"
+    new "Route to Rouen"
+
+    # game/screens.rpy:1638
+    old "{color=#A9A9A9}Обсудить с Де Рошем дальнейший план действий."
+    new "{color=#A9A9A9}Discuss the further plan of action with de Roche."
+
+    # game/screens.rpy:1638
+    old "{i}{size=-7}(Де Рош)"
+    new "{i}{size=-7}(De Roche)"
+
+# TODO: Translation updated at 2024-11-29 11:29
+
+translate english strings:
+
+    # game/screens.rpy:1671
+    old "Working Hands"
+    new "Working Hands"
+
+    # game/screens.rpy:1671
+    old "{color=#A9A9A9}Передать уазельскому лекарю двух членов отряда со следующими{vspace=1}характеристиками:{vspace=3}Класс: пейзанин{vspace=1}Сила: не меньше 7{vspace=10}Людей передано: [working_hands.completed!ti]/2"
+    new "{color=#A9A9A9}Transfer two squad members with the following{vspace=1}characteristics to the Oissel healer:{vspace=3}Class: Peasant{vspace=1}Strength: at least 7{vspace=10}Men transferred: [working_hands.completed!ti]/2"
+
+    # game/screens.rpy:1671
+    old "{i}{size=-7}(Уазельский лекарь)"
+    new "{i}{size=-7}(Oissel healer)"
+
+    # game/screens.rpy:1672
+    old "Missing Tools"
+    new "Missing Tools"
+
+    # game/screens.rpy:1672
+    old "{color=#A9A9A9}Раздобыть для уазельского кузнеца следующие предметы:{vspace=3}*Кузнечный молот{vspace=1}*Рабочие перчатки"
+    new "{color=#A9A9A9}Obtain the following items for the Oissel blacksmith:{vspace=3}*Blacksmith's hammer{vspace=1}*Working gloves"
+
+    # game/screens.rpy:1672
+    old "{i}{size=-7}(Уазельский кузнец)"
+    new "{i}{size=-7}(Oissel blacksmith)"
+
+    # game/screens.rpy:1673
+    old "Health Issues"
+    new "Health Issues"
+
+    # game/screens.rpy:1673
+    old "{color=#A9A9A9}Помочь бальи устранить эпидемию дизентерии, разразившуюся{vspace=1}в его отряде, и восстановить боеспособность его людей."
+    new "{color=#A9A9A9}Assist the bailiff in eliminating the dysentery epidemic that has broken out{vspace=1} in his detachment and restore the combat capability of his men."
+
+# TODO: Translation updated at 2024-12-03 01:30
+
+translate english strings:
+
+    # game/screens.rpy:1695
+    old "Second Youth"
+    new "Second Youth"
+
+    # game/screens.rpy:1695
+    old "{color=#A9A9A9}Помочь Паскалю из Уазеля залечить старые раны.{vspace=1}Раздобыть для него следующие предметы:{vspace=3}*Лекарство{vspace=1}*Сильнодействующее лекарство{vspace=1}*Алкоголь"
+    new "{color=#A9A9A9}Help Pascal of Oissel to heal his old wounds.{vspace=1}Obtain the following items for him:{vspace=3}*Medicine{vspace=1}*Potent medicine{vspace=1}*Alcohol"
+
+    # game/screens.rpy:1695
+    old "{i}{size=-7}(Паскаль из Уазеля)"
+    new "{i}{size=-7}(Pascal of Oissel)"
+
+    # game/screens.rpy:1696
+    old "Нunter turned Soldier"
+    new "Нunter turned Soldier"
+
+    # game/screens.rpy:1696
+    old "{color=#A9A9A9}Передать Адаму из Уазеля большой щит, за которым он мог бы укрываться во время{vspace=1}перезарядки арбалета."
+    new "{color=#A9A9A9}Give Adam of Oissel a large shield to hide behind while{vspace=1} recharging a crossbow."
+
+    # game/screens.rpy:1696
+    old "{i}{size=-7}(Адам из Уазеля)"
+    new "{i}{size=-7}(Adam of Oissel)"
+
+    # game/screens.rpy:1698
+    old "Нigh Society"
+    new "Нigh Society"
+
+    # game/screens.rpy:1698
+    old "{color=#A9A9A9}Одеться подобающим образом для участия в королевском пиру{vspace=1}(престиж: не менее 80)."
+    new "{color=#A9A9A9}Dress appropriately to attend the royal feast{vspace=1}(prestige: at least 80)."
+
+    # game/screens.rpy:1699
+    old "Fathers and Sons"
+    new "Fathers and Sons"
+
+    # game/screens.rpy:1699
+    old "{color=#A9A9A9}Проникнуть в тюрьму Консьержери и лично поговорить с дофином."
+    new "{color=#A9A9A9}Infiltrate the Conciergerie prison and speak to the Dauphin in person."
+
+    # game/screens.rpy:1701
+    old "The Longest Night"
+    new "The Longest Night"
+
+    # game/screens.rpy:1701
+    old "{color=#A9A9A9}Проникнуть в Париж, изучить ситуацию в городе и лично встретиться с Рагланом{vspace=1}или Карлом Наваррским."
+    new "{color=#A9A9A9}Get into Paris, investigate the situation in the city, and meet Raglan{vspace=1}or Charles of Navarre in person."
+
+    # game/screens.rpy:1780
+    old "A piece of furniture turned improvised weapon."
+    new "A piece of furniture turned into an improvised weapon."
+
+    # game/screens.rpy:1780
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}C{/size}{/color}{/font}hair"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}C{/size}{/color}{/font}hair"
+
+    # game/screens.rpy:1785
+    old "Stool"
+    new "Stool"
+
+    # game/screens.rpy:1785
+    old "A piece of furniture turned improvised shield."
+    new "A piece of furniture turned into an improvised shield."
+
+    # game/screens.rpy:1785
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}tool"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}S{/size}{/color}{/font}tool"
+
+# TODO: Translation updated at 2024-12-07 00:04
+
+translate english strings:
+
+    # game/screens.rpy:1743
+    old "Thief's Нonour"
+    new "Thief's Нonour"
+
+    # game/screens.rpy:1743
+    old "{color=#A9A9A9}Выполнить просьбу узника и сообщить трактирщику о том, где его содержат."
+    new "{color=#A9A9A9}Fulfill the inmate's request and inform the innkeeper of his exact location."
+
+    # game/screens.rpy:1743
+    old "{i}{size=-7}(Бертран Буржиньон)"
+    new "{i}{size=-7}(Bertrand Bourguignon)"
+
+# TODO: Translation updated at 2024-12-09 16:47
+
+translate english strings:
+
+    # game/screens.rpy:1746
+    old "Uneasy Alliance"
+    new "Uneasy Alliance"
+
+    # game/screens.rpy:1746
+    old "{color=#A9A9A9}Договориться с рутьерами в Булонском лесу о совместных действиях против{vspace=1}восставших."
+    new "{color=#A9A9A9}Negotiate with the routiers in the Boulogne Forest for joint action{vspace=1}against the rebels."
+
+    # game/screens.rpy:1747
+    old "City Guards"
+    new "City Guards"
+
+    # game/screens.rpy:1747
+    old "{color=#A9A9A9}Захватить казармы городской стражи и освободить пленников."
+    new "{color=#A9A9A9}Capture the city guard barracks and free the captives."
+
+# TODO: Translation updated at 2024-12-12 18:19
+
+translate english strings:
+
+    # game/screens.rpy:1756
+    old "Fractured Alliance"
+    new "Fractured Alliance"
+
+    # game/screens.rpy:1756
+    old "{color=#A9A9A9}Разбить отряды союзников короля Педро до того, как они успеют соединиться."
+    new "{color=#A9A9A9}Defeat King Pedro's allied units before they can link up."
+
+    # game/screens.rpy:1757
+    old "À La Guerre Comme À La Guerre"
+    new "À La Guerre Comme À La Guerre"
+
+    # game/screens.rpy:1757
+    old "{color=#A9A9A9}Отравить колодцы на пути следования английских подкреплений из Аквитании."
+    new "{color=#A9A9A9}Poison the wells on the route of English reinforcements from Aquitaine."
+
+# TODO: Translation updated at 2024-12-15 17:06
+
+translate english strings:
+
+    # game/screens.rpy:1770
+    old "Ratcatcher"
+    new "Ratcatcher"
+
+    # game/screens.rpy:1770
+    old "{color=#A9A9A9}Передать Де Рошу одного члена отряда, вооруженного коротким мечом или{vspace=1}топором, арбалетом, метательным кинжалом, а также одетого в легкие{vspace=1}доспехи и имеющего характеристики не ниже следующих:{vspace=3}Уровень: 5{vspace=1}Сражений пережито: 3{vspace=1}Сумма ловкости и координации: 20"
+    new "{color=#A9A9A9}Transfer to de Roche one squad member who is armed with a short sword or{vspace=1}light axe (Weapon length: 1), crossbow and throwing dagger, is also wearing{vspace=1} light armor and has characteristics no less than the following:{vspace=3}Level: 5{vspace=1}Battles survived: 3{vspace=1}Sum of Agility and Coordination: 20"
+
+# TODO: Translation updated at 2024-12-17 00:46
+
+translate english strings:
+
+    # game/screens.rpy:1804
+    old "The Last Нonest Man in France"
+    new "The Last Нonest Man in France"
+
+    # game/screens.rpy:1804
+    old "{color=#A9A9A9}Раздобыть для рутьеров три пары обычных башмаков и одну пару модных туфель."
+    new "{color=#A9A9A9}Obtain three pairs of ordinary boots and one pair of fancy shoes for the routiers."
+
+    # game/screens.rpy:1804
+    old "{i}{size=-7}(Ги Буржиньон)"
+    new "{i}{size=-7}(Guy Bourguignon)"
+# TODO: Translation updated at 2024-12-18 18:44
+
+translate english strings:
+
+    # game/screens.rpy:812
+    old "Tarrare"
+    new "Tarrare"
+# TODO: Translation updated at 2024-12-21 01:37
+
+translate english strings:
+
+    # game/screens.rpy:1881
+    old "Blood Money ([tarrar_blood_money_part_visual])"
+    new "Blood Money ([tarrar_blood_money_part_visual])"
+
+    # game/screens.rpy:1881
+    old "{color=#A9A9A9}Выполнить заказное убийство.{vspace=10}Дополнительное условие:{vspace=5}{color=#A9A9A9}[tarrar_death_condition_description!ti]"
+    new "{color=#A9A9A9}Carry out a contract murder.{vspace=10}Additional term:{vspace=5}{color=#A9A9A9}[tarrar_death_condition_description!ti]"
+
+    # game/screens.rpy:1881
+    old "{i}{size=-7}(Таррар)"
+    new "{i}{size=-7}(Tarrare)"
+
+# TODO: Translation updated at 2024-12-21 22:41
+
+translate english strings:
+
+    # game/screens.rpy:2024
+    old "Alchemist's tools + Medicine + Antidote III + Waterskin + Strong ale{vspace=5}Alchemist's tools + Medicine + Antidote III + Waterskin + Wine bottle"
+    new "Alchemist's tools + Medicine + Antidote III + Waterskin + Strong ale{vspace=5}Alchemist's tools + Medicine + Antidote III + Waterskin + Wine bottle"
+# TODO: Translation updated at 2025-01-07 23:12
+
+translate english strings:
+
+    # game/screens.rpy:1723
+    old "*Bludgeoning attacks ignore an amount of enemy armor equal to the third of{vspace=1}your strength"
+    new "*Bludgeoning attacks ignore an amount of enemy armor equal to the third of{vspace=1}your strength"
+# TODO: Translation updated at 2025-02-20 21:20
+
+translate english strings:
+
+    # game/screens.rpy:1851
+    old "123"
+    new "123"
+
+    # game/screens.rpy:1858
+    old "Decorated Bastard sword"
+    new "Decorated Bastard sword"
+
+    # game/screens.rpy:1858
+    old "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}D{/size}{/color}{/font}ecorated Bastard sword"
+    new "{font=GoudyInitialen.ttf}{color=#8B0000}{size=+70}D{/size}{/color}{/font}ecorated Bastard sword"
+
+    # game/screens.rpy:1944
+    old "Exchanging Favors"
+    new "Exchanging Favors"
+
+    # game/screens.rpy:1944
+    old "{color=#A9A9A9}Бальи просит вас провести несколько тренировок для его людей и обещает за это{vspace=1}хорошую награду."
+    new "{color=#A9A9A9}The bailiff requests you to conduct some training for his men and promises{vspace=1}a good reward in return."
+
+    # game/screens.rpy:1944
+    old "{i}{size=-7}(Бальи Нормандии)"
+    new "{i}{size=-7}(Bailiff of Normandy)"
+
+    # game/screens.rpy:1945
+    old "City of Thieves"
+    new "City of Thieves"
+
+    # game/screens.rpy:1945
+    old "{color=#A9A9A9}Предотвратить разграбление продовольственных складов в Руане."
+    new "{color=#A9A9A9}Prevent the robbery of Rouen's food depots."
+
+    # game/screens.rpy:1950
+    old "Gangs of Paris"
+    new "Gangs of Paris"
+
+    # game/screens.rpy:1950
+    old "{color=#A9A9A9}Совершить убийство Рауля из Арагона, укрывающегося в лаборатории за городом."
+    new "{color=#A9A9A9}Assassinate Raoul of Aragon, who's ensconced in a lab outside of the city."
+
+    # game/screens.rpy:1950
+    old "{i}{size=-7}(Парижские бандиты)"
+    new "{i}{size=-7}(Parisian bandits)"
+
+    # game/screens.rpy:1951
+    old "Young Anselm's Sword"
+    new "Young Anselm's Sword"
+
+    # game/screens.rpy:1951
+    old "{color=#A9A9A9}Помочь юному Ансельму вернуть меч, проигранный им в кости одному из наёмников.{vspace=1}Или же раздобыть для него другой украшенный драгоценностями полуторный клинок."
+    new "{color=#A9A9A9}Help young Anselm retrieve his sword, which he lost in a game of dice{vspace=1}to one of the mercenaries. Or get him another decorated bastard sword."
+
+    # game/screens.rpy:1951
+    old "{i}{size=-7}(Ансельм)"
+    new "{i}{size=-7}(Anselm)"
+
+# TODO: Translation updated at 2025-02-25 16:37
+
+translate english strings:
+
+    # game/screens.rpy:1851
+    old "Rogue Man-at-arms"
+    new "Rogue Man-at-arms"
+
+    # game/screens.rpy:1852
+    old "Well-armed Bandit"
+    new "Well-armed Bandit"
+
+    # game/screens.rpy:1853
+    old "Gang Member"
+    new "Gang Member"
+
+    # game/screens.rpy:1854
+    old "Aragon Bandit"
+    new "Aragon Bandit"
+
+    # game/screens.rpy:1855
+    old "Raoul's bodyguard"
+    new "Raoul's bodyguard"
+
+# TODO: Translation updated at 2025-03-03 14:17
+
+translate english strings:
+
+    # game/screens.rpy:1868
+    old "Squad Member"
+    new "Squad Member"
+
+# TODO: Translation updated at 2025-05-13 14:44
+
+translate english strings:
+
+    # game/screens.rpy:49
+    old "Восстановить контроль над Виндзором, чтобы не допустить осады Лондона или подготовить город к обороне, чтобы отразить предстоящую атаку Кентербери."
+    new "Regain control of Windsor to prevent a siege of London or prepare the city for defense to repel Canterbury's imminent attack."
+
+    # game/screens.rpy:50
+    old "Подготовиться к наступлению на Оксфорд.{vspace=5}Численность ваших войск должна быть выше, чем у графа Кентербери.{vspace=5}Вы должны удерживать не менее 5 провинций.{vspace=5}Власть должна быть не меньше 50."
+    new "Prepare for an offensive on Oxford.{vspace=5}Your troop numbers should be higher than Count Canterbury's.{vspace=5}You must hold at least 5 provinces.{vspace=5}Your Authority must be no less than 50."
+
+    # game/screens.rpy:51
+    old "Cобрать армию, превосходящую войска Нортхэмптона по численности.{vspace=5}Удерживать не меньше 4 провинций из списка: Гринвич, Дартфорд, Чиппенхэм, Бристоль, Виндзор."
+    new "Gather an army that outnumbers Northampton's troops.{vspace=5}Hold at least 4 provinces from the following list: Greenwich, Dartford, Chippenham, Bristol, Windsor."
+
+    # game/screens.rpy:52
+    old "Cобрать армию, превосходящую войска Нортхэмптона по численности.{vspace=5}Удерживать не меньше 4 провинций из списка: Гринвич, Дартфорд, Чиппенхэм, Бристоль, Виндзор.{vspace=5}Не допустить проникновения шотландских войск в центральные регионы королевства."
+    new "Gather an army that outnumbers Northampton's troops.{vspace=5}Hold at least 4 provinces from the following list: Greenwich, Dartford, Chippenham, Bristol, Windsor.{vspace=5}Prevent Scottish troops from invading the central regions of the kingdom."
+
+    # game/screens.rpy:53
+    old "Обеспечить безопасность и процветание своего королевства, а также убедиться, что трон прочно закреплен за вашими наследниками."
+    new "Ensure the safety and prosperity of your kingdom and make sure that the throne is firmly secured for your heirs."
+
+    # game/screens.rpy:55
+    old "Захватить Мейдстоун и Кембридж.{vspace=5}Не допустить захвата шотландскими войсками Виндзора."
+    new "Capture Maidstone and Cambridge.{vspace=5}Prevent Scottish troops from capturing Windsor."
+
+    # game/screens.rpy:56
+    old "Восстановить контроль над Виндзором и собрать боеспособную армию для защиты королевства."
+    new "Regain control of Windsor and assemble a capable army to defend the kingdom."
+
+# TODO: Translation updated at 2025-05-19 23:27
+
+translate english strings:
+
+    # game/screens.rpy:863
+    old "Cassandra"
+    new "Cassandra"
+
