@@ -4,7 +4,7 @@
 
 
 ## ❤️ 如果你只是想玩游戏不关心代码
-无代码，直接下载release里最新的Assets里的game.zip，解压后你会得到一个game文件夹，你不用管这是啥，直接将其复制到你的游戏目录
+无代码，直接下载release里最新的Assets里的game.zip，解压后你会得到一个game文件夹，进入这个文件夹，里面有一堆文件+另一个game文件夹，把这一堆东西复制到，直接将其复制到你的游戏目录
 
 目录为：你steam安装的地方`/steamapps/common/Heads Will Roll Reforged/`
 
